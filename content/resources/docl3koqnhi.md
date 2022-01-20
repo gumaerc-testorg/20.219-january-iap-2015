@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/337b7fa265dba21ee56453356eb8c533_Docl3KOqnHI.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 337b7fa2-65db-a21e-e564-53356eb8c533
+---
