@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Joshua Cheong's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Rough Cut
 uid: 72d868a6-41ec-c22a-61b3-a53e3da94cc4
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D11_Rough_Cut_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/d598406741d65ae39ad1a3bc95d623ee_W7LI4nNxk64.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/d598406741d65ae39ad1a3bc95d623ee_W7LI4nNxk64.vtt
   video_thumbnail_file: https://img.youtube.com/vi/W7LI4nNxk64/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/b16c17d553b73dc354617bb26c1a6f64_W7LI4nNxk64.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/b16c17d553b73dc354617bb26c1a6f64_W7LI4nNxk64.pdf
 video_metadata:
   youtube_id: W7LI4nNxk64
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Projects
+parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Paul (PJ) Folino's Project
 uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
@@ -178,7 +181,7 @@ Here we have ORCA I and ORCA II from before. Even though these boxes don't engag
 
 If we remove the tops of both boxes and take a look inside _(Video a close up of removing the decks, just audio voice), (back to presenting)_ we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't. These compartments are watertight _(point to ORCA II compartments)_; even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated. We refer to ORCA II as being subdivided.
 
-_(Back to CU)_ It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5th century, show that water could enter ships without sinking. So let's find out why this happens.
+_(Back to CU)_ It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
 
 Well, when we divide the ship into watertight compartments, we are limiting the amount of water that can enter it. If we divided a ship into 10 equal size compartments, and one sprung a leak, then only that compartment would flood. This would cause the ship to heel and trim, but it wouldn't cause a complete loss of ship and cargo, and the ship would hobble into port and get repairs. But why does this all matter?
 
@@ -216,7 +219,7 @@ Here we have ORCA I and ORCA II from before. Even though these boxes don't engag
 
 If we remove the tops of both boxes and take a look inside _(Video a close up of removing the decks, just audio voice), (back to presenting)_ we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't. These compartments are watertight _(point to ORCA II compartments)_; even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated. We refer to ORCA II as being subdivided.
 
-_(Back to CU)_ It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5th century, show that water could enter ships without sinking. So let's find out why this happens.
+_(Back to CU)_ It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
 
 Well, when we divide the ship into watertight compartments, we are limiting the amount of water that can enter it. If we divided a ship into 10 equal size compartments, and one sprung a leak, then only that compartment would flood. This would cause the ship to heel and trim, but it wouldn't cause a complete loss of ship and cargo, and the ship would hobble into port and get repairs. But why does this all matter?
 
@@ -293,7 +296,7 @@ _(New angle, same setting as above)_ These compartments are watertight _(point t
 
 _(In plans room with ships plans laid out)_ We refer to ORCA II as being subdivided, and we can see subdivision in many of these ship's plans (CU to _pointing to subdivision_).
 
-_(Back to CU)_ It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5th century, show that water could enter ships without sinking. So let's find out why this happens.
+_(Back to CU)_ It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
 
 To Shoot:
 

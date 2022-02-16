@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Projects
+parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Yuliya Klochan's Project
 uid: 199a8a68-327f-ee7d-62ee-54642710c541
@@ -119,8 +122,7 @@ Save the world with math. No superpowers required.
 
 **The End**
 
-[_Link back to Day 2  
-_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)  
 
 {{< anchor "Day_3_Trailer:_Fractals_" >}}{{< /anchor >}}Day 3 Trailer: Fractals!
 --------------------------------------------------------------------------------
@@ -229,8 +231,7 @@ Look around you. What beautiful patterns do you see?
 
 **The End**
 
-[_Link back to Day 5  
-_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)  
 
 {{< anchor "Fractals__Script_Revisited" >}}{{< /anchor >}}Day 6 Fractals! Script Revisited
 ------------------------------------------------------------------------------------------
@@ -281,8 +282,7 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 
 Look around you. What beautiful patterns do you see?
 
-[_Link back to Day 6  
-_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)
+[_Link back to Day 6_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)  
 
 {{< anchor "DAY_7_Script__Fractals__" >}}{{< /anchor >}}Day 7 Script (Fractals!)
 --------------------------------------------------------------------------------
@@ -340,7 +340,7 @@ Look around you. What beautiful patterns do you see?
 
 *   Stata: Dark black / blue clothing to contrast murals; Props: Chalk, tissue, cell phone
 *   Outdoors: Light blue winter jacket, black pants and gloves
-*   EC Shower: Flip flops, I <3 MIT T shirt, black sports pants; Props: Sponge, soap, cup, towel, phone (anything glued on?)
+*   EC Shower: Flip flops, I \<3 MIT T shirt, black sports pants; Props: Sponge, soap, cup, towel, phone (anything glued on?)
 *   Office / Indoor Locations: Blue dress; Props: Laptop, bent wire (string?)
 
 ### Locations
@@ -367,8 +367,7 @@ Look around you. What beautiful patterns do you see?
 
 *   "At the time, Cohen was having troubles with his landlord. The man wouldn't let him put a radio antenna on the roof! So, Cohen decided to make a more compact, fractal radio antenna instead _(show wire bent as Koch snowflake.)_ The landlord didn't notice it. And it worked better than the ones before! Working further, Cohen designed a new version, this time using a fractal called "the Menger Sponge" _(build a tangible model of the Sponge, and show it)_."
 
-[_Link back to Day 8  
-_]({{< baseurl >}}/pages/days-8-9-10-project-time#Student_Work)
+[_Link back to Day 8_]({{< baseurl >}}/pages/days-8-9-10-project-time#Student_Work)  
 
 {{< anchor "Fractals__Rough_Cut" >}}{{< /anchor >}}Fractals! Rough Cut
 ----------------------------------------------------------------------

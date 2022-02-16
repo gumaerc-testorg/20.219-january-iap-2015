@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Reflections
+parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Kenneth Cheah's Reflections
 uid: e9794c3b-05c8-8173-ff70-a55f9946067b

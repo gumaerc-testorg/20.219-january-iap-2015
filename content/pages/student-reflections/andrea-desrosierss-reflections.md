@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Reflections
+parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Andrea Desrosiers' Reflections
 uid: 0a26ad07-4929-732e-5270-b0bfe8bbced9
@@ -37,7 +40,7 @@ So that's why I tried to pivot my idea for a pitch to something more for a 10–
 {{< anchor "Day_2_Andrea_s_Struggles" >}}{{< /anchor >}}Day 2 - Andrea's Struggles
 ----------------------------------------------------------------------------------
 
-If there is one thing I have gotten out of my MIT experience, it's the importance of running your ideas by the audience / customer early, and often. The 6th graders that were brought into the class for that purpose were surprisingly well read and engaged. I was happy to see a few shy ones coming out of their shells to talk a bit - mostly because these kids are reflections of me at that age. I enjoyed the skipping from topic to topic that the kids tend to do - it keeps me on my feet and I like trying to follow their thought processes as they respond to various stimuli. I will try to remember this "frequent cut" process as I put together my video. I'm hoping this can keep people engaged.
+If there is one thing I have gotten out of my MIT experience, it's the importance of running your ideas by the audience / customer early, and often. The 6{{< sup "th" >}} graders that were brought into the class for that purpose were surprisingly well read and engaged. I was happy to see a few shy ones coming out of their shells to talk a bit - mostly because these kids are reflections of me at that age. I enjoyed the skipping from topic to topic that the kids tend to do - it keeps me on my feet and I like trying to follow their thought processes as they respond to various stimuli. I will try to remember this "frequent cut" process as I put together my video. I'm hoping this can keep people engaged.
 
 One kid (boy) in particular I really got a kick out of. His favorite phrase is to add - ish to anything (Yes - ish, like - ish). He was also the kid who made up a character when I asked about favorite superheroes - it's nice to see so much imagination. I also liked how blunt the kids were with each other, and it's a reminder that there is such a thing as being too diplomatic.
 

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Yuliya Klochan's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Day 1 G\xF6del's Theorem Video Pitch"
 uid: 8e63c182-7651-0bb9-9b75-2c2254bc2a59
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_D01_Pitch_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/a5c416a424c857e9816834ac72fb4e29_AHJDrCiXNRA.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/a5c416a424c857e9816834ac72fb4e29_AHJDrCiXNRA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/AHJDrCiXNRA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/5790b452bfcbb2d989051a27ed4fa05a_AHJDrCiXNRA.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/5790b452bfcbb2d989051a27ed4fa05a_AHJDrCiXNRA.pdf
 video_metadata:
   youtube_id: AHJDrCiXNRA
 ---

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Nathan Hernandez's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Rough Cut: Breaking Down Decomposition'
 uid: efa8ff07-330a-2e85-8521-901f6add332b
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D11_Rough_Cut_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/18fb5682c6cd527eb3afb044e656a0a3_RINP7d9ohaw.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/18fb5682c6cd527eb3afb044e656a0a3_RINP7d9ohaw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/RINP7d9ohaw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/dc05590ec70d0c58d6f4afdffdb9ffad_RINP7d9ohaw.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/dc05590ec70d0c58d6f4afdffdb9ffad_RINP7d9ohaw.pdf
 video_metadata:
   youtube_id: RINP7d9ohaw
 ---

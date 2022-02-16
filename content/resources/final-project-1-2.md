@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Yuliya Klochan's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Final Project
 uid: f9828400-95e8-4546-a040-5fb6f1e60de4
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_D13_Final_Project_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/08c9297a0c8e594fa9476801f3eedc79_tgUyvasUtbA.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/08c9297a0c8e594fa9476801f3eedc79_tgUyvasUtbA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/tgUyvasUtbA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/4906744f70243f1c94b5aba13800052c_tgUyvasUtbA.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/4906744f70243f1c94b5aba13800052c_tgUyvasUtbA.pdf
 video_metadata:
   youtube_id: tgUyvasUtbA
 ---

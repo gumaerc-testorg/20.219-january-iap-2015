@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 526193cf-30da-cdf1-c673-4faab57d51d7
 ---
@@ -77,20 +79,6 @@ None
 
 20.219 is a Selected Topics course in Biological Engineering; different offerings feature different topics. This was the first semester that _Becoming the Next Bill Nye_ was offered.
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Seven students and an instructor sit at tables arranged in a u-shape. Two people have open laptops in front of them.]({{< resource_file e796619b-21ad-bf0a-a4ed-c8906fede6a6 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lectures and Workshops
-    
-    Lectures and workshop sessions were held in a classroom with moveable tables and chairs. Blackboards, whiteboards, and A/V equipment were available.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
 Assessment
@@ -115,7 +103,7 @@ _Class participation_
 
 _Daily blog/vlog reflections_
 
-*   Students were expected to upload documentation of their process/difficulties/lessons learned in completing assignments or insights gained from class workshops. This took the form of a written blog post reflection, photos, a “selfie” video (<2 min.), or other creative media format of their choice.
+*   Students were expected to upload documentation of their process/difficulties/lessons learned in completing assignments or insights gained from class workshops. This took the form of a written blog post reflection, photos, a “selfie” video (\<2 min.), or other creative media format of their choice.
 *   Daily assignments were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no or late work).
 
 _Workshop products_
@@ -125,7 +113,7 @@ _Workshop products_
 
 _Final project_
 
-Students’ work culminated in a <5 min. episode. Individual grades reflected 65% of a student’s own work (script, hosting, etc.) and 35% the production he or she did for his or her partner (filming).
+Students’ work culminated in a \<5 min. episode. Individual grades reflected 65% of a student’s own work (script, hosting, etc.) and 35% the production he or she did for his or her partner (filming).
 
 ### Rubrics
 

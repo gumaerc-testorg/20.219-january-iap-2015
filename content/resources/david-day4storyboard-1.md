@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/86d973e5b71d75a7feeaff97bb2b03e0_David-day4storyboard-1.jpg
+file: /media/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/86d973e5b71d75a7feeaff97bb2b03e0_David-day4storyboard-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: David Yam's Project
+parent_type: CourseSection
 resourcetype: Image
 title: David-day4storyboard-1.jpg
 uid: 86d973e5-b71d-75a7-feea-ff97bb2b03e0

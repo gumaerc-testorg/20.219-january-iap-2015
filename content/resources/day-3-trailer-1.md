@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Joshua Cheong's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Day 3 Trailer
 uid: 5cba30d1-5ae4-6975-0f9f-36b6aee5dd34
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D03_Pitch_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/e254eb67820e5ff39d8e8524e0a51246_RMRI-Q3PMLE.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/e254eb67820e5ff39d8e8524e0a51246_RMRI-Q3PMLE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/RMRI-Q3PMLE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3b68c59266aa310b425a2d0eefd56a73_RMRI-Q3PMLE.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3b68c59266aa310b425a2d0eefd56a73_RMRI-Q3PMLE.pdf
 video_metadata:
   youtube_id: RMRI-Q3PMLE
 ---

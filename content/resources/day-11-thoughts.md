@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Elizabeth Choe's Reflections
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Day 11 Thoughts
 uid: fe7601ee-9224-9d5b-c7b3-50cb9c8bf95f
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_EC_D11_Reflections_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/8bc8b2422c5551a5874c81604b519459_YjZKOZqsOzM.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/8bc8b2422c5551a5874c81604b519459_YjZKOZqsOzM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/YjZKOZqsOzM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/763527358757198111874102b2f88b24_YjZKOZqsOzM.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/763527358757198111874102b2f88b24_YjZKOZqsOzM.pdf
 video_metadata:
   youtube_id: YjZKOZqsOzM
 ---

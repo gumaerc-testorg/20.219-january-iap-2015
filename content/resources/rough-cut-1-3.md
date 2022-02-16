@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Paul (PJ) Folino's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Rough Cut
 uid: 1720fd56-2daa-9292-c39c-540daed6a7a8
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PJ_D11_Rough_Cut_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2ce977c014a45e91aa09a7d66800f9e4_RMSuV5fwCnE.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2ce977c014a45e91aa09a7d66800f9e4_RMSuV5fwCnE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/RMSuV5fwCnE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2d2a2dc778fb84e3cbb8e9fd722a8493_RMSuV5fwCnE.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2d2a2dc778fb84e3cbb8e9fd722a8493_RMSuV5fwCnE.pdf
 video_metadata:
   youtube_id: RMSuV5fwCnE
 ---

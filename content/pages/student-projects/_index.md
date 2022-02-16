@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Student Projects
 uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 ---

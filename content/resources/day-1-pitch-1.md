@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Kenneth Cheah's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Day 1 Pitch
 uid: 26391e26-87c9-c57e-242b-c6c91217dd27
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_KC_D01_Pitch_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/4ad4fac3c3a25e5abab8e9605ad75171_GXvoGKLnGn8.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/4ad4fac3c3a25e5abab8e9605ad75171_GXvoGKLnGn8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/GXvoGKLnGn8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/4e3517a5514f591d90decd50f9c55e73_GXvoGKLnGn8.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/4e3517a5514f591d90decd50f9c55e73_GXvoGKLnGn8.pdf
 video_metadata:
   youtube_id: GXvoGKLnGn8
 ---

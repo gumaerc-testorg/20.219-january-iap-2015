@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Joshua Cheong's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Day 1 Pitch
 uid: 6df84a8a-1b67-ed95-08ef-1677b6dfdd4d
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D01_Pitch_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/011118abd51e55438fc28514a0ea815b_0BmWrrZq5A4.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/011118abd51e55438fc28514a0ea815b_0BmWrrZq5A4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0BmWrrZq5A4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/20fc5bce9579a9cfc2d1d5f0a05d1b96_0BmWrrZq5A4.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/20fc5bce9579a9cfc2d1d5f0a05d1b96_0BmWrrZq5A4.pdf
 video_metadata:
   youtube_id: 0BmWrrZq5A4
 ---

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Ceri Riley's Reflections
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Reflection Day 3
 uid: b1607e6f-0fde-fab5-87cb-3d3d9444e21d
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_CR_D03_Reflections_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/a9b19c4fa81e5611b0390afc033ca261_DpqY4j3nK3A.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/a9b19c4fa81e5611b0390afc033ca261_DpqY4j3nK3A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/DpqY4j3nK3A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ebbf21d2836d24f191de089be5988c48_DpqY4j3nK3A.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ebbf21d2836d24f191de089be5988c48_DpqY4j3nK3A.pdf
 video_metadata:
   youtube_id: DpqY4j3nK3A
 ---

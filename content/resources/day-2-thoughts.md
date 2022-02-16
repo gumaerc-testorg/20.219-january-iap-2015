@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Nathan Hernandez's Reflections
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Day 2 Thoughts
 uid: b1874025-c2cf-6690-52e9-a4c16b51a0c2
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D02_Reflections_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/999d0fdf2e7a57148bb740ffc9c0f8d1_RAYbryTHOMA.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/999d0fdf2e7a57148bb740ffc9c0f8d1_RAYbryTHOMA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/RAYbryTHOMA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/81fda60b007e25d1fa453c29cb09a545_RAYbryTHOMA.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/81fda60b007e25d1fa453c29cb09a545_RAYbryTHOMA.pdf
 video_metadata:
   youtube_id: RAYbryTHOMA
 ---

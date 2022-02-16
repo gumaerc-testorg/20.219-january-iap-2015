@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Day 4: Storyteller''s Toolkit Pt. 2'
 uid: 60a6ea96-1026-802d-98a9-351ce3b38557
 ---

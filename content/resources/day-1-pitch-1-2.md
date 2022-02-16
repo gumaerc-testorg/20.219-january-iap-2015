@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Nathan Hernandez's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Day 1 Pitch
 uid: eca079a7-89cb-91ce-f2c3-d73770b56f42
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D01_Pitch_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/a7c35ead8bb05334820893d68fe64fc5_5DpVemTczV8.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/a7c35ead8bb05334820893d68fe64fc5_5DpVemTczV8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/5DpVemTczV8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/bc4d2641645d446d81142bce8b64013d_5DpVemTczV8.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/bc4d2641645d446d81142bce8b64013d_5DpVemTczV8.pdf
 video_metadata:
   youtube_id: 5DpVemTczV8
 ---

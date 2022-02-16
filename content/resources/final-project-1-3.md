@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: David Yam's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Final Project
 uid: e20750fc-deb9-1df0-5596-a4962fafd5bf
 video_files:
   archive_url: https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_DY_D13_Final_Project_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/1cb3fa4b71e151d6a9c28091f3116629_aFwEKt4rD9w.vtt
+  video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/1cb3fa4b71e151d6a9c28091f3116629_aFwEKt4rD9w.vtt
   video_thumbnail_file: https://img.youtube.com/vi/aFwEKt4rD9w/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/a181c300947cd38c4f9a7604bb9a6343_aFwEKt4rD9w.pdf
+  video_transcript_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/a181c300947cd38c4f9a7604bb9a6343_aFwEKt4rD9w.pdf
 video_metadata:
   youtube_id: aFwEKt4rD9w
 ---

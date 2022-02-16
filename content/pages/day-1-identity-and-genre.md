@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Day 1: Identity and Genre'
 uid: e7ab07a5-9bf4-78a1-8a95-a815093ec211
 ---
@@ -459,7 +461,7 @@ What's one aspect of science / engineering that you find fascinating? Can you te
 
 ### Daily Blog / Vlog
 
-Provide documentation on your process / difficulties in completing this assignment. This can take the form of a written blog post reflection, photos, another "selfie" video (<2 min.), or other creative media format of your choice. Upload the post to the class tumblr with the tag #day1**.**
+Provide documentation on your process / difficulties in completing this assignment. This can take the form of a written blog post reflection, photos, another "selfie" video (\<2 min.), or other creative media format of your choice. Upload the post to the class tumblr with the tag #day1**.**
 
 {{< resource 65f744ef-7f70-e789-ec6e-5547880b4d12 >}}
 

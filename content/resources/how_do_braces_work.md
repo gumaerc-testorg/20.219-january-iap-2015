@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c814668f0d4bafb15c2b71f658221295_how_do_braces_work.srt
+file: /media/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c814668f0d4bafb15c2b71f658221295_how_do_braces_work.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: how_do_braces_work.srt
 uid: c814668f-0d4b-afb1-5c2b-71f658221295

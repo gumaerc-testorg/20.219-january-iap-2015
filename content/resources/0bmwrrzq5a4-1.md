@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/20fc5bce9579a9cfc2d1d5f0a05d1b96_0BmWrrZq5A4.pdf
+file: /media/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/20fc5bce9579a9cfc2d1d5f0a05d1b96_0BmWrrZq5A4.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 20fc5bce-9579-a9cf-c2d1-d5f0a05d1b96

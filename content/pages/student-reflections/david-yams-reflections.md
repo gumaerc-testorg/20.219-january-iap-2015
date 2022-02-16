@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Reflections
+parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: David Yam's Reflections
 uid: 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564
@@ -36,7 +39,7 @@ All in all I thank God for this course and hope it goes well. \*crossesfingers\*
 **{{< anchor "David_Yam_Day_2_Thoughts" >}}{{< /anchor >}}**Day 2 Thoughts
 --------------------------------------------------------------------------
 
-Wow. It surely was interesting pitching ideas to 6th grade students. It was like trying to angle whatever I know and feel to be interesting in such a way that they'd also understand it. It sure was a difficult task. And one that came unannounced until 12.10 in the afternoon. Was kind of disappointed that none of my ideas were mentioned as favorites of the kids there though, but then again its pretty hard to compete with lots of the other great ideas that the other students had about robots and bracers. I'd be very interested to watch videos about such things they had mentioned also!
+Wow. It surely was interesting pitching ideas to 6{{< sup "th" >}} grade students. It was like trying to angle whatever I know and feel to be interesting in such a way that they'd also understand it. It sure was a difficult task. And one that came unannounced until 12.10 in the afternoon. Was kind of disappointed that none of my ideas were mentioned as favorites of the kids there though, but then again its pretty hard to compete with lots of the other great ideas that the other students had about robots and bracers. I'd be very interested to watch videos about such things they had mentioned also!
 
 Wondering how on earth the subsequent days of filming and editing will go. It seems that many of my thoughts seem to be described with animations, similar to those numerous videos of Ted-Ed that I was watching in Singapore before flying over here. But it was clear from today's lecture that animations would be a difficult task to do within such a short time of 3 weeks. What method would I then possibly use to flash out a reasonable video within this time period? Possibly stop-motion cameras / holding out drawn objects.
 
@@ -108,7 +111,7 @@ One thing I would like to mention was that at the start I was torn between 2 pro
 1.  What makes math problems too hard to solve?
 2.  How does one survive the cold?
 
-I ended up doing qn 2 only after much debate because of feedback from the 6th graders, Elizabeth as well as finding a succinct and concise YouTube video on "P vs NP". I feel now that maybe doing the whole video on "cold" is not something within my area of specialty and possibly a further improvement would be to do one within that.
+I ended up doing qn 2 only after much debate because of feedback from the 6{{< sup "th" >}} graders, Elizabeth as well as finding a succinct and concise YouTube video on "P vs NP". I feel now that maybe doing the whole video on "cold" is not something within my area of specialty and possibly a further improvement would be to do one within that.
 
 Another area of improvement would be delivery and hosting. I felt that certain other videos had better hosting compared to mine. One reason was that I was unsure in front of the camera, and I feel the answer to this is just more practice and keeping the script only to main points. The second reason was that at the start of the storyboard I was having a more "Ted-Ed" (voice speaking with animation) mindset to creating the whole video.
 

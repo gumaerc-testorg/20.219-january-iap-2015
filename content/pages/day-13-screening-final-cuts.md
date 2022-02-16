@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Day 13: Screening (Final Cuts)'
 uid: 2dc5287f-35ed-e833-9c9b-93f4238ac687
 ---

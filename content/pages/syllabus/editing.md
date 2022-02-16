@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 203eeb3a-4839-933a-901c-efa7c34f24d7
 title: Editing
 uid: eaf1ea87-2e1a-06ea-9cf1-bc2e13afad12

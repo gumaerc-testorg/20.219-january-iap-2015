@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Day 2: Audience'
 uid: 3da88bd7-fc04-b288-6227-11604ae6a159
 ---

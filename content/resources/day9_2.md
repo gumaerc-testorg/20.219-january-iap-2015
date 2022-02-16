@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ffa1ce4a916322fb1029c540ad7d416a_day9_2.jpg
+file: /media/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ffa1ce4a916322fb1029c540ad7d416a_day9_2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Elizabeth Choe's Reflections
+parent_type: CourseSection
 resourcetype: Image
 title: day9_2.jpg
 uid: ffa1ce4a-9163-22fb-1029-c540ad7d416a

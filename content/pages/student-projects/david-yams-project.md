@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Projects
+parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: David Yam's Project
 uid: a70c0b56-5698-6d46-0ee2-e877495297b2
@@ -21,8 +24,8 @@ Contents
 *   [Rough Cut](#Rough_Cut)
 *   [Final Project](#Final_Project)
 
-{{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Why Do I Feel Cold and You Don't? (1st Draft)
--------------------------------------------------------------------------------------------------------
+{{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Why Do I Feel Cold and You Don't? (1{{< sup "st" >}} Draft)
+---------------------------------------------------------------------------------------------------------------------
 
 Why do some people handle cold better than others? Why is it that some are so fearful of the cold; that they rather die than be caught outside without all the winter gear on, mask an all, while others can wear one layers for a morning jog? What makes all the difference?
 

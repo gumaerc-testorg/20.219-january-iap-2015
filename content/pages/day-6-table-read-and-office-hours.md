@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Day 6: Table-read and Office Hours'
 uid: 7c38a44e-5ebb-8403-cf21-c2adc0137e4b
 ---
