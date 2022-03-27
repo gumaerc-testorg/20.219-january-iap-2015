@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Planning Backwards
 parent_type: CourseSection
+parent_uid: a0230e42-8e9a-fc43-9b16-25558c1717d3
 resourcetype: Image
 title: jaime-student.jpg
 uid: 7ca30a54-e6b3-776a-0f28-ea4f9af05bc7

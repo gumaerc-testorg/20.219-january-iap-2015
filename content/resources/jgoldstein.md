@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the Instructors
 parent_type: CourseSection
+parent_uid: 32b7558a-888d-a05c-b9fc-29fe9381506b
 resourcetype: Image
 title: JGoldstein.jpg
 uid: bae3a944-1a43-8fba-34df-8b4d9a3cd482

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 526193cf-30da-cdf1-c673-4faab57d51d7
 resourcetype: Image
 title: intro_thumb.png
 uid: 20aaa26b-64c8-0889-f98a-21c1e21f9877

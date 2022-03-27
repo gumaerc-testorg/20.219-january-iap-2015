@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Day 7: Table-read and Post-production'
 parent_type: CourseSection
+parent_uid: d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d
 resourcetype: Document
 title: Midpoint Survey
 uid: 0ca33476-042a-8cc2-e31d-cdf2b7e2848d

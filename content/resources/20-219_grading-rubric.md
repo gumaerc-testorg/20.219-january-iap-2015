@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 526193cf-30da-cdf1-c673-4faab57d51d7
 resourcetype: Document
 title: 20-219_grading-rubric.pdf
 uid: 1c8f9dac-c806-d40a-0a6e-eff8bf37d8d7

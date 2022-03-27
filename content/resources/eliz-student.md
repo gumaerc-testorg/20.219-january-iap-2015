@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Grading and Feedback in a Course Focused on Creative Work
 parent_type: CourseSection
+parent_uid: f1e55a73-f7ce-a5df-7f8c-3cdb40b62292
 resourcetype: Image
 title: eliz-student.jpg
 uid: 37011140-a3c8-f5a4-ebbe-dc719bf5438d

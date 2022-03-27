@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Yuliya Klochan's Project
 parent_type: CourseSection
+parent_uid: 199a8a68-327f-ee7d-62ee-54642710c541
 resourcetype: Image
 title: work8YulKlochan1.jpg
 uid: 1e45e705-75a1-3a24-7cc5-d10d2834b79e

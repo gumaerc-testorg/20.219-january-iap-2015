@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Andrea Desrosiers' Project
 parent_type: CourseSection
+parent_uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 resourcetype: Image
 title: 20.219projects.jpg
 uid: 182713a0-4805-d0b5-37a7-3837f06c2b75

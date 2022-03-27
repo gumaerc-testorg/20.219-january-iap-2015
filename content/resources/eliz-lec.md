@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Planning Backwards
 parent_type: CourseSection
+parent_uid: a0230e42-8e9a-fc43-9b16-25558c1717d3
 resourcetype: Image
 title: eliz-lec.jpg
 uid: fa64ae45-0481-4282-31e0-eafef25a5aab

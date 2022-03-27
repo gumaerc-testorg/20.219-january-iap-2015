@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Nathan Hernandez's Project
 parent_type: CourseSection
+parent_uid: 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4
 resourcetype: Image
 title: Nathan-day4storyboard-1.jpg
 uid: ca053e7d-2a25-b1c3-5da7-d32369a2ddda

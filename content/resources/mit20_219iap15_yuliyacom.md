@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Days 11 & 12: Screening (Rough Cuts)'
 parent_type: CourseSection
+parent_uid: 91a83a5a-9923-d001-da64-fbbcd37341cb
 resourcetype: Document
 title: Comments on Yuliya's Rough Cut
 uid: d258a936-561f-f118-5517-476f739b6230

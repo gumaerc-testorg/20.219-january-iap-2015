@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: David Yam's Project
 parent_type: CourseSection
+parent_uid: a70c0b56-5698-6d46-0ee2-e877495297b2
 resourcetype: Image
 title: David-day4storyboard-2.jpg
 uid: cf66a17e-35e4-c122-dff4-d39286042c31

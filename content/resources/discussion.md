@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Cultivating a Healthy Classroom Culture
 parent_type: CourseSection
+parent_uid: 21d57d5a-7bfd-9ae9-4ece-2d578ddbf16c
 resourcetype: Image
 title: discussion.jpg
 uid: e5a87dcd-e921-d5db-5341-53a1d5c4a60c

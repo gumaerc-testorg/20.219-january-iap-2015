@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the Instructors
 parent_type: CourseSection
+parent_uid: 32b7558a-888d-a05c-b9fc-29fe9381506b
 resourcetype: Image
 title: EChoe.jpg
 uid: a0430245-007f-3234-3f08-0b4ff6edd325

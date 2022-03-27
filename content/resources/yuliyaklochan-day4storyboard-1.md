@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Yuliya Klochan's Project
 parent_type: CourseSection
+parent_uid: 199a8a68-327f-ee7d-62ee-54642710c541
 resourcetype: Image
 title: YuliyaKlochan-day4storyboard-1.jpg
 uid: 2636f62e-5962-0991-db84-bb783891c615

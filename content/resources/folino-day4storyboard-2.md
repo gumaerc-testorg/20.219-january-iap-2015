@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Paul (PJ) Folino's Project
 parent_type: CourseSection
+parent_uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 resourcetype: Image
 title: Folino-day4storyboard-2.jpg
 uid: 7541c31a-d8c8-ba1b-4794-4707325cfbf2

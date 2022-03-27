@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Grading and Feedback in a Course Focused on Creative Work
 parent_type: CourseSection
+parent_uid: f1e55a73-f7ce-a5df-7f8c-3cdb40b62292
 resourcetype: Image
 title: jaime-student-2.jpg
 uid: 32fb47cf-ace3-41f6-81c7-97a704b155e6
