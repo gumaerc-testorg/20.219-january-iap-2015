@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1659'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Day 4: Storyteller''s Toolkit Pt. 2'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '894'
 title: Examples of animation from Science Out Loud
 uid: 43f16dbe-09b7-ebc4-81f3-14cc07640c44
 video_files:

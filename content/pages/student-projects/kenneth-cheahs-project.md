@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Projects
@@ -9,7 +10,7 @@ title: Kenneth Cheah's Project
 uid: a8052e86-91ed-d84e-9df2-c28f872ebec6
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects) | [Next]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project) »
+« {{% resource_link 6df56ca8-6d88-4c27-d497-aee73b724945 "Previous" %}} | {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Next" %}} »
 
 [_Link to_ _Kenneth Cheah's Page on Tumblr_](http://mit219.tumblr.com/tagged/cheahyhk)
 
@@ -32,7 +33,7 @@ Contents
 
 This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Script for "IS Time Travel Possible?!"
 ------------------------------------------------------------------------------------------------
@@ -70,7 +71,7 @@ With more mass, it takes a lot more energy to move the object at the same speed,
 Is it thus really impossible to travel back in time? We know we can travel forward (not efficiently), and maybe science has just not yet uncovered the holy grail of it all. Maybe one day, we would encounter time travellers, and know more about how possible or impossible this feat could be.  
 In the meantime though, I guess we could continue hosting more time traveller parties, maybe they just didn't like hawkings?
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_3_Trailer" >}}{{< /anchor >}}Day 3 Trailer
 ----------------------------------------------------------
@@ -81,14 +82,14 @@ This video is courtesy of [Kenneth Cheah](http://mit219.tumblr.com/tagged/cheahy
 
 Brief summary and trailer or video!
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_4_Story_Board" >}}{{< /anchor >}}Day 4 Story Board
 ------------------------------------------------------------------
 
-![20.219inline1.jpg]({{< resource_file 21c75ec9-8e87-be43-eb71-a1cf0bad8d2b >}})![20.219inline2.jpg]({{< resource_file cbe2a250-57a8-f12c-8ba3-929eaca755d7 >}})
+{{< resource 21c75ec9-8e87-be43-eb71-a1cf0bad8d2b >}}{{< resource cbe2a250-57a8-f12c-8ba3-929eaca755d7 >}}
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Script_Draft_2" >}}{{< /anchor >}}Script Draft 2
 ------------------------------------------------------------
@@ -137,7 +138,7 @@ Even if we did manage to put in more energy, we might not be actually increasing
 Is it thus really impossible to travel back in time? We know we can travel forward (not efficiently), and maybe science has just not yet uncovered the holy grail of it all. Maybe one day, we would encounter time travelers, and know more about how possible or impossible this feat could be.  
 In the meantime though, I guess we could continue hosting more time traveler parties in hope that one of them would finally see a guest from the future.
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 --------------------------------------------------
@@ -146,7 +147,7 @@ In the meantime though, I guess we could continue hosting more time traveler par
 
 This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
 
 {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 ----------------------------------------------------------
@@ -168,6 +169,6 @@ Production Assistant: Yuliya and PJ
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108827817581/is-time-travel-possible-creative-commons-cc)
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
 
-« [Previous]({{< baseurl >}}/pages/student-projects) | [Next]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project) »
+« {{% resource_link 6df56ca8-6d88-4c27-d497-aee73b724945 "Previous" %}} | {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Next" %}} »

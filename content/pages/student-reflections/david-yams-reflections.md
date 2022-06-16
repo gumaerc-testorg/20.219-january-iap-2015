@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the reflections (in the form of blogs and vlogs)
+  of David Yam on the course and the course project.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Reflections
@@ -9,7 +11,7 @@ title: David Yam's Reflections
 uid: 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections)
+« {{% resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Previous" %}}
 
 [Day 1](#First_Day) | [Day 2](#David_Yam_Day_2_Thoughts) | [Day 4](#Day_4) | [Day 5](#_Day_5_Reflections) | [Day 6](#_Day_6_Reflections) | [Day 11](#Day_11_Thoughts) | [Final Reflections](#Final_Reflections)
 
@@ -34,7 +36,7 @@ One thing I hope to take away from this would be to be able to speak effectively
 
 All in all I thank God for this course and hope it goes well. \*crossesfingers\*
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "David_Yam_Day_2_Thoughts" >}}{{< /anchor >}}**Day 2 Thoughts
 --------------------------------------------------------------------------
@@ -43,7 +45,7 @@ Wow. It surely was interesting pitching ideas to 6{{< sup "th" >}} grade student
 
 Wondering how on earth the subsequent days of filming and editing will go. It seems that many of my thoughts seem to be described with animations, similar to those numerous videos of Ted-Ed that I was watching in Singapore before flying over here. But it was clear from today's lecture that animations would be a difficult task to do within such a short time of 3 weeks. What method would I then possibly use to flash out a reasonable video within this time period? Possibly stop-motion cameras / holding out drawn objects.
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_4" >}}{{< /anchor >}}**Day 4
 ----------------------------------------------
@@ -56,7 +58,7 @@ Storyboarding my script will be interesting. I really value the positive words f
 
 Here's to starting. :D
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "_Day_5_Reflections" >}}{{< /anchor >}}**Day 5 Reflections
 -----------------------------------------------------------------------
@@ -67,7 +69,7 @@ What was awesome was to be able to get outside and shoot for ourselves. I was pa
 
 Tonight will be editing the script and sending it off because tomorrow there'll be skiing! Lots of stuff to do because I'm also sending a teaching video for an interview to be a TA in school. Wish me luck.
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "_Day_6_Reflections" >}}{{< /anchor >}}**Day 6 Reflections
 -----------------------------------------------------------------------
@@ -82,7 +84,7 @@ Really hope that this next script is something better. Started it from scratch, 
 
 Felt that Paul and Yulia had really interesting scripts and everybody who presented today presented really well. (On a side note, I feel that people in America present better in general overall!) I would be very interested in watching their videos when it comes out! All the best guys. We've got about a week plus left. XD
 
-[_Link back to Day 6_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)
+{{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "_Link back to Day 6_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_11_Thoughts" >}}{{< /anchor >}}**Day 11 Thoughts
 ------------------------------------------------------------------
@@ -95,7 +97,7 @@ Really hope that the relationships / experiences shared during this 3 weeks will
 
 Anyways, I'm glad that PJ is going to do his video with Science Out Loud! (Can't wait for it to come out so I can catch it!)
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
 
 **{{< anchor "Final_Reflections" >}}{{< /anchor >}}**Final Reflections
 ----------------------------------------------------------------------
@@ -129,6 +131,6 @@ With Best Regards,
 
 David Yam
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections)
+« {{% resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Previous" %}}

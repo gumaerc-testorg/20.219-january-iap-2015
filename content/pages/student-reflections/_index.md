@@ -1,27 +1,25 @@
 ---
 content_type: page
+description: This sections contains the thoughts and reflections of the instructors
+  and the students of the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Student Reflections
 uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects) | [Next]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections) »
+« {{% resource_link 6df56ca8-6d88-4c27-d497-aee73b724945 "Previous" %}} | {{% resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Next" %}} »
 
 The students in the course were asked to share their thoughts throughout the course in daily blogs and vlogs posted on the course Tumblr. Those reflections are collected here, courtesy of the instructors and the students.
 
-*   [Elizabeth Choe's Reflections  
-    ]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections)
-*   [Ceri Riley's Reflections  
-    ]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections)
-*   [Kenneth Cheah's Reflections  
-    ]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections)
-*   [Joshua Cheong's Reflections]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections)
-*   [Andrea Desrosiers' Reflections  
-    ]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections)
-*   [Paul PJ Folino's Reflections]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections)
-*   [Nathan Hernandez's Reflections]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections)
-*   [Yulia Klochan's Reflections]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections)
-*   [David Yam's Reflections]({{< baseurl >}}/pages/student-reflections/david-yams-reflections)
+*   {{% resource_link "b923e518-c6b9-9f57-0dd9-04b61083f145" "Elizabeth Choe's Reflections       " %}}
+*   {{% resource_link "1d988e03-5e65-811f-e6d8-e82355f3c4a7" "Ceri Riley's Reflections       " %}}
+*   {{% resource_link "e9794c3b-05c8-8173-ff70-a55f9946067b" "Kenneth Cheah's Reflections       " %}}
+*   {{% resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Joshua Cheong's Reflections" %}}
+*   {{% resource_link "0a26ad07-4929-732e-5270-b0bfe8bbced9" "Andrea Desrosiers' Reflections       " %}}
+*   {{% resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "Paul PJ Folino's Reflections" %}}
+*   {{% resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Nathan Hernandez's Reflections" %}}
+*   {{% resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Yulia Klochan's Reflections" %}}
+*   {{% resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "David Yam's Reflections" %}}
 
-![A screenshot of the course Tumblr.]({{< resource_file 93bb33b6-5d7f-3d03-5f33-c1fb9f0322fb >}})
+{{< resource 93bb33b6-5d7f-3d03-5f33-c1fb9f0322fb >}}

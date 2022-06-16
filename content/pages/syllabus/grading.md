@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information about the grading rubric of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -9,7 +10,7 @@ title: Grading
 uid: 437609f3-1fdf-c9ca-e7ac-b7bbe4502dcf
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus/calendar) | [Next]({{< baseurl >}}/pages/syllabus/class-policies) »
+« {{% resource_link 425fa285-f1a6-adea-4de3-e852e4e9b44a "Previous" %}} | {{% resource_link 762628fe-626b-dca9-9e46-4c51f60992c0 "Next" %}} »
 
 The majority of the class assignments (daily blogs, peer feedback) will be graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work). I (Elizabeth) will be completing assignments along with you, and you can turn to my examples as points of reference for expected effort. We emphasize thoughtfulness toward process rather than churning out a product (however, product quality will be graded as well). All assignments are due by noon the following class day unless otherwise noted.
 
@@ -20,7 +21,7 @@ The following are our class values, and all assignments will be graded keeping t
 *   Thoughtfulness
 *   Challenge
 
-This is the [Grading Rubric (PDF)]({{< baseurl >}}/resources/mit20_219iap15_gradngrubrc) that we will use. Keep in mind that specificities will vary depending on the assignment and how far along we are in class. We will provide you with feedback (numerical and written) using this rubric for all assignments (which should give you a sense of where you stand in the class).
+This is the {{% resource_link c2ed478e-e025-e0c8-1ba0-6c63caeef992 "Grading Rubric (PDF)" %}} that we will use. Keep in mind that specificities will vary depending on the assignment and how far along we are in class. We will provide you with feedback (numerical and written) using this rubric for all assignments (which should give you a sense of where you stand in the class).
 
 The total grade for this class will be based upon the following weighted factors:
 
@@ -42,4 +43,4 @@ The total grade for this class will be based upon the following weighted factors
     *   The work over IAP will culminate in each of you creating a \<5 min. episode. Individual grades = 65% your work (script, hosting, etc.), 35% the production you did for your partner (filming).
     *   We will select the top projects to professionally produce for Season 3 of [Science Out Loud.](https://www.pbslearningmedia.org/collection/mits-science-out-loud/)
 
-« [Previous]({{< baseurl >}}/pages/syllabus/calendar) | [Next]({{< baseurl >}}/pages/syllabus/class-policies) »
+« {{% resource_link 425fa285-f1a6-adea-4de3-e852e4e9b44a "Previous" %}} | {{% resource_link 762628fe-626b-dca9-9e46-4c51f60992c0 "Next" %}} »

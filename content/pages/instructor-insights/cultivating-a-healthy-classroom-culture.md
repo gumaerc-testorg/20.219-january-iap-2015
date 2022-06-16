@@ -1,5 +1,15 @@
 ---
 content_type: page
+description: "In this section Elizabeth Choe and Jaime Goldstein discuss the sense\
+  \ of community that was evident in 20.219 Becoming the Next Bill Nye. They touch\
+  \ on how situating themselves as facilitators-of-learning, as opposed to omniscient\
+  \ givers-of-knowledge, communicated to students their respect for them as learners.\
+  \ The instructors also share that reading students\u2019 daily blog reflections\
+  \ served as a strategy for tuning in to the general wellness of individual students\
+  \ and the group. They note that the simple act of checking in with students about\
+  \ their daily lives offered the instructors opportunities to highlight how students\
+  \ might use their personal interests to fuel interesting projects in the course.\
+  \ Their conversation has been edited for clarity, length, and content."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -14,7 +24,7 @@ _Below, Elizabeth Choe and Jaime Goldstein discuss the sense of community that w
 
 **ELIZABETH CHOE:** I was really happy with the sense of community in our classroom. In many discussion-based classes, you get the awkward moment where the teacher says, “Well, what do you guys think about this?” And then there is silence throughout the room. Someone finally talks because they know that they have to, and they just want to get it over with. I suppose it was like that the first few of days in _20.219 Becoming the Next Bill Nye_, but by the end of the course, people were actually contributing in an authentic way. I also noticed that, at the end of the course, they exchanged email addresses and friended each other on Facebook. I don’t think this happens in every class. Jaime, I feel like there was something about your presence in the classroom that really helped facilitate a good sense of community and created a learning environment in which students felt safe to share their ideas.
 
-![Seven students and an instructor sit around a U-shaped table. The instructor is speaking, and several students look in her direction. ]({{< resource_file e5a87dcd-e921-d5db-5341-53a1d5c4a60c >}})  
+{{< resource e5a87dcd-e921-d5db-5341-53a1d5c4a60c >}}  
 
 Students in _20.219 Becoming the Next Bill Nye_ engage in a classroom discussion (Image by MIT OpenCourseWare).
 

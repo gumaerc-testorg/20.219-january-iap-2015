@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "In this section Elizabeth Choe and Jaime Goldstein talk about how they\
+  \ approached grading in 20.219 Becoming the Next Bill Nye, a course focused on students\u2019\
+  \ creative work. They also discuss the challenges associated with and strategies\
+  \ for providing students with meaningful feedback about their work. Their conversation\
+  \ has been edited for clarity, length, and content."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -16,11 +21,11 @@ _In the following conversation, Elizabeth Choe and Jaime Goldstein talk about ho
 
 I had a conversation with Chris \[Boebel\], who also teaches another media class, about this topic. He said that one thing he routinely struggles with is deciding if students who are inherently talented, but throw together work the night before the assignment is due, should receive the same grade as students who do not exhibit intrinsic ability, but who work really, really hard, spend a lot of time on their assignments, and are aware of the ways in which their work falls short of expectations.
 
-![Two women sit next to each other and look at a screen just out of view.]({{< resource_file 37011140-a3c8-f5a4-ebbe-dc719bf5438d >}})  
+{{< resource 37011140-a3c8-f5a4-ebbe-dc719bf5438d >}}  
 
 Elizabeth Choe confers with a student about the rough cut of the video she has produced for _20.219 Becoming the Next Bill Nye_ (Image by MIT OpenCourseWare).
 
-Including a challenge aspect in [our rubric (PDF)]({{< baseurl >}}/resources/20-219_grading-rubric) and assessing students’ relative growth helped us address this struggle in to some degree in _20.219 Becoming the Next Bill Nye_. We pushed students to challenge their audiences and to challenge themselves. When we assessed students’ second drafts of their scripts or second cuts of their videos, part of their grade was determined by the degree to which they integrated the feedback we gave them on their first drafts and cuts. If a student wrote a really good first draft, and I only had a couple of comments, and he or she addressed those comments in the second draft, then, yes, that student totally deserves an A. Even if it only took them five minutes, they still deserve an A. I'm not going to penalize them for having only a few changes to make. Their growth trajectory is going to be different, but it doesn't make them any less self-aware, or less appreciative of media. If a student doesn’t integrate our feedback, his or her grade will be lower.
+Including a challenge aspect in {{% resource_link 1c8f9dac-c806-d40a-0a6e-eff8bf37d8d7 "our rubric (PDF)" %}} and assessing students’ relative growth helped us address this struggle in to some degree in _20.219 Becoming the Next Bill Nye_. We pushed students to challenge their audiences and to challenge themselves. When we assessed students’ second drafts of their scripts or second cuts of their videos, part of their grade was determined by the degree to which they integrated the feedback we gave them on their first drafts and cuts. If a student wrote a really good first draft, and I only had a couple of comments, and he or she addressed those comments in the second draft, then, yes, that student totally deserves an A. Even if it only took them five minutes, they still deserve an A. I'm not going to penalize them for having only a few changes to make. Their growth trajectory is going to be different, but it doesn't make them any less self-aware, or less appreciative of media. If a student doesn’t integrate our feedback, his or her grade will be lower.
 
 **JAIME GOLDSTEIN:** But it wasn't really about just taking in the feedback, right? Because we always made them feel like they were the authors, they got to decide what elements to include in their films. I think it was less about acting on the feedback, and more about understanding where the feedback was coming from.
 
@@ -42,7 +47,7 @@ In my role at MIT, I work with faculty members in a lot of different departments
 
 I saw him recently, and his students were nearing the point which they would be submitting their papers. He said, “I don't think these papers are going to be good enough.” I reminded him that he had one week to give feedback to students before they earned real whoppers for grades. I came up with a super quick six-point checklist based on what he wanted students to accomplish in their papers. Then I told him to put his pen away. I asked him to read a student’s entire document, without writing a single comment in the margins, and to simply ask himself, of the six most important things he wanted students to accomplish in this paper, which did he or she do successfully in this draft? Give a check for each important thing demonstrated successfully. If the student didn’t meet his expectation, tell the student he or she had exactly four days to fix that before a grade would be assigned.
 
-![Two women sit side by side a classroom table. One of the women is speaking and gesturing, while the other looks in her direction.]({{< resource_file 32fb47cf-ace3-41f6-81c7-97a704b155e6 >}})  
+{{< resource 32fb47cf-ace3-41f6-81c7-97a704b155e6 >}}  
 
 Jaime Goldstein listens to a student during a classroom discussion (Image by MIT OpenCourseWare).
 

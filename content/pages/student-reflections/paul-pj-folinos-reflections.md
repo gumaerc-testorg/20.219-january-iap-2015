@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the reflections (in the form of blogs and vlogs)
+  of Paul PJ Folino on the course and the course project.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Reflections
@@ -9,7 +11,7 @@ title: Paul (PJ) Folino's Reflections
 uid: 3c8916c0-2b40-6ad3-1644-162454be10f0
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections) »
+« {{% resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Previous" %}} | {{% resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Next" %}} »
 
 [Day 1](#Pjfolino_s_Day_1_Thoughts) | [Day 2](#Pjfolino_s_Day_2_Thoughts) | [Day 3](#Pjfolino_s_Day_3_Thoughts) | [Day 4](#Pjfolino_s_Day_4_Thoughts) | [Day 5](#Pjfolino_s_Day_5_Thoughts) | [Day 6](#Pjfolino_s_Day_6_Thoughts) | [Day 7](#Pjfolino_s_Day_7_Thoughts) | [Day 8](#Pjfolino_s_Day_8_Thoughts) | [Day 11](#Pjfolino_s_Day_11_Thoughts) | [Final Thoughts](#Pjfolino_s_Final_Thoughts)
 
@@ -26,7 +28,7 @@ There was a lot about the Veritasium video I commented on. I think a healthy int
 
 The YouTube video was hard to make. I don't do well in front of cameras I have decided. Also, I realized that I was posting all of my stuff to my own personal Tumblr account so no one could see it. I really am inept with all of the social media stuff (I have yet to drink the Facebook Kool-Aid), but hopefully I will get better at it!
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Pjfolino_s_Day_2_Thoughts" >}}{{< /anchor >}}**Day 2 Thoughts
 ---------------------------------------------------------------------------
@@ -41,7 +43,7 @@ I appreciated that we were given some extra time to really hammer out our video 
 
 The script was a good exercise to mentally hash out the video. I transported myself to the different settings in the script and imagined what it would look like in my head. I also read it aloud, which was suggested, and realized that there is a huge disconnect between my typing and verbal speech, so I started changing some of the words. Also, I had to make sure the language was clear and simple, so it could be understood by someone with a 6th grade intelligence level. I am curious to see how close my mental image compares to how my video will look when it's done.
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Pjfolino_s_Day_3_Thoughts" >}}{{< /anchor >}}**Day 3 Thoughts
 ---------------------------------------------------------------------------
@@ -50,7 +52,7 @@ The script was a good exercise to mentally hash out the video. I transported mys
 
 This video is courtesy of [Paul PJ Folino](http://mit219.tumblr.com/tagged/pjfolino) on Tumblr and is provided under our Creative Commons license.
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Pjfolino_s_Day_4_Thoughts" >}}{{< /anchor >}}**Day 4 Thoughts
 ---------------------------------------------------------------------------
@@ -61,7 +63,7 @@ The animation exercise was awesome and I hope that going forward in the class, o
 
 Really was impressed by everyone's creativity today, though. It is good that we have a partner who will be shooting our films because likely they will also be giving their two cents about what the storyboard will look like. I plan on revamping my script over the next two days and hopefully will be able to produce something decent, even though it is clear that storyboards are pretty fluid documents.
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Pjfolino_s_Day_5_Thoughts" >}}{{< /anchor >}}**Day 5 Thoughts
 ---------------------------------------------------------------------------
@@ -74,7 +76,7 @@ Elizabeth mentioned recording the room tone which is also seems crucial to getti
 
 Something Chris mentioned was that we should try different deliveries, POV, and framing. Kenneth and I, during our shooting were working to get many different angles and were commenting to each other and possibly better ways to approach the scene than what we had in our storyboards. I was somewhat concerned yesterday that there would be minimal input from who records the video, but it is clear that making these videos is a collaborative process. It is hard to imagine scenes when you are not behind the camera. I am overall very excited for where this class is going, and I look forward to next week! I still have some refining on my script, so I will post it tomorrow.
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Pjfolino_s_Day_6_Thoughts" >}}{{< /anchor >}}**Day 6 Thoughts
 ---------------------------------------------------------------------------
@@ -85,7 +87,7 @@ It was good to be able to review other people's scripts as well. It seems like w
 
 I like Jaime's comment on my delivery. She is absolutely right, I need to loosen up a bit! I think I am going to employ that tactic we learned early in the class, where we say our lines in a completely different way or accent. I feel bad for whoever my partner is because I am going to be very annoying. I look forward to the editing lecture tomorrow and shooting the video come Wednesday.
 
-[_Link back to Day 6_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)
+{{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "_Link back to Day 6_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Pjfolino_s_Day_7_Thoughts" >}}{{< /anchor >}}**Day 7 Thoughts
 ---------------------------------------------------------------------------
@@ -96,7 +98,7 @@ Hopefully the clouds can stay out today… realized one of my scenes is in a roo
 
 Otherwise, I am excited to see how this all turns out!
 
-[_Link back to Day 7_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Pjfolino_s_Day_8_Thoughts" >}}{{< /anchor >}}**Day 8 Thoughts
 ---------------------------------------------------------------------------
@@ -107,7 +109,7 @@ It was good shooting their scenes too, because I was able to see the process thr
 
 I am exhausted though, and I was on camera for less than 2 hours, hardly a full day. Good night!
 
-[_Link back to Day 8_]({{< baseurl >}}/pages/days-8-9-10-project-time#Student_Work)
+{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 8_" "#Student_Work" %}}
 
 **{{< anchor "Pjfolino_s_Day_11_Thoughts" >}}{{< /anchor >}}**Day 11 Thoughts
 -----------------------------------------------------------------------------
@@ -118,7 +120,7 @@ I am going to take a break tonight after editing this past weekend and will make
 
 I'd be remiss in not showing the coincidence here… Jaws is on TV and I am seeing the ORCA "save" Chief Brody's life as I type!
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
 
 **{{< anchor "Pjfolino_s_Final_Thoughts" >}}{{< /anchor >}}**Final Thoughts
 ---------------------------------------------------------------------------
@@ -131,6 +133,6 @@ My biggest takeaway from this class was what I set out to do from the beginning:
 
 I want to thank all of my classmates who helped me out in making a better product; all of your suggestions were on point and addressed many of my shortcomings… I'm no fun :-( Also, thank you to the guest lecturers and teachers (Elizabeth, Jaime, Ceri, George, et. al) for teaching the art of shooting YouTube videos and explaining scientific topics in a simple way. I am excited to finish my video later in the month and see what the final product looks like! I hope everyone keeps in contact in the future! Fin.
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections) »
+« {{% resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Previous" %}} | {{% resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Next" %}} »

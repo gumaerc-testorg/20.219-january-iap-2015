@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '7906'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Day 3: Storyteller''s Toolkit Pt. 1'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '5265'
 title: 'Workshop: Andrea''s script'
 uid: 08927d75-1130-672e-ee3e-8df81f5cf5d1
 video_files:

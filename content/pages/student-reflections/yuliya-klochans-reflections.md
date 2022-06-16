@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the reflections (in the form of blogs and vlogs)
+  of Yuliya Klochan on the course and the course project.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Reflections
@@ -9,7 +11,7 @@ title: Yuliya Klochan's Reflections
 uid: 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/david-yams-reflections) »
+« {{% resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Previous" %}} | {{% resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "Next" %}} »
 
 [Day 1](#Yklochan_Day_1_Thoughts) | [Day 2](#Day_2_Thoughts_and_Feelings) | [Day 3](#DAY_3) | [Day 4](#DAY_4) | [Day 5](#Day_5_Thoughts) | [Day 6](#Day_6_Vlog) | [Day 7](#Day_7) | [Day 11](#Day_11) | [Final Reflection](#Final_Reflection)
 
@@ -28,7 +30,7 @@ Lastly, I'm happy to say that I was actually able to start my video! And, yes, I
 
 Unfortunately, iMovie has failed me, and green blobs obstruct the view of my pitch. I'll attempt to eliminate them immediately. Thus, excited for the next day of class, I shall end this first entry.
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_2_Thoughts_and_Feelings" >}}{{< /anchor >}}**Day 2 Thoughts and Feelings
 ------------------------------------------------------------------------------------------
@@ -49,7 +51,7 @@ As always, excited for next day.
 
 The end.
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "DAY_3" >}}{{< /anchor >}}**Day 3
 ----------------------------------------------
@@ -66,7 +68,7 @@ Back to the class. It has challenged me to try again and again. Today I research
 
 The feeling of the evening: still thrilled.
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "DAY_4" >}}{{< /anchor >}}**Day 4
 ----------------------------------------------
@@ -81,7 +83,7 @@ Now, fortunately, I have distilled the script to about 5 minutes, with explanato
 
 As to today's class, I found it very useful. I'd been focusing on the script, unaware of how much the visuals really mattered, and how words connected with pictures. The ideas studied in class helped me better visualize my own script. The storyboard wouldn't have happened without today, and not just because of the tips from the powerpoint. Discussion and Q & A is perhaps the methods of learning that help me best in this class. I love learning from other peoples' perspectives.
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_5_Thoughts" >}}{{< /anchor >}}**Day 5 Thoughts
 ----------------------------------------------------------------
@@ -98,7 +100,7 @@ The start of filming today went quite poorly. One location had great lighting bu
 
 Seems kind of odd that I won't be working on the video as much this weekend. I'll look at the script again tomorrow maybe, but I remember it so well by now that I can't make any major modifications. With the fast pacing of the class, I don't really have time to let thoughts settle, so I'll have to go with what I have. And that's a good thing, too, because normally I wait for "creative inspiration" to compose anything. This week I've had to think by the deadline. That's another useful skill acquired.
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_6_Vlog" >}}{{< /anchor >}}**Day 6 Vlog
 --------------------------------------------------------
@@ -107,7 +109,7 @@ Seems kind of odd that I won't be working on the video as much this weekend. I'l
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 6_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)
+{{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "_Link back to Day 6_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_7" >}}{{< /anchor >}}**Day 7
 ----------------------------------------------
@@ -116,7 +118,7 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 7_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_11" >}}{{< /anchor >}}**Day 11
 ------------------------------------------------
@@ -135,7 +137,7 @@ Lastly, I loved the way my partner's projects turned out! I enjoyed watching eve
 
 With happy thoughts, I'll rest. Then edit some more. And more and more tomorrow.
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
 
 **{{< anchor "Final_Reflection" >}}{{< /anchor >}}**Final Reflection
 --------------------------------------------------------------------
@@ -164,6 +166,6 @@ However, I did learn that being an actor and having to say things over and over 
 
 Overall, I had a great experience, great month, and a wonderful filming time. It definitely made for a cool IAP. Thanks a bunch to all the instructors, guests, and students for making it so!
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/david-yams-reflections) »
+« {{% resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Previous" %}} | {{% resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "Next" %}} »

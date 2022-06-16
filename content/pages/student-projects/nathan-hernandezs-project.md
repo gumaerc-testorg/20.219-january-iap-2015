@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Projects
@@ -9,7 +10,7 @@ title: Nathan Hernandez's Project
 uid: 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project) | [Next]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project) »
+« {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Previous" %}} | {{% resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Next" %}} »
 
 [_Link to_ _Nathan Hernandez's Page on Tumblr_](http://mit219.tumblr.com/tagged/hiji)
 
@@ -40,7 +41,7 @@ Just a few things:
 *   Visuals
 *   Better things to do with my body
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Draft for "How does Food Turn to Mush?"
 -------------------------------------------------------------------------------------------------
@@ -81,7 +82,7 @@ Usually this process takes 10–14 days to reach a point at which it probably is
 
 How do you prevent your fresh food from going bad? My advice, eat your veggies.
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_3_Pitch" >}}{{< /anchor >}}Day 3 Pitch
 ------------------------------------------------------
@@ -92,12 +93,12 @@ This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1
 
 Very rough
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 ----------------------------------------------------------------
 
-![Nathan-day4storyboard-1.jpg]({{< resource_file ca053e7d-2a25-b1c3-5da7-d32369a2ddda >}})
+{{< resource ca053e7d-2a25-b1c3-5da7-d32369a2ddda >}}
 
 ### Script for the Scene
 
@@ -108,7 +109,7 @@ Very rough
 5.  it's like if I were to pop the balloon.
 6.  The water and nutrients that come out are what cause the muck you see in your fridge.
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Final_Project" >}}{{< /anchor >}}Rough Cut: Breaking Down Decomposition
 -----------------------------------------------------------------------------------
@@ -119,7 +120,7 @@ This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1
 
 **I will explain why it's so terrible.**
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
 
 {{< anchor "Final_Project:_Breaking_Down_Decomposition" >}}{{< /anchor >}}Final Project: Breaking Down Decomposition
 --------------------------------------------------------------------------------------------------------------------
@@ -140,6 +141,6 @@ Production Assistant: Andrea Desrosiers
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108857321146/creative-commons-cc-by-nc-sa-mit)
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
 
-« [Previous]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project) | [Next]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project) »
+« {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Previous" %}} | {{% resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Next" %}} »

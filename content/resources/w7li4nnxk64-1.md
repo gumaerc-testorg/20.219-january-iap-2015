@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/b16c17d553b73dc354617bb26c1a6f64_W7LI4nNxk64.pdf
+file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/b16c17d553b73dc354617bb26c1a6f64_W7LI4nNxk64.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

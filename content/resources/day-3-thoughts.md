@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Elizabeth Choe's Reflections
@@ -32,3 +33,6 @@ License: Creative Commons BY-NC-SA
 More information at [http://ocw.mit.edu/terms](/terms)
 
 More courses at [http://ocw.mit.edu](http://ocw.mit.edu)
+
+
+

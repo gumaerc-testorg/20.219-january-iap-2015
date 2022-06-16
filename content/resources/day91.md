@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/475332e9ecde3d4ab079f6325ddbfdd4_day91.jpg
+file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/475332e9ecde3d4ab079f6325ddbfdd4_day91.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

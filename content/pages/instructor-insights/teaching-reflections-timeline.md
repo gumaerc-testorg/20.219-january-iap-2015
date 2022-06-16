@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This interactive timeline captures Elizabeth Choe reflecting on her teaching
+  in self-recorded confessional-style videos. It provides a day-by-day insider view
+  into the challenges she encountered, the dilemmas she faced, and the moments when
+  teaching and learning in 20.219 Becoming the Next Bill Nye fell into place.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
