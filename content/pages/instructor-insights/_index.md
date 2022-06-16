@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 526193cf-30da-cdf1-c673-4faab57d51d7
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _20.219 Becoming the Next Bill Nye: Writing and Hosting the Educational Show_ as it was taught by Elizabeth Choe, Jaime Goldstein, Chris Boebel, George Zaidan, Joshua Gunn, and Natalie Kuldell in IAP 2015.
 
@@ -20,52 +21,44 @@ Learn more here:
 
 Choe, E. "[Video Production as a Pathway for Building Identity,](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2969114)" _SSRN,_ May 16, 2017.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
 After taking this course, students should be able to:
 
-*   Thoughtfully and clearly communicate science, technology, engineering, and/or math topics to a lay audience in an engaging manner - textually, visually, and verbally
-*   Understand the media production process - from design to premiere of their own videos
-*   Develop their own hosting and scripting style stemming from an understanding of what makes a successful communicator and guide
-*   Critically analyze video-based entertainment and education, particularly in the context of K-12 students
-*   Transfer video production skills to future projects
+- Thoughtfully and clearly communicate science, technology, engineering, and/or math topics to a lay audience in an engaging manner - textually, visually, and verbally
+- Understand the media production process - from design to premiere of their own videos
+- Develop their own hosting and scripting style stemming from an understanding of what makes a successful communicator and guide
+- Critically analyze video-based entertainment and education, particularly in the context of K-12 students
+- Transfer video production skills to future projects
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-[![An image of instructor Elizabeth Choe and guest lecturer Joshua Gunn sitting on a sofa during an interview about the course.]({{< resource_file 20aaa26b-64c8-0889-f98a-21c1e21f9877 >}})]({{< baseurl >}}/resources/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes)
+{{< resource uuid="20aaa26b-64c8-0889-f98a-21c1e21f9877" href_uuid="f079282d-f10a-bc02-5d05-341dd52e2d8a" >}}
 
-_In the following short videos, Elizabeth Choe and three guest lecturers describe various aspects of how they taught _20.219 Becoming the Next Bill Nye_._
+ 
 
-*   [Inspiration for the Course and Intended Learning outcomes]({{< baseurl >}}/resources/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes)
-*   [Teaching as a Team]({{< baseurl >}}/resources/instructor-interview-teaching-as-a-team)
-*   [Digital Media Literacy]({{< baseurl >}}/resources/instructor-interview-digital-media-literacy)
-*   [Assessment and Feedback in Creative Contexts]({{< baseurl >}}/resources/instructor-interview-assessment-and-feedback-in-creative-contexts-1)
-*   [Teaching through Workshops]({{< baseurl >}}/resources/instructor-interview-teaching-through-workshops)
-*   [A Class on Pre-Production]({{< baseurl >}}/resources/instructor-interview-a-class-on-pre-production)
+_In the following short videos, Elizabeth Choe and three guest lecturers describe various aspects of how they taught_ 20.219 Becoming the Next Bill Nye.
 
-_In the following pages, Elizabeth Choe and Jaime Goldstein describe various aspects of how they taught _20.219 Becoming the Next Bill Nye_._
+- {{% resource_link f079282d-f10a-bc02-5d05-341dd52e2d8a "Inspiration for the Course and Intended Learning outcomes" %}}
+- {{% resource_link b4aab433-321e-3c46-9c8e-3cd78eb0c343 "Teaching as a Team" %}}
+- {{% resource_link 10bd67ad-2f11-9e9b-5437-4944dda4994a "Digital Media Literacy" %}}
+- {{% resource_link 37559c50-f260-24ec-9c89-75a5e7ac978a "Assessment and Feedback in Creative Contexts" %}}
+- {{% resource_link be800c68-3d72-ecaf-3af4-e7d6c9612779 "Teaching through Workshops" %}}
+- {{% resource_link fb9aef4b-2454-2e0e-df12-b76b6da6c798 "A Class on Pre-Production" %}}
 
-*   [Planning Backwards]({{< baseurl >}}/pages/instructor-insights/planning-backwards)
-*   [Grading and Feedback in a Course Focused on Creative Work]({{< baseurl >}}/pages/instructor-insights/grading-and-feedback-in-a-course-focused-on-creative-work)
-*   [Cultivating a Healthy Classroom Culture]({{< baseurl >}}/pages/instructor-insights/cultivating-a-healthy-classroom-culture)
+_In the following pages, Elizabeth Choe and Jaime Goldstein describe various aspects of how they taught \_20.219 Becoming the Next Bill Nye_.\_
+
+- {{% resource_link a0230e42-8e9a-fc43-9b16-25558c1717d3 "Planning Backwards" %}}
+- {{% resource_link f1e55a73-f7ce-a5df-7f8c-3cdb40b62292 "Grading and Feedback in a Course Focused on Creative Work" %}}
+- {{% resource_link 21d57d5a-7bfd-9ae9-4ece-2d578ddbf16c "Cultivating a Healthy Classroom Culture" %}}
 
 {{< anchor "timeline" >}}{{< /anchor >}}
 
-Teaching Reflections Timeline
------------------------------
-
-[![A screenshot of the interactive timeline, showing an embedded video with accompanying text and links, with a side-scrolling bar of various events below.]({{< resource_file 77291066-52bb-5c11-722e-60e97ad6e4af >}})]({{< baseurl >}}/pages/instructor-insights/teaching-reflections-timeline)_In the following interactive timeline, Elizabeth Choe shares self-recorded confessional-style videos that illustrate a day-by-day account of what what went well and what could have been improved in the teaching of the course._
-
-[20.219 Teaching Reflections Timeline]({{< baseurl >}}/pages/instructor-insights/teaching-reflections-timeline)
-
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -81,8 +74,7 @@ None
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -91,27 +83,28 @@ The students' grades were based on the following activities:
 - 25% Workshop products
 - 30% Final project
 
-_Class participation_
-*   Because this was a workshop-based course, and because sessions built upon each other, it was crucial for students to attend every class.
-*   Meaningful peer feedback was crucial throughout the production process, and students were expected to be involved and engaged in this workshop-based class (discussions, table reads, rough cut annotations, etc.)
-{{< div-with-class "reveal1">}}
+### Class participation
+
+- Because this was a workshop-based course, and because sessions built upon each other, it was crucial for students to attend every class.
+- Meaningful peer feedback was crucial throughout the production process, and students were expected to be involved and engaged in this workshop-based class (discussions, table reads, rough cut annotations, etc.)   
+    {{< div-with-class "reveal1">}}
 
 › _Read More/Read Less_
 
-{{< /div-with-class >}}
+{{< /div-with-class >}}  
 {{< div-with-class "toggle1">}}
 
-_Daily blog/vlog reflections_
+### Daily blog/vlog reflections
 
-*   Students were expected to upload documentation of their process/difficulties/lessons learned in completing assignments or insights gained from class workshops. This took the form of a written blog post reflection, photos, a “selfie” video (\<2 min.), or other creative media format of their choice.
-*   Daily assignments were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no or late work).
+- Students were expected to upload documentation of their process/difficulties/lessons learned in completing assignments or insights gained from class workshops. This took the form of a written blog post reflection, photos, a “selfie” video (\<2 min.), or other creative media format of their choice.
+- Daily assignments were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no or late work).
 
-_Workshop products_
+### Workshop products
 
-*   Working independently or in small teams, students produced iterations of their final project components (scripts, storyboards, scenes, rough cuts, etc.)
-*   Documents for reading assignments were posted on [Annotation Studio](http://www.annotationstudio.org). Students commented the documents with their responses to the readings and to their classmates. These assignments were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work).
+- Working independently or in small teams, students produced iterations of their final project components (scripts, storyboards, scenes, rough cuts, etc.)
+- Documents for reading assignments were posted on [Annotation Studio](http://www.annotationstudio.org). Students commented the documents with their responses to the readings and to their classmates. These assignments were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work).
 
-_Final project_
+### Final project
 
 Students’ work culminated in a \<5 min. episode. Individual grades reflected 65% of a student’s own work (script, hosting, etc.) and 35% the production he or she did for his or her partner (filming).
 
@@ -119,25 +112,23 @@ Students’ work culminated in a \<5 min. episode. Individual grades reflected 6
 
 The following were our class values, and all assignments were graded with these qualities in mind:
 
-*   Spark
-*   Clarity
-*   Thoughtfulness
-*   Challenge
+Spark
+
+- Clarity
+- Thoughtfulness
+- Challenge
 
 We provided students with feedback (numerical and written) on all assignments using a rubric built around these values.
 
-[Grading Rubric for 20.219 (PDF)]({{< baseurl >}}/resources/20-219_grading-rubric)
+## Instructor Insights on Assessment
 
-### Instructor Insights on Assessment
+The grading schema for this course was adapted from Chris Peterson and Edward Schiappa’s Spring 2015 offering of a course called _CMS.400 Media Systems and Texts_. I (Elizabeth), did not take this course, but Chris Peterson, the lead instructor for the course, and a close friend, was designing the syllabus for _CMS.400_ at the same time I was developing the syllabus for _20.219_. _CMS.400_ was failry analogous to _20.219_ (except that it was about internet culture instead of internet video), so I was able to easily modify the grading scheme to work for _20.219_. I appreciated the insipiration that the _CMS.400_ syllbus provided because I hadn’t ever taken a class in the format in which I was trying to teach. I was learning as I went along. In the end, the majority of the class assignments (daily blogs, peer feedback) were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work). I completed assignments along with the students so as to provide points of reference for expected effort. We emphasized thoughtfulness toward process rather than churning out a product (however, product quality was also grade.{{< /div-with-class >}}
 
-The grading schema for this course was adapted from Chris Peterson and Edward Schiappa's Spring 2015 offering of a course called _CMS.400 Media Systems and Texts_. I (Elizabeth), did not take this course, but Chris Peterson, the lead instructor for the course, and a close friend, was designing the syllabus for _CMS.400_ at the same time I was developing the syllabus for _20.219_. _CMS.400_ was failry analogous to _20.219_ (except that it was about internet culture instead of internet video), so I was able to easily modify the grading scheme to work for _20.219_. I appreciated the insipiration that the _CMS.400_ syllbus provided because I hadn't ever taken a class in the format in which I was trying to teach. I was learning as I went along. In the end, the majority of the class assignments (daily blogs, peer feedback) were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work). I completed assignments along with the students so as to provide points of reference for expected effort. We emphasized thoughtfulness toward process rather than churning out a product (however, product quality was also graded).
+## {{% resource_link 1c8f9dac-c806-d40a-0a6e-eff8bf37d8d7 "Student Information" %}}
 
-{{< /div-with-class >}}
+### Enrollment
 
-Student Information
--------------------
-
-![Fewer than 10 students took this course when it was offered in January 2015.]({{< resource_file 3aa62812-1510-6237-4d1c-bc7624e7d1c3 >}})
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -153,19 +144,16 @@ Participants came from a variety of schools, departments, and programs including
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During this 3-week course, students were expected to spend 20 hours per week, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 5 times per week for 3 hours per session; 13 sessions total; mandatory attendance.
-*   Class sessions included lectures and workshops related to the educational video genre and the media production process.
-*   Several class sessions included opportunities for students to work one-on-one with the teaching staff, which included the instructors, a teaching assistant, and guest lecturers.
+- Met 5 times per week for 3 hours per session; 13 sessions total; mandatory attendance.
+- Class sessions included lectures and workshops related to the educational video genre and the media production process.
+- Several class sessions included opportunities for students to work one-on-one with the teaching staff, which included the instructors, a teaching assistant, and guest lecturers.
 
-Out of Class
-------------
+### Out of Class
 
 Students wrote daily blog/vlog reflections, completed readings, and created iterations of their final project components.
