@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -33,6 +34,4 @@ License: Creative Commons BY-NC-SA
 More information at [http://ocw.mit.edu/terms](/terms)
 
 More courses at [http://ocw.mit.edu](http://ocw.mit.edu)
-
-
 

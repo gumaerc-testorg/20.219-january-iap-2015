@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: A screenshot of the course Tumblr.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student Reflections
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: reflections-screenshot.jpg
 uid: 93bb33b6-5d7f-3d03-5f33-c1fb9f0322fb
 ---
 Students and instructors shared their thoughts on the course blog.
-

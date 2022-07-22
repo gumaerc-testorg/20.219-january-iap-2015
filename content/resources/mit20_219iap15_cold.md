@@ -5,6 +5,7 @@ description: 'This is a resource file that contains information regarding David'
 file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/fa6a637af9a24439c26ec60782a671fc_MIT20_219IAP15_Cold.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Day 6: Table-read and Office Hours'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT20_219IAP15_Cold.docx
 uid: fa6a637a-f9a2-4439-c26e-c60782a671fc
 ---
 This is a resource file that contains information regarding David's Draft Script: Cold.
-
