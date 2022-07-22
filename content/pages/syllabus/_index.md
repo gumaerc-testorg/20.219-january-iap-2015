@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, use of Tumblr for the course website, and learning outcomes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 203eeb3a-4839-933a-901c-efa7c34f24d7
 ---
 
-[Next]({{< baseurl >}}/pages/syllabus/meet-the-instructors) »
+{{% resource_link 32b7558a-888d-a05c-b9fc-29fe9381506b "Next" %}} »
 
 Course Meeting Times
 --------------------
@@ -23,7 +27,7 @@ Workshop-style lectures, with industry guest speakers, focus on developing stude
 Use of Tumblr for the Course Website
 ------------------------------------
 
-This course [used a Tumblr](http://mit219.tumblr.com) to allow students and instructors to document and share their process, difficulties, and lessons learned with each other during the course. Tumblr is a platform that allows users to post multimedia and other content to a short-form blog. In this course, students submitted most of their homework on the Tumblr, which allowed the instructors and students to see and review each other's work. The course Tumblr also includes links to reference material that students could use. These Tumblr posts are sorted and collected on OCW in the [Student Projects]({{< baseurl >}}/pages/student-projects) and [Student Reflections]({{< baseurl >}}/pages/student-reflections) sections.
+This course [used a Tumblr](http://mit219.tumblr.com) to allow students and instructors to document and share their process, difficulties, and lessons learned with each other during the course. Tumblr is a platform that allows users to post multimedia and other content to a short-form blog. In this course, students submitted most of their homework on the Tumblr, which allowed the instructors and students to see and review each other's work. The course Tumblr also includes links to reference material that students could use. These Tumblr posts are sorted and collected on OCW in the {{% resource_link 6df56ca8-6d88-4c27-d497-aee73b724945 "Student Projects" %}} and {{% resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Student Reflections" %}} sections.
 
 Learning Outcomes
 -----------------
@@ -44,4 +48,4 @@ Key Skills
 *   Producing video (filming and editing)
 *   Gaining digital media literacy—familiarity with YouTube, online video communities
 
-[Next]({{< baseurl >}}/pages/syllabus/meet-the-instructors) »
+{{% resource_link 32b7558a-888d-a05c-b9fc-29fe9381506b "Next" %}} »

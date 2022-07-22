@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section contains the reflections (in the form of blogs and vlogs)
+  of Andrea Desrosiers on the course and the course project.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Reflections
+parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Andrea Desrosiers' Reflections
 uid: 0a26ad07-4929-732e-5270-b0bfe8bbced9
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections) »
+« {{% resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Previous" %}} | {{% resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "Next" %}} »
 
 [Day 1](#Day_1_Andrea_s_Struggles) | [Day 2](#Day_2_Andrea_s_Struggles) | [Day 3](#Day_3_Reflections) | [Day 4](#Day_4) | [Day 5](#Day_5-Andrea_And_the_Camera) | [Day 6](#Day_6_Vlog) | [Day 7](#Day_7_Vlog) | [Day 8](#Day_8_Reflection-Andrea_on_Video) | [Day 11](#Day_11-Andrea_s_Final_Thoughts) | [Final Reflection](#Videos-Andrea)
 
@@ -32,12 +37,12 @@ On the various videos on class: I loved the Veritasium format, and I confess to 
 
 So that's why I tried to pivot my idea for a pitch to something more for a 10–14 year old audience.
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_2_Andrea_s_Struggles" >}}{{< /anchor >}}Day 2 - Andrea's Struggles
 ----------------------------------------------------------------------------------
 
-If there is one thing I have gotten out of my MIT experience, it's the importance of running your ideas by the audience / customer early, and often. The 6th graders that were brought into the class for that purpose were surprisingly well read and engaged. I was happy to see a few shy ones coming out of their shells to talk a bit - mostly because these kids are reflections of me at that age. I enjoyed the skipping from topic to topic that the kids tend to do - it keeps me on my feet and I like trying to follow their thought processes as they respond to various stimuli. I will try to remember this "frequent cut" process as I put together my video. I'm hoping this can keep people engaged.
+If there is one thing I have gotten out of my MIT experience, it's the importance of running your ideas by the audience / customer early, and often. The 6{{< sup "th" >}} graders that were brought into the class for that purpose were surprisingly well read and engaged. I was happy to see a few shy ones coming out of their shells to talk a bit - mostly because these kids are reflections of me at that age. I enjoyed the skipping from topic to topic that the kids tend to do - it keeps me on my feet and I like trying to follow their thought processes as they respond to various stimuli. I will try to remember this "frequent cut" process as I put together my video. I'm hoping this can keep people engaged.
 
 One kid (boy) in particular I really got a kick out of. His favorite phrase is to add - ish to anything (Yes - ish, like - ish). He was also the kid who made up a character when I asked about favorite superheroes - it's nice to see so much imagination. I also liked how blunt the kids were with each other, and it's a reminder that there is such a thing as being too diplomatic.
 
@@ -47,7 +52,7 @@ I also worry in the class that I'm a bit intimidating because I'm older. Also, "
 
 OK, on to script writing….
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_3_Reflections" >}}{{< /anchor >}}Day 3 Reflections
 ------------------------------------------------------------------
@@ -56,7 +61,7 @@ OK, on to script writing….
 
 This audio is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_4" >}}{{< /anchor >}}Day 4 - Andrea's Reflections on Storyboarding And More Scripts
 ---------------------------------------------------------------------------------------------------
@@ -69,7 +74,7 @@ I also found class today to help out with concentrating on the science. The F= m
 
 Maybe I'll even be ready with another trailer by tomorrow. Or two.
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_5-Andrea_And_the_Camera" >}}{{< /anchor >}}Day 5 - Andrea And the Camera
 ----------------------------------------------------------------------------------------
@@ -80,7 +85,7 @@ I loved the comments on the script and I'm encouraged. I had another idea for go
 
 One of my goals in this class was to get more comfortable both behind and in front of the camera. I'm not photogenic (being squat and pasty - faced with flat bone structure), so I'm unsure how I'll get over how much I cringe whenever I look at pictures / video of myself. My demons to fight, I guess.
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_6_Vlog" >}}{{< /anchor >}}Day 6 Vlog
 ----------------------------------------------------
@@ -89,7 +94,7 @@ One of my goals in this class was to get more comfortable both behind and in fro
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 6_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)
+{{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "_Link back to Day 6_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_7_Vlog" >}}{{< /anchor >}}Day 7 Vlog
 ----------------------------------------------------
@@ -98,7 +103,7 @@ This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 7_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_8_Reflection-Andrea_on_Video" >}}{{< /anchor >}}Day 8 Reflection - Andrea on Video
 --------------------------------------------------------------------------------------------------
@@ -115,7 +120,7 @@ I still am not quite sure how to end the script. I'm giving myself the rest of t
 
 Tonight is a rare night that I have actual internet access at home (husband is working). So I can actually upload my daily reflection early - YAY!
 
-[_Link back to Day 8_]({{< baseurl >}}/pages/days-8-9-10-project-time#Student_Work)
+{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 8_" "#Student_Work" %}}
 
 {{< anchor "Day_11-Andrea_s_Final_Thoughts" >}}{{< /anchor >}}Day 11 - Andrea's Final Thoughts
 ----------------------------------------------------------------------------------------------
@@ -130,7 +135,7 @@ And final comment - as I've said I don't have an artistic bone in my body (remod
 
 Have a great spring semester everyone!
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
 
 {{< anchor "Videos-Andrea" >}}{{< /anchor >}}Final Reflection on Making Videos
 ------------------------------------------------------------------------------
@@ -151,6 +156,6 @@ And finally, just one more confession: I had always dreamed of hosting a science
 
 Thank you 20.219 for making me feel more empowered!
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections) »
+« {{% resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Previous" %}} | {{% resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "Next" %}} »

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Andrea Desrosiers' Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: How Do Braces Work?
 uid: 5e1be1f9-1218-e726-f3de-08dcf654476a
 video_files:
@@ -25,3 +36,4 @@ License: Creative Commons BY-NC-SA
 More information at [http://ocw.mit.edu/terms](/terms)
 
 More courses at [http://ocw.mit.edu](http://ocw.mit.edu)
+

@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: The section explains what happened on Day 4 of this course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Day 4: Storyteller''s Toolkit Pt. 2'
 uid: 60a6ea96-1026-802d-98a9-351ce3b38557
 ---
 
-« [Previous]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1) | [Next]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3) »
+« {{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Previous" %}} | {{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Next" %}} »
 
 Contents
 --------
@@ -27,8 +30,8 @@ Guest lecturer Josh Gunn, founder of [Planet Nutshell](http://planetnutshell.com
 
 ### Chapters
 
-*   [Animation is good when...]({{< baseurl >}}/resources/copy_of_day-4-part-1)
-*   [Examples of animation from Science Out Loud]({{< baseurl >}}/resources/copy2_of_day-4-part-1)
+*   {{% resource_link 98920222-0242-e25c-b674-a753af9d505b "Animation is good when..." %}}
+*   {{% resource_link 43f16dbe-09b7-ebc4-81f3-14cc07640c44 "Examples of animation from Science Out Loud" %}}
 
 ### In-class Media
 
@@ -45,9 +48,9 @@ Guest lecturer Josh Gunn, founder of [Planet Nutshell](http://planetnutshell.com
 
 ### Chapters
 
-*   [Storyboarding]({{< baseurl >}}/resources/copy_of_day-4-part-2)
-*   [Workshop: Storyboarding example]({{< baseurl >}}/resources/copy2_of_day-4-part-2)
-*   [Day 4 assignment and wrap-up]({{< baseurl >}}/resources/copy3_of_day-4-part-2)
+*   {{% resource_link a2060f74-5c35-1971-0382-f506d83213d1 "Storyboarding" %}}
+*   {{% resource_link c31814db-16fd-924c-edb0-34458c0e6eb8 "Workshop: Storyboarding example" %}}
+*   {{% resource_link 3a66c994-cc58-2244-2a81-94f3bbc70666 "Day 4 assignment and wrap-up" %}}
 
 ### In-class Media
 
@@ -72,24 +75,24 @@ Upload the storyboard of your scene to the class blog with #day4storyboard and c
 
 ### Day 4 Blogs / Vlogs
 
-*   [Elizabeth's day 4 blog]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections#Echoe_s_Day_4_Thoughts)
-*   [Ceri's day 4 blog]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections#Reflection_Day_4)
-*   [Kenneth's day 4 blog]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections#Day_4_Blog_Post)
-*   [Joshua's day 4 blog]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections#Vlog_Day_4)
-*   [Andrea's day 4 blog]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections#Day_4)
-*   [PJ's day 4 blog]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections#Pjfolino_s_Day_4_Thoughts)
-*   [Nathan's day 4 blog]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections#Day_4_Reflection)
-*   [Yuliya's day 4 blog]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections#DAY_4)
-*   [David's day 4 blog]({{< baseurl >}}/pages/student-reflections/david-yams-reflections#Day_4)
+*   {{% resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Elizabeth's day 4 blog" "#Echoe_s_Day_4_Thoughts" %}}
+*   {{% resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Ceri's day 4 blog" "#Reflection_Day_4" %}}
+*   {{% resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Kenneth's day 4 blog" "#Day_4_Blog_Post" %}}
+*   {{% resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Joshua's day 4 blog" "#Vlog_Day_4" %}}
+*   {{% resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Andrea's day 4 blog" "#Day_4" %}}
+*   {{% resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "PJ's day 4 blog" "#Pjfolino_s_Day_4_Thoughts" %}}
+*   {{% resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Nathan's day 4 blog" "#Day_4_Reflection" %}}
+*   {{% resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Yuliya's day 4 blog" "#DAY_4" %}}
+*   {{% resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "David's day 4 blog" "#Day_4" %}}
 
 ### Day 4 Storyboard
 
-*   [Kenneth's day 4 storyboard]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project#Day_4_Story_Board)
-*   [Joshua's day 4 storyboard]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project#Day_4_Storyboard)
-*   [Andrea's day 4 storyboard]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Day_4_Storyboard)
-*   [PJ's day 4 storyboard]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project#Paul_s_Storyboard)
-*   [Nathan's day 4 storyboard]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project#Day_4_Storyboard)
-*   [Yuliya's day 4 storyboard]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Day_4_Storyboard)
-*   [David's day 4 storyboard]({{< baseurl >}}/pages/student-projects/david-yams-project#Day_4_Storyboard)
+*   {{% resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Kenneth's day 4 storyboard" "#Day_4_Story_Board" %}}
+*   {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Joshua's day 4 storyboard" "#Day_4_Storyboard" %}}
+*   {{% resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's day 4 storyboard" "#Day_4_Storyboard" %}}
+*   {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "PJ's day 4 storyboard" "#Paul_s_Storyboard" %}}
+*   {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Nathan's day 4 storyboard" "#Day_4_Storyboard" %}}
+*   {{% resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Yuliya's day 4 storyboard" "#Day_4_Storyboard" %}}
+*   {{% resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "David's day 4 storyboard" "#Day_4_Storyboard" %}}
 
-« [Previous]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1) | [Next]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3) »
+« {{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Previous" %}} | {{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Next" %}} »

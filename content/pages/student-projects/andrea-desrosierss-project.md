@@ -1,48 +1,47 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Projects
+parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Andrea Desrosiers' Project
 uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 ---
+« {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" %}} | {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" %}} »
 
-« [Previous]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project) | [Next]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project) »
+[*Link to* *Andrea Desrosiers' page on Tumblr*](http://mit219.tumblr.com/tagged/aedesros)
 
-[_Link to_ _Andrea Desrosiers' page on Tumblr_](http://mit219.tumblr.com/tagged/aedesros)
+## Contents
 
-Contents
---------
+- [Day 1 Pitch](#Day_1_Pitch)
+- [Day 2 Script](#Day_2_Script)
+- [Day 3 Trailer Take 2](#Day_3_Trailer)
+- [Day 4 Script](#Day_4-Script)
+- [Day 4 Storyboard](#Day_4-Script)
+- [Day 7 Script: Final Draft](#Ortho_Script)
+- [Day 8 Shot List](#Ortho_Shot_List-prelim)
+- [Rough Cut](#Rough_Cut)
+- [Final Project](#Final_Project)
+- [Science Out Loud](#Science_Out_Loud)
 
-*   [Day 1 Pitch](#Day_1_Pitch)
-*   [Day 2 Script](#Day_2_Script)
-*   [Day 3 Trailer Take 2](#Day_3_Trailer)
-*   [Day 4 Script](#Day_4-Script)
-*   [Day 4 Storyboard](#Day_4-Script)
-*   [Day 7 Script: Final Draft](#Ortho_Script)
-*   [Day 8 Shot List](#Ortho_Shot_List-prelim)[  
-    ](#Ortho_Script)
-*   [Rough Cut](#Rough_Cut)
-*   [Final Project](#Final_Project)
-*   [Science Out Loud  
-    ](#Science_Out_Loud)
-
-{{< anchor "Day_1_Pitch" >}}{{< /anchor >}}Day 1 Pitch
-------------------------------------------------------
+## {{< anchor "Day_1_Pitch" >}}{{< /anchor >}}Day 1 Pitch
 
 {{< resource ea710c2e-6803-d9ac-8250-c59ae89ce1e7 >}}
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Link back to Day 1" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Draft of "What are My Braces Doing to Me?"
-----------------------------------------------------------------------------------------------------
+## {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Draft of "What are My Braces Doing to Me?"
 
 Cue music that is catchy and upbeat.
 
 Zoom in on drawing of a young girl with braces on, looking a bit awkward.
 
-![20.219projects.jpg]({{< resource_file 182713a0-4805-d0b5-37a7-3837f06c2b75 >}})
+{{< resource 182713a0-4805-d0b5-37a7-3837f06c2b75 >}}
 
 Cut to Andrea with same expression on face.
 
@@ -106,21 +105,17 @@ Cut to Andrea walking around.
 
 Andrea: (need closing statements…)
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Link back to Day 2" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_3_Trailer" >}}{{< /anchor >}}Day 3 - Andrea's Trailer Take 2  
-
--------------------------------------------------------------------------------
+{{< anchor "Day_3_Trailer" >}}{{< /anchor >}}Day 3 - Andrea's Trailer Take 2
 
 {{< resource 585b0ae9-8607-fd82-f10a-f279f556a89c >}}
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-[_Link back to Day 3  
-_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+[Link back to Day 3](/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-3-storytellers-toolkit-pt-1/#Instructor_and_Student_Work)
 
-**{{< anchor "Day_4-Script" >}}{{< /anchor >}}**Day 4 - Andrea's Second Script Idea for Ortho
----------------------------------------------------------------------------------------------
+## {{< anchor "Day_4-Script" >}}{{< /anchor >}}Day 4 - Andrea's Second Script Idea for Ortho
 
 Andrea bites into an apple
 
@@ -154,21 +149,25 @@ Voiceover: Your jaw isn't the only place where these osteoclasts and osteoblasts
 
 Engineers from MIT are taking advantage of the properties of osteoblasts to come up with a new compound that is composed of layers of materials that help promote rapid bone growth and will allow the body's own cells to produce bone that fixes the implant in place. (need to rework this) ([Engineered Coating for Implants Reduces the Risk of Complications](http://scitechdaily.com/engineered-coating-for-implants-reduces-the-risk-of-complications/).)
 
-{{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
-----------------------------------------------------------------
+## {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 
-![AndreaDesrosiers-day4storyboard-1.jpg]({{< resource_file 54725ae5-a468-ae43-78f2-f32beb0dc68f >}})
+{{< resource 54725ae5-a468-ae43-78f2-f32beb0dc68f >}}
 
- ![AndreaDesrosiers-day4storyboard-2.jpg]({{< resource_file 6ec8e744-c120-61b5-c3cf-03197da8ddfc >}})
+ 
 
-![AndreaDesrosiers-day4storyboard-3.jpg]({{< resource_file 150fd516-a18e-0e65-4cf6-3a1279e1b646 >}})
+{{< resource 6ec8e744-c120-61b5-c3cf-03197da8ddfc >}}
 
-![AndreaDesrosiers-day4storyboard-4.jpg]({{< resource_file 3a0a9487-4e89-37e3-c2aa-7335f82a6374 >}})
+ 
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{< resource 150fd516-a18e-0e65-4cf6-3a1279e1b646 >}}
 
-{{< anchor "Ortho_Script" >}}{{< /anchor >}}Script: Final Draft
----------------------------------------------------------------
+ 
+
+{{< resource 3a0a9487-4e89-37e3-c2aa-7335f82a6374 >}}
+
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Link back to Day 4" "#Instructor_and_Student_Work" %}}
+
+## {{< anchor "Ortho_Script" >}}{{< /anchor >}}Script: Final Draft
 
 ### Script for Ortho Video v4
 
@@ -230,11 +229,9 @@ Smarter.
 
 And once we've tasted the forbidden fruit will we still be human?
 
-[_Link back to Day 7  
-_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{% resource_link "d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d" "Link back to Day 7" %}}
 
-{{< anchor "Ortho_Shot_List-prelim" >}}{{< /anchor >}}Day 8 Shot List
----------------------------------------------------------------------
+## {{< anchor "Ortho_Shot_List-prelim" >}}{{< /anchor >}}Day 8 Shot List
 
 ### Ortho Shoot Scene 1
 
@@ -254,33 +251,32 @@ Dialog:
 
 Eating foods is one of the great pleasures of life. And to enjoy foods from… energy bars… to cookies… to fruits and vegetables, we rely on one part of our bodies: our teeth. Don't forget 10 sec of roomtone.
 
-To Shoot_:  
-_
+To Shoot:
 
 Farmer's market (alternate: Harvest Coop)
 
-*   Andrea walking around produce aisle saying dialog. At end, pick up an apple when she says "fruits and vegetables."
+- Andrea walking around produce aisle saying dialog. At end, pick up an apple when she says "fruits and vegetables."
 
 Harvest Coop:
 
-*   Pan of energy bar shelves—about 10 seconds total.
+- Pan of energy bar shelves—about 10 seconds total.
 
 Flour Bakery:
 
-*   Pan of cookies in bakery cases—about 10 seconds.
+- Pan of cookies in bakery cases—about 10 seconds.
 
 Classroom Blackboard:
 
-*   Closeup shot of Andrea eating an apple. Will be sped up in post. Do this once on each day. (Wed, Thu, Fri)
-*   Should probably have music.
+- Closeup shot of Andrea eating an apple. Will be sped up in post. Do this once on each day. (Wed, Thu, Fri)
+- Should probably have music.
 
 Wardrobe:
 
-*   Red MIT sweatshirt, brown pants, hair in barette.
+- Red MIT sweatshirt, brown pants, hair in barette.
 
 Props:
 
-*   Apple
+- Apple
 
 —————————————————
 
@@ -302,16 +298,16 @@ To Shoot:
 
 Classroom Blackboard
 
-*   Andrea delivering first 2 lines with glass tooth sculpture in hand. Leave room for goat to be displayed jumping in animation on top of tooth.
-*   Closeup of Andrea delivering 3rd line without tooth visible.
+- Andrea delivering first 2 lines with glass tooth sculpture in hand. Leave room for goat to be displayed jumping in animation on top of tooth.
+- Closeup of Andrea delivering 3rd line without tooth visible.
 
 Wardrobe:
 
-*   Red MIT sweatshirt, brown pants, hair in barrette.
+- Red MIT sweatshirt, brown pants, hair in barrette.
 
 Props:
 
-*   Glass tooth, pedestal
+- Glass tooth, pedestal
 
 ————-
 
@@ -339,12 +335,12 @@ To Shoot:
 
 Classroom Blackboard
 
-*   Andrea doing voiceover
-*   5 second Closeup of Andrea biting down hard and making a pained face (to be displayed during line" such as biting into an apple seed, these receptors tell your brain to stop biting down!")
+- Andrea doing voiceover
+- 5 second Closeup of Andrea biting down hard and making a pained face (to be displayed during line" such as biting into an apple seed, these receptors tell your brain to stop biting down!")
 
 Wardrobe:
 
-*   Red MIT sweatshirt, brown pants, hair in barette
+- Red MIT sweatshirt, brown pants, hair in barette
 
 ——————————-
 
@@ -370,23 +366,23 @@ To Shoot:
 
 Classroom Blackboard
 
-*   Close - up of Andrea delivering "here's where it gets interesting"
+- Close - up of Andrea delivering "here's where it gets interesting"
 
 Orthodontic Operatory
 
-*   Andrea (in MIT shirt) stands in front of dental chair wearing goofy teeth to deliver line "But sometimes we **Need** to force teeth in a certain direction."
-*   Andrea hops in dental chair (will be sped up in post).
-*   Closeup of Andrea, dressed as doctor, pulling on gloves.
-*   Andrea hops out of dental chair and faces camera, smiling with fake braces in while VO says "like with braces"
+- Andrea (in MIT shirt) stands in front of dental chair wearing goofy teeth to deliver line "But sometimes we **Need** to force teeth in a certain direction."
+- Andrea hops in dental chair (will be sped up in post).
+- Closeup of Andrea, dressed as doctor, pulling on gloves.
+- Andrea hops out of dental chair and faces camera, smiling with fake braces in while VO says "like with braces"
 
 Wardrobe:
 
-*   Red MIT sweatshirt, brown pants, hair in barrette, goofy teeth, fake braces
-*   Doctor gown, mask, gloves
+- Red MIT sweatshirt, brown pants, hair in barrette, goofy teeth, fake braces
+- Doctor gown, mask, gloves
 
 Props:
 
-*   Dental chair
+- Dental chair
 
 ——————
 
@@ -394,28 +390,26 @@ Props:
 
 Locations:
 
-*   Orthodontic Operatory
-*   Classroom Blackboard
+- Orthodontic Operatory
+- Classroom Blackboard
 
-_VO_
+*VO*
 
 Your jaw isn't the only place where these osteoclasts and osteoblasts alter your bone structure. In fact, this bony remodeling process is happening throughout your body.
 
 Where braces use bone remodeling to make teeth straighter for mostly cosmetic reasons, dental implants replace teeth that are damaged or missing - to restore chewing function.
 
-[_Link back to Day 8_]({{< baseurl >}}/pages/days-8-9-10-project-time#Student_Work)
+{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Link back to Day 8" "#Student_Work" %}}
 
-{{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
---------------------------------------------------
+## {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 
 {{< resource 2796ca14-31ce-ed47-7b4d-9cc12e905555 >}}
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Link back to Day 11" "#Student_Work" %}}
 
-{{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
-----------------------------------------------------------
+## {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 
 {{< resource 07877a94-158a-b10f-584d-0dfc3ad591fa >}}
 
@@ -443,10 +437,9 @@ Production Assistants: Nathan Hernandez, Fred Yarm
 
 Thanks to: Everyone in IAP15 20.219, the folks at DPI, and especially to my brother John Desrosiers, who inspired my love of science.
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "Link back to Day 13" "#Student_Work" %}}
 
-{{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
-----------------------------------------------------------------
+## {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 
 Andrea's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
 
@@ -454,4 +447,4 @@ Andrea's video was professionally produced by [Science Out Loud](http://k12video
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 
-« [Previous]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project) | [Next]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project) »
+« {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" %}} | {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" %}} »

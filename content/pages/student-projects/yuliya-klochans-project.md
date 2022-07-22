@@ -1,32 +1,34 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Projects
+parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Yuliya Klochan's Project
 uid: 199a8a68-327f-ee7d-62ee-54642710c541
 ---
-
-« [Previous]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project) | [Next]({{< baseurl >}}/pages/student-projects/david-yams-project) »
+« {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Previous" %}} | {{% resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "Next" %}} »
 
 [_Link to_ _Yuliya Klochan's Page on Tumblr_](http://mit219.tumblr.com/tagged/yklochan)
 
-Contents
---------
+## Contents
 
-*   [Day 1 Gödel's Theorem Video Pitch](#G_del_s_Theorem_Video_Pitch)
-*   [Day 2 Math Woman Saves the World Script](#Math_Woman_Saves_the_World)
-*   [Day 3 Trailer](#Day_3_Trailer:_Fractals_)
-*   [Day 4 Storyboard](#Day_4_Storyboard)
-*   [Day 5 Fractals Video Script Draft 2](#Fractals_Video_Script_Draft_2)
-*   [Day 6 Fractals! Script Revisited](#Fractals__Script_Revisited)
-*   [Day 7 Script](#DAY_7_Script__Fractals__)
-*   [Day 8 Fractals! Shot List](#Fractals__Shot_List)
-*   [Fractals! Rough Cut](#Fractals__Rough_Cut)
-*   [Final Project](#Final_Project)
-*   [Science Out Loud](#Science_Out_Loud)
+- [Day 1 Gödel's Theorem Video Pitch](#G_del_s_Theorem_Video_Pitch)
+- [Day 2 Math Woman Saves the World Script](#Math_Woman_Saves_the_World)
+- [Day 3 Trailer](#Day_3_Trailer:_Fractals_)
+- [Day 4 Storyboard](#Day_4_Storyboard)
+- [Day 5 Fractals Video Script Draft 2](#Fractals_Video_Script_Draft_2)
+- [Day 6 Fractals! Script Revisited](#Fractals__Script_Revisited)
+- [Day 7 Script](#DAY_7_Script__Fractals__)
+- [Day 8 Fractals! Shot List](#Fractals__Shot_List)
+- [Fractals! Rough Cut](#Fractals__Rough_Cut)
+- [Final Project](#Final_Project)
+- [Science Out Loud](#Science_Out_Loud)
 
-{{< anchor "G_del_s_Theorem_Video_Pitch" >}}{{< /anchor >}}Day 1 Gödel's Theorem Video Pitch
---------------------------------------------------------------------------------------------
+## {{< anchor "G_del_s_Theorem_Video_Pitch" >}}{{< /anchor >}}Day 1 Gödel's Theorem Video Pitch
 
 {{< resource 8e63c182-7651-0bb9-9b75-2c2254bc2a59 >}}
 
@@ -34,10 +36,9 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 
 The beginning of an odd mathematical journey that asks (but cannot always answer) questions like, "Is math true?" or "Could The Matrix scenario happen to us?"
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Link back to Day 1" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Math_Woman_Saves_the_World" >}}{{< /anchor >}}Day 2 Math Woman Saves the World (the Script)
--------------------------------------------------------------------------------------------------------
+## {{< anchor "Math_Woman_Saves_the_World" >}}{{< /anchor >}}Day 2 Math Woman Saves the World (the Script)
 
 _Note: This seems, at this point, an odd amalgamation of various mathematical ideas. A read-through takes just under 5 minutes, but I will most likely filter a lot of the material. I just wanted to grasp the character for now. Also, phrases in brackets \[\] are optional and italicized ones are filming directions._
 
@@ -119,45 +120,59 @@ Save the world with math. No superpowers required.
 
 **The End**
 
-[_Link back to Day 2  
-_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Link back to Day 2" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_3_Trailer:_Fractals_" >}}{{< /anchor >}}Day 3 Trailer: Fractals!
---------------------------------------------------------------------------------
+## {{< anchor "Day_3_Trailer:_Fractals_" >}}{{< /anchor >}}Day 3 Trailer: Fractals!
 
 {{< resource 0cce493e-b93f-c3e9-4588-155aec2dce0f >}}
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Link back to Day 3" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
-----------------------------------------------------------------
+## {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 
-![YuliyaKlochan-day4storyboard-1.jpg]({{< resource_file 2636f62e-5962-0991-db84-bb783891c615 >}})
+{{< resource 2636f62e-5962-0991-db84-bb783891c615 >}}
 
-![YuliyaKlochan-day4storyboard-2.jpg]({{< resource_file ec4d041e-daf7-9b5d-f1db-43add958c4e6 >}})
+ 
 
-![YuliyaKlochan-day4storyboard-3.jpg]({{< resource_file 5219497e-d452-22df-afe0-437da5543672 >}})
+{{< resource ec4d041e-daf7-9b5d-f1db-43add958c4e6 >}}
 
-![YuliyaKlochan-day4storyboard-4.jpg]({{< resource_file 86d44ed7-1c84-08b1-74eb-da42708398bd >}})
+ 
 
-![YuliyaKlochan-day4storyboard-5.jpg]({{< resource_file 31442b80-4ebd-46ff-5829-d43178deb7fc >}})
+{{< resource 5219497e-d452-22df-afe0-437da5543672 >}}
 
-![YuliyaKlochan-day4storyboard-6.jpg]({{< resource_file ddcd52a0-776f-d578-fdbe-a20aaeb5da49 >}})
+ 
 
-![YuliyaKlochan-day4storyboard-7.jpg]({{< resource_file 53ddafb7-399c-75d9-7401-14ec0d052fbd >}})
+{{< resource 86d44ed7-1c84-08b1-74eb-da42708398bd >}}
 
-![YuliyaKlochan-day4storyboard-8.jpg]({{< resource_file 2cd5e78e-a092-d81c-5ae4-d1998065da83 >}})
+ 
 
-![YuliyaKlochan-day4storyboard-9.jpg]({{< resource_file 2f8f0821-dea7-ef44-9c40-041a2ed60e57 >}})
+{{< resource 31442b80-4ebd-46ff-5829-d43178deb7fc >}}
 
-![YuliyaKlochan-day4storyboard-10.jpg]({{< resource_file c1f067c2-d2c5-5e33-0d4e-cc5daf49b91e >}})
+ 
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{< resource ddcd52a0-776f-d578-fdbe-a20aaeb5da49 >}}
 
-{{< anchor "Fractals_Video_Script_Draft_2" >}}{{< /anchor >}}Day 5 Script: Fractals Video Script (Draft 2)
-----------------------------------------------------------------------------------------------------------
+ 
+
+{{< resource 53ddafb7-399c-75d9-7401-14ec0d052fbd >}}
+
+ 
+
+{{< resource 2cd5e78e-a092-d81c-5ae4-d1998065da83 >}}
+
+ 
+
+{{< resource 2f8f0821-dea7-ef44-9c40-041a2ed60e57 >}}
+
+ 
+
+{{< resource c1f067c2-d2c5-5e33-0d4e-cc5daf49b91e >}}
+
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Link back to Day 4" "#Instructor_and_Student_Work" %}}
+
+## {{< anchor "Fractals_Video_Script_Draft_2" >}}{{< /anchor >}}Day 5 Script: Fractals Video Script (Draft 2)
 
 ### Pitch
 
@@ -229,11 +244,9 @@ Look around you. What beautiful patterns do you see?
 
 **The End**
 
-[_Link back to Day 5  
-_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Link back to Day 5" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Fractals__Script_Revisited" >}}{{< /anchor >}}Day 6 Fractals! Script Revisited
-------------------------------------------------------------------------------------------
+## {{< anchor "Fractals__Script_Revisited" >}}{{< /anchor >}}Day 6 Fractals! Script Revisited
 
 What do snowflakes and cell phones have in common?
 
@@ -245,7 +258,7 @@ To model a snowflake, for example, start by drawing an equilateral triangle. Div
 
 Take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-![work8YulKlochan1.jpg]({{< resource_file 1e45e705-75a1-3a24-7cc5-d10d2834b79e >}})
+{{< resource 1e45e705-75a1-3a24-7cc5-d10d2834b79e >}}
 
 This curve is called in mathematics a Koch Snowflake. It is a fractal because, if you zoom in, you'll get this same pattern (show pattern) again and again.
 
@@ -281,11 +294,9 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 
 Look around you. What beautiful patterns do you see?
 
-[_Link back to Day 6  
-_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)
+{{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "Link back to Day 6" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "DAY_7_Script__Fractals__" >}}{{< /anchor >}}Day 7 Script (Fractals!)
---------------------------------------------------------------------------------
+## {{< anchor "DAY_7_Script__Fractals__" >}}{{< /anchor >}}Day 7 Script (Fractals!)
 
 What do snowflakes and cell phones have in common?
 
@@ -295,7 +306,7 @@ First, I'd draw an equilateral triangle, divide each side into three equal parts
 
 Then take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-![work8YulKlochan.jpg]({{< resource_file 46aaa846-b699-f143-f03e-dc11c43fc874 >}})
+{{< resource 46aaa846-b699-f143-f03e-dc11c43fc874 >}}
 
 This curve is called in mathematics a Koch Snowflake. If I repeated the process again and again, and looked anywhere, I would see this same pattern: (Show)
 
@@ -331,56 +342,52 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 
 Look around you. What beautiful patterns do you see?
 
-[_Link back to Day 7_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "Link back to Day 7" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Fractals__Shot_List" >}}{{< /anchor >}}Day 8 Fractals! Shot List
-----------------------------------------------------------------------------
+## {{< anchor "Fractals__Shot_List" >}}{{< /anchor >}}Day 8 Fractals! Shot List
 
 ### Clothing and Props
 
-*   Stata: Dark black / blue clothing to contrast murals; Props: Chalk, tissue, cell phone
-*   Outdoors: Light blue winter jacket, black pants and gloves
-*   EC Shower: Flip flops, I <3 MIT T shirt, black sports pants; Props: Sponge, soap, cup, towel, phone (anything glued on?)
-*   Office / Indoor Locations: Blue dress; Props: Laptop, bent wire (string?)
+- Stata: Dark black / blue clothing to contrast murals; Props: Chalk, tissue, cell phone
+- Outdoors: Light blue winter jacket, black pants and gloves
+- EC Shower: Flip flops, I \<3 MIT T shirt, black sports pants; Props: Sponge, soap, cup, towel, phone (anything glued on?)
+- Office / Indoor Locations: Blue dress; Props: Laptop, bent wire (string?)
 
 ### Locations
 
 **Stata Center (3 pm, January 14)**
 
-*   **By Pool Mural (Introduction):** "What do snowflakes and cell phones have in common? Well, let me start by drawing a snowflake."
-*   **Balcony of Amphitheatre (Alternative Intro):** Same text
-*   **Blackboard** _(show demo of drawing the first iteration of Koch, then zoom to pre-drawn image of Koch Snowflake and its repeating pattern)_: "First, I'd draw an equilateral triangle, divide each side into three equal parts, and build another equilateral triangle on top of each side. Then take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this: _(turn and gesture)_. This curve is called in mathematics a Koch Snowflake. If I repeated the process again and again, and looked anywhere, I would see this same pattern: _(show)_."
-*   **By Mural of Broccoli:** "Natural selection favors the most efficient systems and organisms, often of a fractal shape. The spiral fractal, for example, is present in seashells, broccoli, and hurricanes. The fractal tree is relatively easy to program, and allows mathematicians to study anything from river systems to blood vessels and lightning bolts. So many natural systems previously thought off-limits to mathematicians can now be explained in terms of fractals."
-*   **Balcony of Amphitheatre (Conclusion):** "Thus, fractals allow us to learn nature's best practices, and then apply them to solve real world problems. Much like Cohen's antenna revolutionized telecommunications, other fractal research is changing fields of medicine, weather prediction, and many more. Here at MIT (move camera from host and Charles river to MIT dome right across) and everywhere in the world. Look around you. What beautiful patterns do you see?"
+- **By Pool Mural (Introduction):** "What do snowflakes and cell phones have in common? Well, let me start by drawing a snowflake."
+- **Balcony of Amphitheatre (Alternative Intro):** Same text
+- **Blackboard** _(show demo of drawing the first iteration of Koch, then zoom to pre-drawn image of Koch Snowflake and its repeating pattern)_: "First, I'd draw an equilateral triangle, divide each side into three equal parts, and build another equilateral triangle on top of each side. Then take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this: _(turn and gesture)_. This curve is called in mathematics a Koch Snowflake. If I repeated the process again and again, and looked anywhere, I would see this same pattern: _(show)_."
+- **By Mural of Broccoli:** "Natural selection favors the most efficient systems and organisms, often of a fractal shape. The spiral fractal, for example, is present in seashells, broccoli, and hurricanes. The fractal tree is relatively easy to program, and allows mathematicians to study anything from river systems to blood vessels and lightning bolts. So many natural systems previously thought off-limits to mathematicians can now be explained in terms of fractals."
+- **Balcony of Amphitheatre (Conclusion):** "Thus, fractals allow us to learn nature's best practices, and then apply them to solve real world problems. Much like Cohen's antenna revolutionized telecommunications, other fractal research is changing fields of medicine, weather prediction, and many more. Here at MIT (move camera from host and Charles river to MIT dome right across) and everywhere in the world. Look around you. What beautiful patterns do you see?"
 
 **East Campus (12:30 pm, January 15)**
 
-*   **In Goodale Shower (with Wet Sponge):** "The Menger Sponge is not really the sponge you'd be scrubbing your back with, but you can still think of it kind of like that. Imagine both water and soap getting through your sponge's holes, except the water is Wi Fi and the soap is, say, Bluetooth."
-*   **Sit on Sink for Fractal Mirror Effect:** "The fractal's infinite "sponginess" allows the antenna to operate well at many different frequencies simultaneously. Before Cohen's invention, antennas had to be "cut" for one necessary frequency. That was the only frequency they could operate at. So, without Cohen's "sponge," your cell phone would have to look something like a hedgehog to receive different signals, including the radio signal that allows you to hear your friends when they call (illustrate: Phone with several antennas glued on and labels)."
+- **In Goodale Shower (with Wet Sponge):** "The Menger Sponge is not really the sponge you'd be scrubbing your back with, but you can still think of it kind of like that. Imagine both water and soap getting through your sponge's holes, except the water is Wi Fi and the soap is, say, Bluetooth."
+- **Sit on Sink for Fractal Mirror Effect:** "The fractal's infinite "sponginess" allows the antenna to operate well at many different frequencies simultaneously. Before Cohen's invention, antennas had to be "cut" for one necessary frequency. That was the only frequency they could operate at. So, without Cohen's "sponge," your cell phone would have to look something like a hedgehog to receive different signals, including the radio signal that allows you to hear your friends when they call (illustrate: Phone with several antennas glued on and labels)."
 
 ### Office with Computer / Laptop (time TBD)
 
-*   _(show graphic zoom of Koch Snowflake using XaOS software):_ "Such never-ending patterns that on any scale, on any level of zoom, look roughly the same are called fractals. Computer scientists can program these infinite patterns by repeating an often simple mathematical process over and over. In 1990's, a radio astronomer named Nathan Cohen used the Koch snowflake to revolutionize wireless communications."
-*   "Cohen later proved that only fractal shapes could work with such a wide range of frequencies. Today, millions of wireless communication devices, such as laptops and barcode scanners, also use Cohen's fractal antenna. Cohen's genius invention, however, was not the first application of fractals in the world. Nature has been doing it the whole time, and not just with snowflakes!"
+- _(show graphic zoom of Koch Snowflake using XaOS software):_ "Such never-ending patterns that on any scale, on any level of zoom, look roughly the same are called fractals. Computer scientists can program these infinite patterns by repeating an often simple mathematical process over and over. In 1990's, a radio astronomer named Nathan Cohen used the Koch snowflake to revolutionize wireless communications."
+- "Cohen later proved that only fractal shapes could work with such a wide range of frequencies. Today, millions of wireless communication devices, such as laptops and barcode scanners, also use Cohen's fractal antenna. Cohen's genius invention, however, was not the first application of fractals in the world. Nature has been doing it the whole time, and not just with snowflakes!"
 
 ### Workspace / Lab (to be discussed)
 
-*   "At the time, Cohen was having troubles with his landlord. The man wouldn't let him put a radio antenna on the roof! So, Cohen decided to make a more compact, fractal radio antenna instead _(show wire bent as Koch snowflake.)_ The landlord didn't notice it. And it worked better than the ones before! Working further, Cohen designed a new version, this time using a fractal called "the Menger Sponge" _(build a tangible model of the Sponge, and show it)_."
+- "At the time, Cohen was having troubles with his landlord. The man wouldn't let him put a radio antenna on the roof! So, Cohen decided to make a more compact, fractal radio antenna instead _(show wire bent as Koch snowflake.)_ The landlord didn't notice it. And it worked better than the ones before! Working further, Cohen designed a new version, this time using a fractal called "the Menger Sponge" _(build a tangible model of the Sponge, and show it)_."
 
-[_Link back to Day 8  
-_]({{< baseurl >}}/pages/days-8-9-10-project-time#Student_Work)
+ 
 
-{{< anchor "Fractals__Rough_Cut" >}}{{< /anchor >}}Fractals! Rough Cut
-----------------------------------------------------------------------
+## {{< anchor "Fractals__Rough_Cut" >}}{{< /anchor >}}{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Fractals! Rough Cut" "#Student_Work" %}}
 
 {{< resource 0c990edf-7f53-41ad-ed67-0e524f7e2be4 >}}
 
-This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
+{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "This video is courtesy of " "#Student_Work" %}} [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Link back to Day 11" "#Student_Work" %}}
 
-{{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
-----------------------------------------------------------
+## {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 
 {{< resource f9828400-95e8-4546-a040-5fb6f1e60de4 >}}
 
@@ -398,10 +405,9 @@ Additional Scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108819986121/fractals-creative-commons-cc-by-nc-sa-mit)
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "Link back to Day 13" "#Student_Work" %}}
 
-{{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
-----------------------------------------------------------------
+## {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 
 Yuliya's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
 
@@ -409,4 +415,4 @@ Yuliya's video was professionally produced by [Science Out Loud](http://k12video
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 
-« [Previous]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project) | [Next]({{< baseurl >}}/pages/student-projects/david-yams-project) »
+« {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Previous" %}} | {{% resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "Next" %}} »

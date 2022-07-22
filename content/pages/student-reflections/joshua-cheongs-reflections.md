@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section contains the reflections (in the form of blogs and vlogs)
+  of Joshua Cheong on the course and the course project.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Reflections
+parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Joshua Cheong's Reflections
 uid: 7b1a98fc-328d-4951-fd19-a2109aff7506
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections) »
+« {{% resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Previous" %}} | {{% resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Next" %}} »
 
 [Day 1](#Joshch_s_Day_1_Thoughts) | [Day 3](#Day_3_Reflections) | [Day 4](#Vlog_Day_4) | [Day 5](#Day_5_Reflection) | [Day 7](#Joshch_s_Day_7_Thoughts) | [Day 11](#Day_11_Thoughts)
 
@@ -27,7 +32,7 @@ Perhaps I'm sounding more and more crazy here, but maybe what we need is a littl
 
 Looking forward to the next class!
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_3_Reflections" >}}{{< /anchor >}}**Day 3 Reflections
 ----------------------------------------------------------------------
@@ -36,7 +41,7 @@ Looking forward to the next class!
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Vlog_Day_4" >}}{{< /anchor >}}**Vlog Day 4
 --------------------------------------------------------
@@ -45,7 +50,7 @@ This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMy
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_5_Reflection" >}}{{< /anchor >}}**Day 5 Reflection
 --------------------------------------------------------------------
@@ -60,7 +65,7 @@ I loved it that I learned some technical terms for filming such as B-Roll, Pacin
 
 I found Elizabeth's tips on developing a checklist extremely useful and I can see how I would totally lose a lot of time if I were to be less prepared. I am soo excited to scout for locations and start planning the shots!! Have a great weekend to y'all!! Looking forward to monday!
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Joshch_s_Day_7_Thoughts" >}}{{< /anchor >}}**Day 7 Thoughts
 -------------------------------------------------------------------------
@@ -73,7 +78,7 @@ I really love those memorable quotes, "You must kill all your darlings!", "Editi
 
 I also took both PJ's and Andrea's advice of simplifying the numbers.
 
-[_Link back to Day 7_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" %}}
 
 **{{< anchor "Day_11_Thoughts" >}}{{< /anchor >}}**Day 11 Thoughts
 ------------------------------------------------------------------
@@ -102,6 +107,6 @@ Best regards,
 
 Joshua Cheong
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections) »
+« {{% resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Previous" %}} | {{% resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Next" %}} »

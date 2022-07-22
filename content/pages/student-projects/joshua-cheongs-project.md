@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Student Projects
+parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Joshua Cheong's Project
 uid: 32b67e5b-5210-05d4-f811-9b60fb7ee964
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project) | [Next]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project) »
+« {{% resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Previous" %}} | {{% resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Next" %}} »
 
 [_Link to_ _Joshua Cheong's Page on Tumblr_](http://mit219.tumblr.com/tagged/joshch)
 
@@ -37,7 +41,7 @@ This is just a preliminary pitch on how to introduce one of the most important c
 
 The YouTube has yet to be fully processed so it may take a while to come live. Till then, imma get some sleep!
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: How Does a Google Search Work?
 ----------------------------------------------------------------------------------------
@@ -60,7 +64,7 @@ Is finding James such a big deal? Well, yes! Finding James faster means getting 
 
 So the next time you do a Google search, know that you're in good hands with the fastest methods to find your search.
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_3_Trailer" >}}{{< /anchor >}}Day 3 Trailer
 ----------------------------------------------------------
@@ -69,7 +73,7 @@ So the next time you do a Google search, know that you're in good hands with the
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_4_Script" >}}{{< /anchor >}}Day 4 Script
 --------------------------------------------------------
@@ -106,14 +110,14 @@ In the same way, simply by placing your home items in locations where they have 
 
 Aha! So that's where my gloves are!
 
-And that's how we find stuff better. Not a just little bit better but a lot better![]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+And that's how we find stuff better. Not a just little bit better but a lot better!{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 ----------------------------------------------------------------
 
-![Joshua-Cheong---day-4-story.jpg]({{< resource_file 9533ce82-7a08-ebf8-6930-7baf309a7813 >}})  
+{{< resource 9533ce82-7a08-ebf8-6930-7baf309a7813 >}}  
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_5_Script" >}}{{< /anchor >}}Day 5 Script
 --------------------------------------------------------
@@ -158,7 +162,7 @@ In the same way, simply by placing your home items in locations where they have 
 
 Aha! So that's where my gloves are!
 
-And that's how we find stuff better. Not a just little bit better but a lot better![]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+And that's how we find stuff better. Not a just little bit better but a lot better!{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_5_Storyboard" >}}{{< /anchor >}}Day 5 Storyboard
 ----------------------------------------------------------------
@@ -365,7 +369,7 @@ Aha! So that's where my gloves are!
 
 {{< tableclose >}}
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Script:_Final_Iteration" >}}{{< /anchor >}}Script: Final Iteration
 ------------------------------------------------------------------------------
@@ -396,8 +400,7 @@ Also notice how the better method depends on prearranging the people in alphabet
 
 Aha! So that's where my gloves are! And that's the story of Search!
 
-[_Link back to Day 7  
-_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{% resource_link "d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d" "_Link back to Day 7   _" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 --------------------------------------------------
@@ -406,7 +409,7 @@ _]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Stu
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
 
 {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project: Why can't I find my glove? The Science of Search
 ------------------------------------------------------------------------------------------------------------
@@ -433,6 +436,6 @@ Production Assistant: David Yam
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108852064906/creative-commons-cc-by-nc-sa-mit)
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
 
-« [Previous]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project) | [Next]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project) »
+« {{% resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Previous" %}} | {{% resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Next" %}} »

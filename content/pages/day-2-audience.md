@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: The section explains what happened on Day 2 of this course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Day 2: Audience'
 uid: 3da88bd7-fc04-b288-6227-11604ae6a159
 ---
 
-« [Previous]({{< baseurl >}}/pages/day-1-identity-and-genre) | [Next]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1) »
+« {{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Previous" %}} | {{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Next" %}} »
 
 Contents
 --------
@@ -28,9 +31,9 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### Video Chapters
 
-*   [Welcome the middle school consultants]({{< baseurl >}}/resources/copy_of_day-2-part-1)
-*   [The consultations begin]({{< baseurl >}}/resources/copy2_of_day-2-part-1)
-*   [The consultations end; recap of favorite ideas]({{< baseurl >}}/resources/copy3_of_day-2-part-1)
+*   {{% resource_link f0056251-70a3-d5da-e28b-846429aca584 "Welcome the middle school consultants" %}}
+*   {{% resource_link ffaab1d9-dc33-97b1-1964-a662fd345f03 "The consultations begin" %}}
+*   {{% resource_link 1780a0fb-358c-87eb-0c0f-ff45c67ed1bc "The consultations end; recap of favorite ideas" %}}
 
 **{{< anchor "Part_2:_BioBuilder.org" >}}{{< /anchor >}}**Part 2: BioBuilder.org
 --------------------------------------------------------------------------------
@@ -39,8 +42,8 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### Video Chapters
 
-*   [Introduction to BioBuilder.org]({{< baseurl >}}/resources/copy_of_day-2-part-2)
-*   [The first BioBuilder animation]({{< baseurl >}}/resources/copy2_of_day-2-part-2)
+*   {{% resource_link 48cfbc21-b775-bf97-95db-c4d1f35e1929 "Introduction to BioBuilder.org" %}}
+*   {{% resource_link 8e4b9639-1193-5c29-2076-1b945fb975a0 "The first BioBuilder animation" %}}
 
 ### In-class Media
 
@@ -55,10 +58,10 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### Video Chapters
 
-*   [Recap of the middle school consultations]({{< baseurl >}}/resources/copy_of_day-2-part-3)
-*   [Science Out Loud's first biology video]({{< baseurl >}}/resources/copy2_of_day-2-part-3)
-*   [STEM nugget workshop: students and instructors brainstorm]({{< baseurl >}}/resources/copy3_of_day-2-part-3)
-*   [Day 2 assignment and wrap-up]({{< baseurl >}}/resources/copy4_of_day-2-part-3)
+*   {{% resource_link 3f54f93c-dce7-3022-4022-76ee46ed08b7 "Recap of the middle school consultations" %}}
+*   {{% resource_link 3cd46813-4be8-ba18-8c07-4a9db9bfc37f "Science Out Loud's first biology video" %}}
+*   {{% resource_link 82aa6d99-03e2-9c9b-b00e-cb7260f1d17c "STEM nugget workshop: students and instructors brainstorm" %}}
+*   {{% resource_link a32ac2b3-b9b7-5dd9-6e0a-9875fea4458f "Day 2 assignment and wrap-up" %}}
 
 ### In-class Media
 
@@ -66,7 +69,7 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### In-class Document
 
-*   [Elizabeth's STEM Nugget Brainstorm: Snot (PDF)]({{< baseurl >}}/resources/mit20_219iap15_eliz_scrpt)
+*   {{% resource_link 3ada2ee8-0d25-0e3f-1cba-3fb4f00205e1 "Elizabeth's STEM Nugget Brainstorm: Snot (PDF)" %}}
 
 **{{< anchor "Assignments" >}}{{< /anchor >}}**Assignments
 ----------------------------------------------------------
@@ -84,23 +87,23 @@ Write a 200-300 word script for an episode based around your STEM nugget. (Just 
 
 ### Day 2 Blogs / Vlogs
 
-*   [Elizabeth's day 2 blog]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections#Echoe_s_Day_2_Thoughts)
-*   [Ceri's day 2 blog]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections#Reflection_Day_2)
-*   [Kenneth's day 2 blog]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections#Blog_Entry_Day_2__Cheahyhk_)
-*   [Andrea's day 2 blog]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections#Day_2_Andrea_s_Struggles)
-*   [PJ's day 2 blog]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections#Pjfolino_s_Day_2_Thoughts)
-*   [Nathan's day 2 blog]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections#Hiji_s_Day_2_Thoughts)
-*   [Yuliya's day 2 blog]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections#Day_2_Thoughts_and_Feelings)
-*   [David's day 2 blog]({{< baseurl >}}/pages/student-reflections/david-yams-reflections#David_Yam_Day_2_Thoughts)
+*   {{% resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Elizabeth's day 2 blog" "#Echoe_s_Day_2_Thoughts" %}}
+*   {{% resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Ceri's day 2 blog" "#Reflection_Day_2" %}}
+*   {{% resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Kenneth's day 2 blog" "#Blog_Entry_Day_2__Cheahyhk_" %}}
+*   {{% resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Andrea's day 2 blog" "#Day_2_Andrea_s_Struggles" %}}
+*   {{% resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "PJ's day 2 blog" "#Pjfolino_s_Day_2_Thoughts" %}}
+*   {{% resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Nathan's day 2 blog" "#Hiji_s_Day_2_Thoughts" %}}
+*   {{% resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Yuliya's day 2 blog" "#Day_2_Thoughts_and_Feelings" %}}
+*   {{% resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "David's day 2 blog" "#David_Yam_Day_2_Thoughts" %}}
 
 ### Day 2 Scripts
 
-*   [Kenneth's day 2 script]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project#Day_2_Script)
-*   [Joshua's day 2 script]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project#Day_2_Script)
-*   [Andrea's day 2 script]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Day_2_Script)
-*   [PJ's day 2 script]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project#Day_2_Script)
-*   [Nathan's day 2 script]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project#Day_2_Script)
-*   [Yuliya's day 2 script]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Math_Woman_Saves_the_World)
-*   [David's day 2 script]({{< baseurl >}}/pages/student-projects/david-yams-project#Day_2_Script)
+*   {{% resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Kenneth's day 2 script" "#Day_2_Script" %}}
+*   {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Joshua's day 2 script" "#Day_2_Script" %}}
+*   {{% resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's day 2 script" "#Day_2_Script" %}}
+*   {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "PJ's day 2 script" "#Day_2_Script" %}}
+*   {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Nathan's day 2 script" "#Day_2_Script" %}}
+*   {{% resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Yuliya's day 2 script" "#Math_Woman_Saves_the_World" %}}
+*   {{% resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "David's day 2 script" "#Day_2_Script" %}}
 
-« [Previous]({{< baseurl >}}/pages/day-1-identity-and-genre) | [Next]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1) »
+« {{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Previous" %}} | {{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Next" %}} »
