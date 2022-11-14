@@ -2,6 +2,7 @@
 content_type: page
 description: This section contains the reflections (in the form of blogs and vlogs)
   of Paul PJ Folino on the course and the course project.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Reflections
@@ -10,7 +11,6 @@ parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Paul (PJ) Folino's Reflections
 uid: 3c8916c0-2b40-6ad3-1644-162454be10f0
 ---
-
 « {{% resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Previous" %}} | {{% resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Next" %}} »
 
 [Day 1](#Pjfolino_s_Day_1_Thoughts) | [Day 2](#Pjfolino_s_Day_2_Thoughts) | [Day 3](#Pjfolino_s_Day_3_Thoughts) | [Day 4](#Pjfolino_s_Day_4_Thoughts) | [Day 5](#Pjfolino_s_Day_5_Thoughts) | [Day 6](#Pjfolino_s_Day_6_Thoughts) | [Day 7](#Pjfolino_s_Day_7_Thoughts) | [Day 8](#Pjfolino_s_Day_8_Thoughts) | [Day 11](#Pjfolino_s_Day_11_Thoughts) | [Final Thoughts](#Pjfolino_s_Final_Thoughts)
