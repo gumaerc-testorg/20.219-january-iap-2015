@@ -1,7 +1,7 @@
 ---
 content_type: page
-description: ''
-draft: false
+description: 'Videos and written materials for one student project. '
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Projects
@@ -10,7 +10,7 @@ parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Paul (PJ) Folino's Project
 uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 ---
-« {{% resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Previous" %}} | {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Next" %}} »
+« {{% resource_link "1d079dd5-c0b4-174a-4773-f2520a5e0743" "Previous" %}} | {{% resource_link "65f298a7-9f2a-0550-e78e-d9fc7ff17ff4" "Next" %}} »
 
 [*Link to Paul (PJ) Folino's Page on Tumblr*](http://mit219.tumblr.com/tagged/pjfolino)
 
@@ -28,19 +28,19 @@ uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 - [Day 13 Final Project](#Final_Project)
 - [Science Out Loud](#Science_Out_Loud)
 
-## {{< anchor "Day_1_Pitch" >}}{{< /anchor >}}Day 1 Pitch: The Science of Poaching an Egg Pitch
+## anchoranchorDay 1 Pitch: The Science of Poaching an Egg Pitch
 
-{{< resource 1814d85e-b530-0b7d-b278-765feb1c8e78 >}}
+{{< resource uuid="1814d85e-b530-0b7d-b278-765feb1c8e78" >}}
 
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
 I have never been able to poach an egg well. Come to find out, there is a lot of science behind poaching eggs!
 
-Food for thought: Did you know there are statistical correlations between how you cook your eggs and how happy you are?
+Food for thought: Did you know there are statistical correlations between how you cook your eggs and how happy you are? 
 
-{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Link back to Day 1" "#Instructor_and_Student_Work" %}}
+{{% resource_link "e7ab07a5-9bf4-78a1-8a95-a815093ec211" "Link back to Day 1" "#Instructor_and_Student_Work" %}}
 
-## {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script
+## anchoranchorDay 2 Script
 
 Title: Thinking about Sinking
 
@@ -71,7 +71,7 @@ II. Body
 
 (Cut to moving image of Archimedes in bathtub, just audio)
 
-1. Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the mass of water it displaces. He was so excited about his discovery that he ran through the streets naked screaming "Eureka!"      
+1. Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the mass of water it displaces. He was so excited about his discovery that he ran through the streets naked screaming "Eureka!"       
       
     (Have easel with white paper to describe this concept)
 2. This can simply be explained by the following: if the weight of an object divided by its volume is greater than 1, it will sink, if less than 1 it will float. If it equals one it remains neutrally buoyant, like a submarine.
@@ -85,31 +85,31 @@ III. Conclusion
 
 1\. In conclusion, subdivision is used on vessels for many reasons, one of which is to ensure the ship doesn't sink! As a naval architect, you will be ensuring that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that your loved ones return safely from the sea!
 
-{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Link back to Day 2" "#Instructor_and_Student_Work" %}}
+{{% resource_link "3da88bd7-fc04-b288-6227-11604ae6a159" "Link back to Day 2" "#Instructor_and_Student_Work" %}}
 
-## {{< anchor "Subdivision_Pitch" >}}{{< /anchor >}}Day 3 Trailer: Subdivision Pitch
+## anchoranchorDay 3 Trailer: Subdivision Pitch
 
-{{< resource 3c665d01-b608-9199-a462-cc2b1510e997 >}}
+{{< resource uuid="3c665d01-b608-9199-a462-cc2b1510e997" >}}
 
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
 The actual prototype is being thought of / designed. This subdivided "barge" WILL sink.
 
-{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Link back to Day 3" "#Instructor_and_Student_Work" %}}
+{{% resource_link "36586ba5-68db-37ca-a516-348b595214d8" "Link back to Day 3" "#Instructor_and_Student_Work" %}}
 
-## {{< anchor "Paul_s_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
+## anchoranchorDay 4 Storyboard
 
-{{< resource 95bee45f-c7d0-de0d-68c7-a0e2f13ea13b >}}
+{{< resource uuid="95bee45f-c7d0-de0d-68c7-a0e2f13ea13b" >}}
 
  
 
-{{< resource 7541c31a-d8c8-ba1b-4794-4707325cfbf2 >}}
+{{< resource uuid="7541c31a-d8c8-ba1b-4794-4707325cfbf2" >}}
 
 I am still refining the script.
 
-{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Link back to Day 4" "#Instructor_and_Student_Work" %}}
+{{% resource_link "60a6ea96-1026-802d-98a9-351ce3b38557" "Link back to Day 4" "#Instructor_and_Student_Work" %}}
 
-## {{< anchor "Pjfolino_s_Script_Draft_2" >}}{{< /anchor >}}Day 5 Script
+## anchoranchorDay 5 Script
 
 Title: Thinking about Sinking
 
@@ -151,9 +151,9 @@ You would be correct. But it gets to a point where if we add too much weight, th
 
 *(Pratt School Museum, in uniform)* As a Coast Guard Marine Inspector and naval architect, I have lost sleep over the thought of ships sinking and people being injured. We have to ensure that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that our loved ones return safely from the sea!
 
-{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Link back to Day 5" "#Instructor_and_Student_Work" %}}
+{{% resource_link "eee7bfe9-1be2-975c-496f-b04747f0e092" "Link back to Day 5" "#Instructor_and_Student_Work" %}}
 
-## {{< anchor "Pjfolino_s_Script_Redo" >}}{{< /anchor >}}Day 6 Script
+## anchoranchorDay 6 Script
 
 When we take really complex things and break them down into smaller pieces, we find out that we know a lot more about things than we think.
 
@@ -175,7 +175,7 @@ Here we have ORCA I and ORCA II from before. Even though these boxes don't engag
 
 If we remove the tops of both boxes and take a look inside *(Video a close up of removing the decks, just audio voice), (back to presenting)* we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't. These compartments are watertight *(point to ORCA II compartments)*; even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated. We refer to ORCA II as being subdivided.
 
-*(Back to CU)* It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
+*(Back to CU)* It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5sup century, show that water could enter ships without sinking. So let's find out why this happens.
 
 Well, when we divide the ship into watertight compartments, we are limiting the amount of water that can enter it. If we divided a ship into 10 equal size compartments, and one sprung a leak, then only that compartment would flood. This would cause the ship to heel and trim, but it wouldn't cause a complete loss of ship and cargo, and the ship would hobble into port and get repairs. But why does this all matter?
 
@@ -189,7 +189,7 @@ So even though ships might seem like these complicated, intricate things… they
 
 {{% resource_link "7c38a44e-5ebb-8403-cf21-c2adc0137e4b" "Link back to Day 6" "#Instructor_and_Student_Work" %}}
 
-## {{< anchor "Pjfolino_s_Script" >}}{{< /anchor >}}Day 7 Script
+## anchoranchorDay 7 Script
 
 When we take really complex things and break them down into smaller pieces, we find out that we know a lot more about things than we think.
 
@@ -211,7 +211,7 @@ Here we have ORCA I and ORCA II from before. Even though these boxes don't engag
 
 If we remove the tops of both boxes and take a look inside *(Video a close up of removing the decks, just audio voice), (back to presenting)* we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't. These compartments are watertight *(point to ORCA II compartments)*; even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated. We refer to ORCA II as being subdivided.
 
-*(Back to CU)* It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
+*(Back to CU)* It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5sup century, show that water could enter ships without sinking. So let's find out why this happens.
 
 Well, when we divide the ship into watertight compartments, we are limiting the amount of water that can enter it. If we divided a ship into 10 equal size compartments, and one sprung a leak, then only that compartment would flood. This would cause the ship to heel and trim, but it wouldn't cause a complete loss of ship and cargo, and the ship would hobble into port and get repairs. But why does this all matter?
 
@@ -227,7 +227,7 @@ So even though ships might seem like these complicated, intricate things… they
 
 {{% resource_link "d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d" "Link back to Day 7" "#Instructor_and_Student_Work" %}}
 
-## {{< anchor "Pjfolino_s_Day_8_Shot_List" >}}{{< /anchor >}}Day 8 Shot List
+## anchoranchorDay 8 Shot List
 
 Sinking Scene shots
 
@@ -286,7 +286,7 @@ If we remove the tops of both boxes and take a look inside *(Video a close up of
 
 *(In plans room with ships plans laid out)* We refer to ORCA II as being subdivided, and we can see subdivision in many of these ship's plans (CU to *pointing to subdivision*).
 
-*(Back to CU)* It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
+*(Back to CU)* It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5sup century, show that water could enter ships without sinking. So let's find out why this happens.
 
 To Shoot:
 
@@ -322,19 +322,19 @@ To Shoot:
 2. Video recording of POSSE simulation
 3. See Part 1
 
-{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Link back to Day 8" "#Student_Work" %}}
+{{% resource_link "dd2e9064-39f5-8292-7c78-a9141317dcc6" "Link back to Day 8" "#Student_Work" %}}
 
-## {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
+## anchoranchorRough Cut
 
-{{< resource 1720fd56-2daa-9292-c39c-540daed6a7a8 >}}
+{{< resource uuid="1720fd56-2daa-9292-c39c-540daed6a7a8" >}}
 
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
-{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Link back to Day 11" "#Student_Work" %}}
+{{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "Link back to Day 11" "#Student_Work" %}}
 
-## {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
+## anchoranchorFinal Project
 
-{{< resource 69cf2824-fede-94ba-b935-2c621e55fd61 >}}
+{{< resource uuid="69cf2824-fede-94ba-b935-2c621e55fd61" >}}
 
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
@@ -348,14 +348,14 @@ Additional scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108847363726/pjfolino-subdivision-in-ships-creative)
 
-{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "Link back to Day 13" "#Student_Work" %}}
+{{% resource_link "2dc5287f-35ed-e833-9c9b-93f4238ac687" "Link back to Day 13" "#Student_Work" %}}
 
-## {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
+## anchoranchorScience Out Loud
 
 Paul's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
 
-{{< resource ea857e55-7047-3cef-ec6a-4f1ec40b5b97 >}}
+{{< resource uuid="ea857e55-7047-3cef-ec6a-4f1ec40b5b97" >}}
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 
-« {{% resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Previous" %}} | {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Next" %}} »
+« {{% resource_link "1d079dd5-c0b4-174a-4773-f2520a5e0743" "Previous" %}} | {{% resource_link "65f298a7-9f2a-0550-e78e-d9fc7ff17ff4" "Next" %}} »
