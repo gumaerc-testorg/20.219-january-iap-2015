@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: This page contains details and video of the students' project.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
@@ -10,7 +10,7 @@ parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Andrea Desrosiers' Project
 uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 ---
-« {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" %}} | {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" %}} »
+« {{% resource_link "32b67e5b-5210-05d4-f811-9b60fb7ee964" "Previous" %}} | {{% resource_link "265dbc31-50c1-a4e1-4686-f6c614415b05" "Next" %}} »
 
 [*Link to* *Andrea Desrosiers' page on Tumblr*](http://mit219.tumblr.com/tagged/aedesros)
 
@@ -29,11 +29,11 @@ uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 
 ## {{< anchor "Day_1_Pitch" >}}{{< /anchor >}}Day 1 Pitch
 
-{{< resource ea710c2e-6803-d9ac-8250-c59ae89ce1e7 >}}
+{{< resource uuid="ea710c2e-6803-d9ac-8250-c59ae89ce1e7" >}}
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Link back to Day 1" "#Instructor_and_Student_Work" %}}
+{{% resource_link "e7ab07a5-9bf4-78a1-8a95-a815093ec211" "Link back to Day 1" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Draft of "What are My Braces Doing to Me?"
 
@@ -41,7 +41,7 @@ Cue music that is catchy and upbeat.
 
 Zoom in on drawing of a young girl with braces on, looking a bit awkward.
 
-{{< resource 182713a0-4805-d0b5-37a7-3837f06c2b75 >}}
+{{< resource uuid="182713a0-4805-d0b5-37a7-3837f06c2b75" >}}
 
 Cut to Andrea with same expression on face.
 
@@ -105,11 +105,11 @@ Cut to Andrea walking around.
 
 Andrea: (need closing statements…)
 
-{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Link back to Day 2" "#Instructor_and_Student_Work" %}}
+{{% resource_link "3da88bd7-fc04-b288-6227-11604ae6a159" "Link back to Day 2" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_3_Trailer" >}}{{< /anchor >}}Day 3 - Andrea's Trailer Take 2
 
-{{< resource 585b0ae9-8607-fd82-f10a-f279f556a89c >}}
+{{< resource uuid="585b0ae9-8607-fd82-f10a-f279f556a89c" >}}
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
@@ -151,21 +151,21 @@ Engineers from MIT are taking advantage of the properties of osteoblasts to come
 
 ## {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 
-{{< resource 54725ae5-a468-ae43-78f2-f32beb0dc68f >}}
+{{< resource uuid="54725ae5-a468-ae43-78f2-f32beb0dc68f" >}}
 
  
 
-{{< resource 6ec8e744-c120-61b5-c3cf-03197da8ddfc >}}
+{{< resource uuid="6ec8e744-c120-61b5-c3cf-03197da8ddfc" >}}
 
  
 
-{{< resource 150fd516-a18e-0e65-4cf6-3a1279e1b646 >}}
+{{< resource uuid="150fd516-a18e-0e65-4cf6-3a1279e1b646" >}}
 
  
 
-{{< resource 3a0a9487-4e89-37e3-c2aa-7335f82a6374 >}}
+{{< resource uuid="3a0a9487-4e89-37e3-c2aa-7335f82a6374" >}}
 
-{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Link back to Day 4" "#Instructor_and_Student_Work" %}}
+{{% resource_link "60a6ea96-1026-802d-98a9-351ce3b38557" "Link back to Day 4" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Ortho_Script" >}}{{< /anchor >}}Script: Final Draft
 
@@ -399,19 +399,19 @@ Your jaw isn't the only place where these osteoclasts and osteoblasts alter your
 
 Where braces use bone remodeling to make teeth straighter for mostly cosmetic reasons, dental implants replace teeth that are damaged or missing - to restore chewing function.
 
-{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Link back to Day 8" "#Student_Work" %}}
+{{% resource_link "dd2e9064-39f5-8292-7c78-a9141317dcc6" "Link back to Day 8" "#Student_Work" %}}
 
 ## {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 
-{{< resource 2796ca14-31ce-ed47-7b4d-9cc12e905555 >}}
+{{< resource uuid="2796ca14-31ce-ed47-7b4d-9cc12e905555" >}}
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
-{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Link back to Day 11" "#Student_Work" %}}
+{{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "Link back to Day 11" "#Student_Work" %}}
 
 ## {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 
-{{< resource 07877a94-158a-b10f-584d-0dfc3ad591fa >}}
+{{< resource uuid="07877a94-158a-b10f-584d-0dfc3ad591fa" >}}
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
@@ -437,14 +437,14 @@ Production Assistants: Nathan Hernandez, Fred Yarm
 
 Thanks to: Everyone in IAP15 20.219, the folks at DPI, and especially to my brother John Desrosiers, who inspired my love of science.
 
-{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "Link back to Day 13" "#Student_Work" %}}
+{{% resource_link "2dc5287f-35ed-e833-9c9b-93f4238ac687" "Link back to Day 13" "#Student_Work" %}}
 
 ## {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 
 Andrea's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
 
-{{< resource 5e1be1f9-1218-e726-f3de-08dcf654476a >}}
+{{< resource uuid="5e1be1f9-1218-e726-f3de-08dcf654476a" >}}
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 
-« {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" %}} | {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" %}} »
+« {{% resource_link "32b67e5b-5210-05d4-f811-9b60fb7ee964" "Previous" %}} | {{% resource_link "265dbc31-50c1-a4e1-4686-f6c614415b05" "Next" %}} »
