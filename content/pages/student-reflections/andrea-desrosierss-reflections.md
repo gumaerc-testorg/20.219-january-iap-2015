@@ -2,6 +2,7 @@
 content_type: page
 description: This section contains the reflections (in the form of blogs and vlogs)
   of Andrea Desrosiers on the course and the course project.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Reflections
@@ -10,20 +11,18 @@ parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Andrea Desrosiers' Reflections
 uid: 0a26ad07-4929-732e-5270-b0bfe8bbced9
 ---
-
-« {{% resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Previous" %}} | {{% resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "Next" %}} »
+« {{% resource_link "7b1a98fc-328d-4951-fd19-a2109aff7506" "Previous" %}} | {{% resource_link "3c8916c0-2b40-6ad3-1644-162454be10f0" "Next" %}} »
 
 [Day 1](#Day_1_Andrea_s_Struggles) | [Day 2](#Day_2_Andrea_s_Struggles) | [Day 3](#Day_3_Reflections) | [Day 4](#Day_4) | [Day 5](#Day_5-Andrea_And_the_Camera) | [Day 6](#Day_6_Vlog) | [Day 7](#Day_7_Vlog) | [Day 8](#Day_8_Reflection-Andrea_on_Video) | [Day 11](#Day_11-Andrea_s_Final_Thoughts) | [Final Reflection](#Videos-Andrea)
 
-[_Link to_ _Andrea Desrosiers' Page on Tumblr_](http://mit219.tumblr.com/tagged/aedesros)
+[*Link to* *Andrea Desrosiers' Page on Tumblr*](http://mit219.tumblr.com/tagged/aedesros)
 
-{{< anchor "Day_1_Andrea_s_Struggles" >}}{{< /anchor >}}Day 1 - Andrea's Struggles
-----------------------------------------------------------------------------------
+## {{< anchor "Day_1_Andrea_s_Struggles" >}}{{< /anchor >}}Day 1 - Andrea's Struggles
 
 The theme here is a) "we are experiencing technical difficulties," and b) fear of the camera.
 
-1.  New camera, new tripod. Mac computer. Sigh. I'll work on it again tonight.
-2.  Much bigger issue actually. This fear took several forms, starting with the thought that it's all been done before. Then I read entrepreneur Seth Godin's blog, which stated, "Originality is local. The internet destroys, at some level, the idea of local, so sure, if we look hard enough we'll find that turn of phrase or that app, somewhere else. But no one is asking you to be original. We're asking you to be generous and brave and to matter… Sure, it's been done before. But not by you. And not for us."
+1. New camera, new tripod. Mac computer. Sigh. I'll work on it again tonight.
+2. Much bigger issue actually. This fear took several forms, starting with the thought that it's all been done before. Then I read entrepreneur Seth Godin's blog, which stated, "Originality is local. The internet destroys, at some level, the idea of local, so sure, if we look hard enough we'll find that turn of phrase or that app, somewhere else. But no one is asking you to be original. We're asking you to be generous and brave and to matter… Sure, it's been done before. But not by you. And not for us."
 
 So I stopped being nervous about being original. Once I was able to do that I was able to discard my first idea - how to teach kids about system dynamics. I actually had no clue how to present that material, even though I believe strongly that it should be taught as a key aspect of STEM education from a young age. Using the tenet of "Talk about What you Know." I did then come up with an idea.
 
@@ -37,10 +36,9 @@ On the various videos on class: I loved the Veritasium format, and I confess to 
 
 So that's why I tried to pivot my idea for a pitch to something more for a 10–14 year old audience.
 
-{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "e7ab07a5-9bf4-78a1-8a95-a815093ec211" "Link back to Day 1" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_2_Andrea_s_Struggles" >}}{{< /anchor >}}Day 2 - Andrea's Struggles
-----------------------------------------------------------------------------------
+## {{< anchor "Day_2_Andrea_s_Struggles" >}}{{< /anchor >}}Day 2 - Andrea's Struggles
 
 If there is one thing I have gotten out of my MIT experience, it's the importance of running your ideas by the audience / customer early, and often. The 6{{< sup "th" >}} graders that were brought into the class for that purpose were surprisingly well read and engaged. I was happy to see a few shy ones coming out of their shells to talk a bit - mostly because these kids are reflections of me at that age. I enjoyed the skipping from topic to topic that the kids tend to do - it keeps me on my feet and I like trying to follow their thought processes as they respond to various stimuli. I will try to remember this "frequent cut" process as I put together my video. I'm hoping this can keep people engaged.
 
@@ -52,19 +50,17 @@ I also worry in the class that I'm a bit intimidating because I'm older. Also, "
 
 OK, on to script writing….
 
-{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "3da88bd7-fc04-b288-6227-11604ae6a159" "Link back to Day 2" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_3_Reflections" >}}{{< /anchor >}}Day 3 Reflections
-------------------------------------------------------------------
+## {{< anchor "Day_3_Reflections" >}}{{< /anchor >}}Day 3 Reflections
 
-{{< resource d4157cb4-3db3-0701-8e18-64aec685547e >}}
+{{< resource uuid="d4157cb4-3db3-0701-8e18-64aec685547e" >}}
 
 This audio is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "36586ba5-68db-37ca-a516-348b595214d8" "Link back to Day 3" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_4" >}}{{< /anchor >}}Day 4 - Andrea's Reflections on Storyboarding And More Scripts
----------------------------------------------------------------------------------------------------
+## {{< anchor "Day_4" >}}{{< /anchor >}}Day 4 - Andrea's Reflections on Storyboarding And More Scripts
 
 I really love animation. Sadly, I have just about zero artistic ability, so maybe that explains why I'm so fascinated by it. I can appreciate how much work goes into even one frame, never mind the hundreds that go into even a 2 minute clip. So, hat's off to you Planet Nutshell folks!
 
@@ -74,10 +70,9 @@ I also found class today to help out with concentrating on the science. The F= m
 
 Maybe I'll even be ready with another trailer by tomorrow. Or two.
 
-{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "60a6ea96-1026-802d-98a9-351ce3b38557" "Link back to Day 4" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_5-Andrea_And_the_Camera" >}}{{< /anchor >}}Day 5 - Andrea And the Camera
-----------------------------------------------------------------------------------------
+## {{< anchor "Day_5-Andrea_And_the_Camera" >}}{{< /anchor >}}Day 5 - Andrea And the Camera
 
 My main takeaway from the class on camera techniques was that it represents a **Lots** of variables. No wonder it takes dozens of shots to get what you want! It seems like it really is all about perseverance. I was not able to get any footage over the weekend since I was laid up with this pesky cold / bronchitis. I realize that I'm relying too much on animation (but it's so cool…). So it's interesting to try to get creative about what you can substitute. I have a shoe - sized glass tooth sculpture that I can maybe use to demo some points, maybe get some play dough to model some of the other structures. I also hope to get in touch with my old colleagues to see if I can film a little bit in their demo dental office. Health permitting of course.
 
@@ -85,28 +80,25 @@ I loved the comments on the script and I'm encouraged. I had another idea for go
 
 One of my goals in this class was to get more comfortable both behind and in front of the camera. I'm not photogenic (being squat and pasty - faced with flat bone structure), so I'm unsure how I'll get over how much I cringe whenever I look at pictures / video of myself. My demons to fight, I guess.
 
-{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "eee7bfe9-1be2-975c-496f-b04747f0e092" "Link back to Day 5" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_6_Vlog" >}}{{< /anchor >}}Day 6 Vlog
-----------------------------------------------------
+## {{< anchor "Day_6_Vlog" >}}{{< /anchor >}}Day 6 Vlog
 
-{{< resource 88e5ceae-a260-5da6-4b47-77aa5e26d311 >}}
-
-This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
-
-{{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "_Link back to Day 6_" "#Instructor_and_Student_Work" %}}
-
-{{< anchor "Day_7_Vlog" >}}{{< /anchor >}}Day 7 Vlog
-----------------------------------------------------
-
-{{< resource 42f5a12c-5041-52c4-579b-e60dff4e6130 >}}
+{{< resource uuid="88e5ceae-a260-5da6-4b47-77aa5e26d311" >}}
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
-{{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "7c38a44e-5ebb-8403-cf21-c2adc0137e4b" "Link back to Day 6" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_8_Reflection-Andrea_on_Video" >}}{{< /anchor >}}Day 8 Reflection - Andrea on Video
---------------------------------------------------------------------------------------------------
+## {{< anchor "Day_7_Vlog" >}}{{< /anchor >}}Day 7 Vlog
+
+{{< resource uuid="42f5a12c-5041-52c4-579b-e60dff4e6130" >}}
+
+This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
+
+{{% resource_link "d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d" "Link back to Day 7" "#Instructor_and_Student_Work" %}}
+
+## {{< anchor "Day_8_Reflection-Andrea_on_Video" >}}{{< /anchor >}}Day 8 Reflection - Andrea on Video
 
 Wow, actually got some footage today! Just logged it all after giving them all a quick look. Feels good to know that I got something done. Hopefully tomorrow will go faster / smoother.
 
@@ -120,10 +112,9 @@ I still am not quite sure how to end the script. I'm giving myself the rest of t
 
 Tonight is a rare night that I have actual internet access at home (husband is working). So I can actually upload my daily reflection early - YAY!
 
-{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 8_" "#Student_Work" %}}
+{{% resource_link "dd2e9064-39f5-8292-7c78-a9141317dcc6" "Link back to Day 8" "#Student_Work" %}}
 
-{{< anchor "Day_11-Andrea_s_Final_Thoughts" >}}{{< /anchor >}}Day 11 - Andrea's Final Thoughts
-----------------------------------------------------------------------------------------------
+## {{< anchor "Day_11-Andrea_s_Final_Thoughts" >}}{{< /anchor >}}Day 11 - Andrea's Final Thoughts
 
 First off, many thanks to Elizabeth, Jaime, and Ceri for the great instruction and help. The goal of the course was to learn about new media techniques, and you really delivered on that. I continue to believe that this video format will play an increasingly large role in both ed and business. I'm very happy I took the course and when I look back I've learned a tremendous amount.
 
@@ -135,10 +126,9 @@ And final comment - as I've said I don't have an artistic bone in my body (remod
 
 Have a great spring semester everyone!
 
-{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
+{{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "Link back to Day 11" "#Student_Work" %}}
 
-{{< anchor "Videos-Andrea" >}}{{< /anchor >}}Final Reflection on Making Videos
-------------------------------------------------------------------------------
+## {{< anchor "Videos-Andrea" >}}{{< /anchor >}}Final Reflection on Making Videos
 
 I did want to wait to write this until after I had the experience of working with a pro crew. Wow, exhilarating and exhausting at the same time - I had to take yesterday (and some Toscanini's mimosa sorbet) to recover.
 
@@ -156,6 +146,6 @@ And finally, just one more confession: I had always dreamed of hosting a science
 
 Thank you 20.219 for making me feel more empowered!
 
-{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
+{{% resource_link "2dc5287f-35ed-e833-9c9b-93f4238ac687" "Link back to Day 13" "#Student_Work" %}}
 
-« {{% resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Previous" %}} | {{% resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "Next" %}} »
+« {{% resource_link "7b1a98fc-328d-4951-fd19-a2109aff7506" "Previous" %}} | {{% resource_link "3c8916c0-2b40-6ad3-1644-162454be10f0" "Next" %}} »
