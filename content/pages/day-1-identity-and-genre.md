@@ -7,7 +7,7 @@ ocw_type: CourseSection
 title: 'Day 1: Identity and Genre'
 uid: e7ab07a5-9bf4-78a1-8a95-a815093ec211
 ---
-« {{% resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Previous" %}} | {{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Next" %}} »
+« {{% resource_link "526193cf-30da-cdf1-c673-4faab57d51d7" "Previous" %}} | {{% resource_link "3da88bd7-fc04-b288-6227-11604ae6a159" "Next" %}} »
 
 ## Contents
 
@@ -16,7 +16,6 @@ uid: e7ab07a5-9bf4-78a1-8a95-a815093ec211
 - [Part 2: Visual Storytelling](#Part_2:_Visual_Storytelling)
 - [Part 3: Wrap-up and Assignment](#Part_3:_Wrap-up_and_Assignment)
 - [Assignments](#Assignments)
-- [Instructor and Student Work](#Instructor_and_Student_Work)
 
 ## {{< anchor "Overview" >}}{{< /anchor >}}Overview
 
@@ -24,15 +23,15 @@ We will discuss who you are, what brought you to this class, what / who inspires
 
 ## {{< anchor "Part_1:_Video_Best_Practices_" >}}{{< /anchor >}}Part 1: Video Best Practices
 
-{{< resource 851575cd-0b6e-b334-2264-b67208f03651 >}}
+{{< resource uuid="851575cd-0b6e-b334-2264-b67208f03651" >}}
 
 ### Video Chapters
 
-- {{% resource_link 5330bfbb-c980-6721-f127-66272a365e39 "Introduction and rationale for the course" %}}
-- {{% resource_link d874213c-2031-675e-60f0-557289470d9b "Education and entertainment on YouTube" %}}
-- {{% resource_link 230fa477-2a6d-cb26-e4c7-57537b877217 "Examples and discussion of educational science videos on YouTube" %}}
-- {{% resource_link 242450b0-043d-b7bf-fa19-55be9e8a09c2 "In-class activity: Educational video analysis" %}}
-- {{% resource_link b3360da6-7444-9e4c-8df0-29fdc9a05b89 "What makes a good YouTube video?" %}}
+- {{% resource_link "5330bfbb-c980-6721-f127-66272a365e39" "Introduction and rationale for the course" %}}
+- {{% resource_link "d874213c-2031-675e-60f0-557289470d9b" "Education and entertainment on YouTube" %}}
+- {{% resource_link "230fa477-2a6d-cb26-e4c7-57537b877217" "Examples and discussion of educational science videos on YouTube" %}}
+- {{% resource_link "242450b0-043d-b7bf-fa19-55be9e8a09c2" "In-class activity: Educational video analysis" %}}
+- {{% resource_link "b3360da6-7444-9e4c-8df0-29fdc9a05b89" "What makes a good YouTube video?" %}}
 
 ### In-class Media: Video Best Practices
 
@@ -48,7 +47,7 @@ Students began watching each of the videos below and recorded how long they cont
 
 ### In-class Media: Communicating Evolution
 
-- Evolution. "[_Bill Nye the Science Guy_](https://www.amazon.com/gp/product/B00MJ1KOYA/ref=dv_dp_ep9)." Season 3, Episode no. 6. (first broadcast on 18 February 1995 by PBS).
+- Evolution. "[*Bill Nye the Science Guy*](https://www.amazon.com/gp/product/B00MJ1KOYA/ref=dv_dp_ep9)." Season 3, Episode no. 6. (first broadcast on 18 February 1995 by PBS).
 - Cosmos. "One Voice in the Cosmic Fugue." Episode no. 2 (first broadcast on 5 October 1980).
 - SciShow. "[World's Most Asked Questions: What is the Meaning of Life?](https://youtu.be/X28v7auNius)" October 21, 2014. YouTube.
 - Veritasium. "[Forest of Friendship, Baggage Carousel of Jerks](https://youtu.be/-zShHRkwSoI)." April 2, 2014. YouTube.
@@ -57,242 +56,24 @@ Students began watching each of the videos below and recorded how long they cont
 - Khan Academy. "[Introduction to Evolution and Natural Selection](https://youtu.be/GcjgWov7mTM)." September 21, 2009. YouTube.
 - MIT OpenCourseWare. "[Lec 31 | MIT 7.0014 Introductory Biology, Spring 2005](https://youtu.be/LBR4pEC7kwU)." February 8, 2008. YouTube.
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-Name
-{{< thclose >}}{{< thopen >}}
-BILL NYE
-{{< thclose >}}{{< thopen >}}
-Cosmos
-{{< thclose >}}{{< thopen >}}
-SCISHOW
-{{< thclose >}}{{< thopen >}}
-VERITASIUM
-{{< thclose >}}{{< thopen >}}
-TED-ED
-{{< thclose >}}{{< thopen >}}
-ASAPSCIENCE
-{{< thclose >}}{{< thopen >}}
-KHAN ACADEMY
-{{< thclose >}}{{< thopen >}}
-MIT OCW
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Elizabeth
-{{< tdclose >}}{{< tdopen >}}
-2:00
-{{< tdclose >}}{{< tdopen >}}
-1:29
-{{< tdclose >}}{{< tdopen >}}
-0:05
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:21
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:18
-{{< tdclose >}}{{< tdopen >}}
-0:33
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Ceri
-{{< tdclose >}}{{< tdopen >}}
-2:42
-{{< tdclose >}}{{< tdopen >}}
-1:05
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:30
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:34
-{{< tdclose >}}{{< tdopen >}}
-0:13
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Joshua
-{{< tdclose >}}{{< tdopen >}}
-5:15
-{{< tdclose >}}{{< tdopen >}}
-1:37
-{{< tdclose >}}{{< tdopen >}}
-2:51
-{{< tdclose >}}{{< tdopen >}}
-2:53
-{{< tdclose >}}{{< tdopen >}}
-3:50
-{{< tdclose >}}{{< tdopen >}}
-Did not watch
-{{< tdclose >}}{{< tdopen >}}
-Did not watch
-{{< tdclose >}}{{< tdopen >}}
-Did not watch
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Kenneth
-{{< tdclose >}}{{< tdopen >}}
-3:20
-{{< tdclose >}}{{< tdopen >}}
-1:46
-{{< tdclose >}}{{< tdopen >}}
-3:19
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-4:37
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Did not watch
-{{< tdclose >}}{{< tdopen >}}
-Did not watch
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Nathan
-{{< tdclose >}}{{< tdopen >}}
-2:14
-{{< tdclose >}}{{< tdopen >}}
-1:25
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-1:29
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:36
-{{< tdclose >}}{{< tdopen >}}
-0:46
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Andrea
-{{< tdclose >}}{{< tdopen >}}
-0:13
-{{< tdclose >}}{{< tdopen >}}
-2:35
-{{< tdclose >}}{{< tdopen >}}
-2:01
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:39
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:35
-{{< tdclose >}}{{< tdopen >}}
-0:39
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-David
-{{< tdclose >}}{{< tdopen >}}
-1:10
-{{< tdclose >}}{{< tdopen >}}
-1:20
-{{< tdclose >}}{{< tdopen >}}
-1:40
-{{< tdclose >}}{{< tdopen >}}
-2:00
-{{< tdclose >}}{{< tdopen >}}
-3:30
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Did not watch
-{{< tdclose >}}{{< tdopen >}}
-Did not watch
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Jiaqi
-{{< tdclose >}}{{< tdopen >}}
-2:30
-{{< tdclose >}}{{< tdopen >}}
-1:29
-{{< tdclose >}}{{< tdopen >}}
-0:15
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:44
-{{< tdclose >}}{{< tdopen >}}
-Did not watch
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Yuliya
-{{< tdclose >}}{{< tdopen >}}
-0:15
-{{< tdclose >}}{{< tdopen >}}
-3:20
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:30
-{{< tdclose >}}{{< tdopen >}}
-0:40
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Wanted to finish
-{{< tdclose >}}{{< tdopen >}}
-0:30
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Paul
-{{< tdclose >}}{{< tdopen >}}
-3:43
-{{< tdclose >}}{{< tdopen >}}
-2:26
-{{< tdclose >}}{{< tdopen >}}
-1:45
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:17
-{{< tdclose >}}{{< tdopen >}}
-0:12
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Jonathan
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-Finished
-{{< tdclose >}}{{< tdopen >}}
-0:30
-{{< tdclose >}}{{< tdopen >}}
-0:25
-{{< tdclose >}}{{< tdopen >}}
-0:55
-{{< tdclose >}}{{< tdopen >}}
-0:15
-{{< tdclose >}}{{< tdopen >}}
-0:30
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
-
 ## {{< anchor "Part_2:_Visual_Storytelling" >}}{{< /anchor >}}Part 2: Visual Storytelling
 
-{{< resource f2015607-8842-8f02-be11-deb4c1dadfcb >}}
+{{< resource uuid="f2015607-8842-8f02-be11-deb4c1dadfcb" >}}
 
 ### Video Chapters
 
-- {{% resource_link 6a3e4536-b831-820f-7f94-6aa1bfa4b6b6 "Viral videos and visual storytelling" %}}
-- {{% resource_link ffd00f8a-87cb-e809-e555-026bde2f21c9 "What is a story?" %}}
-- {{% resource_link 9dd40601-4e76-5fac-156b-92788ddde331 "Tips for visual storytelling" %}}
+- {{% resource_link "6a3e4536-b831-820f-7f94-6aa1bfa4b6b6" "Viral videos and visual storytelling" %}}
+- {{% resource_link "ffd00f8a-87cb-e809-e555-026bde2f21c9" "What is a story?" %}}
+- {{% resource_link "9dd40601-4e76-5fac-156b-92788ddde331" "Tips for visual storytelling" %}}
 
 ## {{< anchor "Part_3:_Wrap-up_and_Assignment" >}}{{< /anchor >}}Part 3: Wrap-up and Assignment
 
-{{< resource 3032c3bd-1f4f-fe59-e57a-330ce9201035 >}}
+{{< resource uuid="3032c3bd-1f4f-fe59-e57a-330ce9201035" >}}
 
 ### Video Chapters
 
-- {{% resource_link 42d63580-2ac0-59d2-7b9b-72fdc30b5dd6 "Explanation of Day 1 assignments" %}}
-- {{% resource_link 899f93ea-ecd2-0cb7-6092-45b9f1f54fcb "Resources needed for the assignments: Annotation Studio, Tumblr, and YouTube" %}}
+- {{% resource_link "42d63580-2ac0-59d2-7b9b-72fdc30b5dd6" "Explanation of Day 1 assignments" %}}
+- {{% resource_link "899f93ea-ecd2-0cb7-6092-45b9f1f54fcb" "Resources needed for the assignments: Annotation Studio, Tumblr, and YouTube" %}}
 
 ### In-class Media: Stem Pitch
 
@@ -311,4 +92,8 @@ Provide documentation on your process / difficulties in completing this assignme
 
  
 
-{{< resource 65f744ef-7f70-e789-ec6e-5547880b4d12 >}}
+ 
+
+ 
+
+{{< resource uuid="65f744ef-7f70-e789-ec6e-5547880b4d12" >}}
