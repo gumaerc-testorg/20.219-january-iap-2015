@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: true
 end_time: ''
 file: null
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
