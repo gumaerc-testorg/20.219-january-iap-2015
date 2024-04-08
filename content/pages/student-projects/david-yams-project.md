@@ -12,7 +12,7 @@ uid: a70c0b56-5698-6d46-0ee2-e877495297b2
 ---
 « {{% resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Previous" %}} | {{% resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Next" %}} »
 
-[_Link to_ _David Yam Page on Tumblr_](http://mit219.tumblr.com/tagged/davidyam)
+{{% resource_link "4cf9e861-3e44-42c3-845b-70999c0cc9a8" "_Link to_ _David Yam Page on Tumblr_" %}}
 
 ## Contents
 
@@ -50,7 +50,7 @@ Introducing "Wim Hof" from the Netherlands, also nicknamed "Iceman" for his abil
 
 Whilst Iceman has honed the ability to do just about everything in winter wearing just shorts, I think us normal humans would do better being more layered up. We can withstand the cold weather indoors with a cup of hot chocolate by the fireplace in peace. (end off with a shot of someone drinking hot chocolate and enjoying himself)
 
-{{< anchor "1" >}}{{< /anchor >}}\[1\] Read more: [Why are Some People Colder than Others?](http://www.mnn.com/health/fitness-well-being/stories/why-are-some-people-colder-than-others#ixzz3O6Q5qNoe)
+{{< anchor "1" >}}{{< /anchor >}}\[1\] Read more: {{% resource_link "12485774-36e6-4ecf-b8a2-0f9dcf6fc4f9" "Why are Some People Colder than Others?" %}}
 
 {{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Link back to Day 2" "#Instructor_and_Student_Work" %}}
 
@@ -58,7 +58,7 @@ Whilst Iceman has honed the ability to do just about everything in winter wearin
 
 {{< resource 7e1f8c6f-ce69-0044-85f8-514534943165 >}}
 
-This video is courtesy of [David Yam](https://www.youtube.com/channel/UCgSZYDkQ8_cF8Nwb-dNVvxA) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "3cace0f8-9129-4d59-93e3-1557d7b59f6f" "David Yam" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Link back to Day 3" "#Instructor_and_Student_Work" %}}
 
@@ -146,13 +146,13 @@ To quote Wim Hof, "We have perfect mechanisms in our bodies, but we intervened w
 
 I'll add in the cutscenes / camera angles / go through the writing again tmr.)
 
-{{< anchor "_1_" >}}{{< /anchor >}}\[1\] Wade, Nicholas. "[Ice Age Ancestry May Keep Body Warmer and Healthier](http://www.nytimes.com/2004/01/09/us/ice-age-ancestry-may-keep-body-warmer-and-healthier.html)," _New York Times_, January 9, 2004.
+{{< anchor "_1_" >}}{{< /anchor >}}\[1\] Wade, Nicholas. "{{% resource_link "e1063cb9-ae17-4a53-9d2c-e4725a80affc" "Ice Age Ancestry May Keep Body Warmer and Healthier" %}}," _New York Times_, January 9, 2004.
 
-{{< anchor "_2_" >}}{{< /anchor >}}\[2\] [Adapting to Climate Extremes](http://anthro.palomar.edu/adapt/adapt_2.htm).
+{{< anchor "_2_" >}}{{< /anchor >}}\[2\] {{% resource_link "4dca5c0e-11f8-4fdf-9cd8-2b8b87f90cb9" "Adapting to Climate Extremes" %}}.
 
-{{< anchor "_3_" >}}{{< /anchor >}}\[3\] "[Mind Over Matter? Core Body Temperature Controlled by the Brain](http://www.sciencedaily.com/releases/2013/04/130408084858.htm)," _National University of Singapore_, April 8, 2013.
+{{< anchor "_3_" >}}{{< /anchor >}}\[3\] "{{% resource_link "457b1699-29da-4865-a160-51124be2b939" "Mind Over Matter? Core Body Temperature Controlled by the Brain" %}}," _National University of Singapore_, April 8, 2013.
 
-{{< anchor "_4_" >}}{{< /anchor >}}\[4\] Koxa, Matthijs, et al. "[Voluntary Activation of the Sympathetic Nervous System and Attenuation of the Innate Immune Response in Humans](http://dx.doi.org/10.1073/pnas.1322174111)." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 20 (2014): 7379–84.
+{{< anchor "_4_" >}}{{< /anchor >}}\[4\] Koxa, Matthijs, et al. "{{% resource_link "65b85116-6f20-437a-bddb-98eb198ab3d7" "Voluntary Activation of the Sympathetic Nervous System and Attenuation of the Innate Immune Response in Humans" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 20 (2014): 7379–84.
 
 {{% resource_link "7c38a44e-5ebb-8403-cf21-c2adc0137e4b" "_Link back to Day 6_ " "#Instructor\_and\_Student\_Work" %}}
 
@@ -164,11 +164,11 @@ David's rough cut is not available.
 
 {{< resource e20750fc-deb9-1df0-5596-a4962fafd5bf >}}
 
-This video is courtesy of [David Yam](https://www.youtube.com/channel/UCgSZYDkQ8_cF8Nwb-dNVvxA) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "3cace0f8-9129-4d59-93e3-1557d7b59f6f" "David Yam" %}} on YouTube and is provided under our Creative Commons license.
 
 How Can I Survive the Cold?
 
-[Creative Commons: CC BY-NC-SA](http://k12videos.mit.edu/terms-and-conditions), MIT
+{{% resource_link "2df7d553-db68-46e9-8bfb-82dcc4a941c1" "Creative Commons: CC BY-NC-SA" %}}, MIT
 
 Hosted By: David Yam
 
@@ -184,7 +184,7 @@ Editor: Paul Folino, Ceri R, Elizabeth Choe
 
 Production Assistant: Joshua Cheong
 
-[See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108828543461/how-can-i-survive-the-cold-creative-commons-cc)
+{{% resource_link "4eef7e09-9378-4ed5-8c91-26aeffef68d8" "See the full credits on the course Tumblr." %}}
 
 {{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "Link back to Day 13" "#Student_Work" %}}
 
