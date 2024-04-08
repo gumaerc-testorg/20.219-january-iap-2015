@@ -12,7 +12,7 @@ uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 ---
 « {{% resource_link "32b67e5b-5210-05d4-f811-9b60fb7ee964" "Previous" %}} | {{% resource_link "265dbc31-50c1-a4e1-4686-f6c614415b05" "Next" %}} »
 
-[*Link to* *Andrea Desrosiers' page on Tumblr*](http://mit219.tumblr.com/tagged/aedesros)
+{{% resource_link "8443e695-918a-41d1-b086-b39c63e22c94" "*Link to* *Andrea Desrosiers' page on Tumblr*" %}}
 
 ## Contents
 
@@ -31,7 +31,7 @@ uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 
 {{< resource uuid="ea710c2e-6803-d9ac-8250-c59ae89ce1e7" >}}
 
-This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "8443e695-918a-41d1-b086-b39c63e22c94" "Andrea Desrosiers" %}} on Tumblr and is provided under our Creative Commons license.
 
 {{% resource_link "e7ab07a5-9bf4-78a1-8a95-a815093ec211" "Link back to Day 1" "#Instructor_and_Student_Work" %}}
 
@@ -111,7 +111,7 @@ Andrea: (need closing statements…)
 
 {{< resource uuid="585b0ae9-8607-fd82-f10a-f279f556a89c" >}}
 
-This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "8443e695-918a-41d1-b086-b39c63e22c94" "Andrea Desrosiers" %}} on Tumblr and is provided under our Creative Commons license.
 
 [Link back to Day 3](/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-3-storytellers-toolkit-pt-1/#Instructor_and_Student_Work)
 
@@ -147,7 +147,7 @@ Cut to image of entire body with skeleton highlighted.
 
 Voiceover: Your jaw isn't the only place where these osteoclasts and osteoblasts alter your bone structure. In fact, this process of bony remodeling is happening throughout your body.
 
-Engineers from MIT are taking advantage of the properties of osteoblasts to come up with a new compound that is composed of layers of materials that help promote rapid bone growth and will allow the body's own cells to produce bone that fixes the implant in place. (need to rework this) ([Engineered Coating for Implants Reduces the Risk of Complications](http://scitechdaily.com/engineered-coating-for-implants-reduces-the-risk-of-complications/).)
+Engineers from MIT are taking advantage of the properties of osteoblasts to come up with a new compound that is composed of layers of materials that help promote rapid bone growth and will allow the body's own cells to produce bone that fixes the implant in place. (need to rework this) ({{% resource_link "740cfe2f-eb35-421f-8deb-1d1ee63cced5" "Engineered Coating for Implants Reduces the Risk of Complications" %}}.)
 
 ## {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 
@@ -405,7 +405,7 @@ Where braces use bone remodeling to make teeth straighter for mostly cosmetic re
 
 {{< resource uuid="2796ca14-31ce-ed47-7b4d-9cc12e905555" >}}
 
-This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "9ebff9df-4d7e-4175-8b56-610c037b803d" "Andrea Desrosiers" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "Link back to Day 11" "#Student_Work" %}}
 
@@ -413,7 +413,7 @@ This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC
 
 {{< resource uuid="07877a94-158a-b10f-584d-0dfc3ad591fa" >}}
 
-This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "9ebff9df-4d7e-4175-8b56-610c037b803d" "Andrea Desrosiers" %}} on YouTube and is provided under our Creative Commons license.
 
 CyberMouth
 
@@ -433,7 +433,7 @@ Editors: Andrea Desrosiers, Yuliya Klochan, Nathan Hernandez, Ceri Riley, Elizab
 
 Production Assistants: Nathan Hernandez, Fred Yarm
 
-[See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108857842066/cybermouth-creative-commons-cc-by-nc-sa)
+{{% resource_link "adea5636-d176-4df3-8fff-834656232860" "See the full credits on the course Tumblr." %}}
 
 Thanks to: Everyone in IAP15 20.219, the folks at DPI, and especially to my brother John Desrosiers, who inspired my love of science.
 
@@ -441,10 +441,10 @@ Thanks to: Everyone in IAP15 20.219, the folks at DPI, and especially to my brot
 
 ## {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 
-Andrea's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
+Andrea's video was professionally produced by {{% resource_link "10743a39-f71f-4d5d-a9ef-e06ee10b7a0b" "Science Out Loud" %}} after this course finished.
 
 {{< resource uuid="5e1be1f9-1218-e726-f3de-08dcf654476a" >}}
 
-This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
+This video is from {{% resource_link "d13071c0-f578-4c0d-a452-67234776e3e1" "MITK12Videos" %}} on YouTube and is provided under their {{% resource_link "ccbf2c97-2e92-4a1f-9699-1ba20d15b34d" "Creative Commons" %}} license.
 
 « {{% resource_link "32b67e5b-5210-05d4-f811-9b60fb7ee964" "Previous" %}} | {{% resource_link "265dbc31-50c1-a4e1-4686-f6c614415b05" "Next" %}} »
