@@ -37,11 +37,11 @@ What are the non-verbal elements that go into a video, and how do you integrate 
 
 ### In-class Media: Visual Language
 
-*   MITK12Videos. "[Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)](https://youtu.be/K9mhXBOhuHU)." October 23, 2014. YouTube.
-*   MITK12Videos. "[How To Discover A New Planet (Science Out Loud S1 Ep1)](https://youtu.be/4RarO2wS14Q)." YouTube. May 12, 2014.
-*   MITK12Videos. "[Engineering Trash Into Treasure (Science Out Loud S2 Ep4)](https://youtu.be/GzhFgEYiVyY)." November 6, 2014. YouTube.
-*   edX. "[Street Fighting Math | MITx on edX | About Page](https://youtu.be/u23ZUSu7-HY)." February 13, 2014. YouTube.
-*   edX. "[Intro to Aerospace Engineering | MITx on edX | Course About Video (Coming soon!)](https://youtu.be/Nugc_RO56cQ)." December 30, 2015. YouTube.
+*   MITK12Videos. "{{% resource_link "aa580652-1223-4bf6-aa3c-803a2e2746c1" "Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)" %}}." October 23, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "9f8c8f47-ec08-4f20-9d78-44daf0c8630e" "How To Discover A New Planet (Science Out Loud S1 Ep1)" %}}." YouTube. May 12, 2014.
+*   MITK12Videos. "{{% resource_link "423d4020-a089-4bb7-8fbb-666bbb8a6e81" "Engineering Trash Into Treasure (Science Out Loud S2 Ep4)" %}}." November 6, 2014. YouTube.
+*   edX. "{{% resource_link "fa84e7e4-7687-4f20-b8a5-48c77d6383c2" "Street Fighting Math | MITx on edX | About Page" %}}." February 13, 2014. YouTube.
+*   edX. "{{% resource_link "63803dcb-c580-497b-8e5a-5265040cd54f" "Intro to Aerospace Engineering | MITx on edX | Course About Video (Coming soon!)" %}}." December 30, 2015. YouTube.
 
 {{< anchor "Part_3:_Producing_a_Video" >}}{{< /anchor >}}Part 3: Producing a Video
 ----------------------------------------------------------------------------------
@@ -50,13 +50,13 @@ What are the non-verbal elements that go into a video, and how do you integrate 
 
 ### In-class Media: Producing Case Studies
 
-*   SciShow. "[The 4 Most Irreplaceable Places.](https://youtu.be/nsp2VLsie_E)" November 17, 2013. YouTube.
-*   MITK12Videos. "[Engineering Engines (Science Out Loud S1 Ep 6)](https://youtu.be/y2vzH1MjRqQ)." June 30, 2014. YouTube.
-*   MITK12Videos. "[How Computers Compute (Science Out Loud S2 Ep5)](https://youtu.be/8cVsgFN3hSM)." November 13, 2014. YouTube.
-*   MITK12Videos. "[Squid Skin with a Mind of Its Own (Science Out Loud S1 Ep4)](https://youtu.be/mlzxxD9A07E)." June 2, 2014. YouTube.
-*   MITK12Videos. "[Engineering Trash Into Treasure (Science Out Loud S2 Ep4)](https://youtu.be/GzhFgEYiVyY)." November 6, 2014. YouTube.
-*   MITK12Videos. "[Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)](https://youtu.be/K9mhXBOhuHU)." October 23, 2014. YouTube.
-*   MITK12Videos. "[Why Do We Have Snot? (MIT Explains)](https://youtu.be/zDo-UG3i75o)." May 14, 2015. YouTube.
+*   SciShow. "{{% resource_link "efc428f2-d903-489b-a854-e68d3196390c" "The 4 Most Irreplaceable Places." %}}" November 17, 2013. YouTube.
+*   MITK12Videos. "{{% resource_link "aea77f18-9bf4-48a2-9f7f-bd0716b9588c" "Engineering Engines (Science Out Loud S1 Ep 6)" %}}." June 30, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "3ac70973-1f33-4317-b781-036c1a391a9f" "How Computers Compute (Science Out Loud S2 Ep5)" %}}." November 13, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "1928d3be-e055-49bb-ad86-72b2cbdadcd6" "Squid Skin with a Mind of Its Own (Science Out Loud S1 Ep4)" %}}." June 2, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "423d4020-a089-4bb7-8fbb-666bbb8a6e81" "Engineering Trash Into Treasure (Science Out Loud S2 Ep4)" %}}." November 6, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "aa580652-1223-4bf6-aa3c-803a2e2746c1" "Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)" %}}." October 23, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "29e90e70-7f8f-4eae-888f-8bfb0305bcd3" "Why Do We Have Snot? (MIT Explains)" %}}." May 14, 2015. YouTube.
 
 {{< anchor "Part_4:_Filming" >}}{{< /anchor >}}Part 4: Filming
 --------------------------------------------------------------

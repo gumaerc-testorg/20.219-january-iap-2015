@@ -12,7 +12,7 @@ uid: 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4
 ---
 « {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Previous" %}} | {{% resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Next" %}} »
 
-[_Link to_ _Nathan Hernandez's Page on Tumblr_](http://mit219.tumblr.com/tagged/hiji)
+{{% resource_link "3c814cd7-2eeb-4884-bb68-26a79ef78046" "_Link to_ _Nathan Hernandez's Page on Tumblr_" %}}
 
 Contents
 --------
@@ -29,7 +29,7 @@ Contents
 
 {{< resource eca079a7-89cb-91ce-f2c3-d73770b56f42 >}}
 
-This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "66c3ff2a-3c3d-4783-bd1f-0f9f94d717c5" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
 
 Lots lots lots lots to improve
 
@@ -89,7 +89,7 @@ How do you prevent your fresh food from going bad? My advice, eat your veggies.
 
 {{< resource 2ab4fe52-fa1c-abb2-72e4-6e0a11ab2142 >}}
 
-This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "66c3ff2a-3c3d-4783-bd1f-0f9f94d717c5" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
 
 Very rough
 
@@ -116,7 +116,7 @@ Very rough
 
 {{< resource efa8ff07-330a-2e85-8521-901f6add332b >}}
 
-This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "66c3ff2a-3c3d-4783-bd1f-0f9f94d717c5" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
 
 **I will explain why it's so terrible.**
 
@@ -127,9 +127,9 @@ This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1
 
 {{< resource 7031f7be-ca8b-2ffa-1a47-555bc3c4c018 >}}
 
-This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "66c3ff2a-3c3d-4783-bd1f-0f9f94d717c5" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
 
-[Creative Commons: CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/), MIT  
+{{% resource_link "439953ca-4610-450e-9cdd-35379b163f5c" "Creative Commons: CC BY-NC-SA" %}}, MIT  
 Hosted By: Nathan Hernandez  
 Written By: Nathan Hernandez  
 Additional Scripting: Elizabeth Choe, George Zaidan, Andrea Desrosiers
@@ -139,7 +139,7 @@ Director: Nathan Hernandez
 Editor: Nathan Hernandez  
 Production Assistant: Andrea Desrosiers
 
-[See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108857321146/creative-commons-cc-by-nc-sa-mit)
+{{% resource_link "b26ae4ad-397b-4199-b307-72e746528556" "See the full credits on the course Tumblr." %}}
 
 {{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
 
