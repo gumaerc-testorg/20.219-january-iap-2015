@@ -21,7 +21,7 @@ Contents
 {{< anchor "Overview" >}}{{< /anchor >}}Overview
 ------------------------------------------------
 
-We'll finish the rest of the table-reads and then cover the "art" of editing and incorporating music into video. Please note that this will not be a techniques workshop (see the {{% resource_link ad3ae351-22ea-cbd5-88b3-8186e7c06469 "Equipment" %}} & {{% resource_link eaf1ea87-2e1a-06ea-9cf1-bc2e13afad12 "Editing" %}} sections for tutorial resources), but rather a best practices-based workshop. We will also cover the resources available for music and navigating [Creative Commons](http://creativecommons.org/).
+We'll finish the rest of the table-reads and then cover the "art" of editing and incorporating music into video. Please note that this will not be a techniques workshop (see the {{% resource_link ad3ae351-22ea-cbd5-88b3-8186e7c06469 "Equipment" %}} & {{% resource_link eaf1ea87-2e1a-06ea-9cf1-bc2e13afad12 "Editing" %}} sections for tutorial resources), but rather a best practices-based workshop. We will also cover the resources available for music and navigating {{% resource_link "03cbe459-b6a6-46ff-8675-908bf377c62e" "Creative Commons" %}}.
 
 {{< anchor "Part_1:_Table-read" >}}{{< /anchor >}}Part 1: Table-read
 --------------------------------------------------------------------
@@ -77,23 +77,23 @@ SCRIPT DRAFTS
 
 ### In-class Media: Editing Case Studies
 
-*   MITK12Videos. "[Engineering Trash Into Treasure (Science Out Loud S2 Ep4)](https://youtu.be/GzhFgEYiVyY)." YouTube. November 6, 2014.
-*   MITK12Videos. "[Why We Fart (Science Out Loud S2 Ep3)](https://youtu.be/R1kxajH629A)." October 30, 2014. YouTube.
-*   MITK12Videos. "[How Computers Compute (Science Out Loud S2 Ep5)](https://youtu.be/8cVsgFN3hSM)." November 13, 2014. YouTube.
-*   MITK12Videos. "[Engineering Engines (Science Out Loud S1 Ep 6)](https://youtu.be/y2vzH1MjRqQ)." June 30, 2014. YouTube.
-*   MITK12Videos. "[Engineering River Cleanups (Science Out Loud S2 Ep6)](https://youtu.be/oiHNdcdU1pM)." November 24, 2014. YouTube.
-*   MITK12Videos. "[The Physics of Skydiving (Science Out Loud S2 Ep1)](https://youtu.be/qEWCRKxhEZo)." October 16, 2014. YouTube.
-*   MITK12Videos. "[Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2](https://youtu.be/K9mhXBOhuHU))." October 23, 2014. YouTube.
-*   Veritasium. "[The Most Radioactive Places on Earth](https://youtu.be/TRL7o2kPqw0)." December 17, 2004. YouTube.
-*   SciShow. "[The 4 Most Irreplaceable Places.](https://youtu.be/nsp2VLsie_E)" November 17, 2014. YouTube.
-*   TIME. "[10 Questions for Neil deGrasse Tyson](https://youtu.be/wiOwqDmacJo)." June 27, 2008. YouTube.
-*   Max Schlickenmeyer. "[The Most Astounding Fact - Neil deGrasse Tyson](https://youtu.be/9D05ej8u-gU)." March 2, 2012. YouTube.
+*   MITK12Videos. "{{% resource_link "423d4020-a089-4bb7-8fbb-666bbb8a6e81" "Engineering Trash Into Treasure (Science Out Loud S2 Ep4)" %}}." YouTube. November 6, 2014.
+*   MITK12Videos. "{{% resource_link "e4c274c5-9e61-4576-ad2a-5644746864ba" "Why We Fart (Science Out Loud S2 Ep3)" %}}." October 30, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "3ac70973-1f33-4317-b781-036c1a391a9f" "How Computers Compute (Science Out Loud S2 Ep5)" %}}." November 13, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "aea77f18-9bf4-48a2-9f7f-bd0716b9588c" "Engineering Engines (Science Out Loud S1 Ep 6)" %}}." June 30, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "ee9bc4d7-67bd-45c9-aa59-eea77cda0495" "Engineering River Cleanups (Science Out Loud S2 Ep6)" %}}." November 24, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "046bc241-6bd0-4761-8c9b-d0897412e516" "The Physics of Skydiving (Science Out Loud S2 Ep1)" %}}." October 16, 2014. YouTube.
+*   MITK12Videos. "{{% resource_link "aa580652-1223-4bf6-aa3c-803a2e2746c1" "Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2" %}})." October 23, 2014. YouTube.
+*   Veritasium. "{{% resource_link "70af02d9-339f-4466-a926-f299116f7c93" "The Most Radioactive Places on Earth" %}}." December 17, 2004. YouTube.
+*   SciShow. "{{% resource_link "efc428f2-d903-489b-a854-e68d3196390c" "The 4 Most Irreplaceable Places." %}}" November 17, 2014. YouTube.
+*   TIME. "{{% resource_link "4ba3b464-0b0f-46ba-8bd2-aadc670b49fa" "10 Questions for Neil deGrasse Tyson" %}}." June 27, 2008. YouTube.
+*   Max Schlickenmeyer. "{{% resource_link "efe44e2f-01bc-4af3-b722-25a6ac88a492" "The Most Astounding Fact - Neil deGrasse Tyson" %}}." March 2, 2012. YouTube.
 
 ### In-class Media: Music Resources
 
-*   Creative Commons resources: [CCmixter](http://ccmixter.org/), [FMA](http://freemusicarchive.org/), [SoundCloud](https://soundcloud.com/), [Incompetech](http://incompetech.com/), [Jamendo](https://www.jamendo.com/)
-*   Stock: [Premium Beat,](http://www.premiumbeat.com/stock-music) [Pond5](http://www.pond5.com/)
-*   Video and images: [Internet Archive](https://archive.org/details/stock_footage), [CDC PHIL](http://phil.cdc.gov/Phil/home.asp), [NASA](https://www.nasa.gov/multimedia/imagegallery/index.html), U.S. government sites
+*   Creative Commons resources: {{% resource_link "9d8bbb63-e631-4a95-a7de-5298f42828a8" "CCmixter" %}}, {{% resource_link "60cc7fa1-3af2-40d3-9e50-bb6e6372bd5f" "FMA" %}}, {{% resource_link "3d6d8a7e-7c80-4cc7-a889-35b6a1cfd95a" "SoundCloud" %}}, {{% resource_link "e3da35b2-5fd1-4d53-9369-bed44a0f36cb" "Incompetech" %}}, {{% resource_link "0ce16687-1d12-40e1-a4ec-caf0d6e7671e" "Jamendo" %}}
+*   Stock: {{% resource_link "fee0aaa5-155f-4a51-ad83-d7dc0fc0cc66" "Premium Beat," %}} {{% resource_link "f508ed11-7433-4cde-b26f-7888db2f717c" "Pond5" %}}
+*   Video and images: {{% resource_link "ae911720-ddb1-44af-94c9-0afb5a2bcf2d" "Internet Archive" %}}, {{% resource_link "b5aa665c-7d9a-4160-a30e-152f8cb9209e" "CDC PHIL" %}}, {{% resource_link "f47257d5-6739-4005-b43c-42e781e4e376" "NASA" %}}, U.S. government sites
 
 {{< anchor "Assignments" >}}{{< /anchor >}}Assignments
 ------------------------------------------------------
