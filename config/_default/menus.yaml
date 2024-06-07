@@ -105,11 +105,6 @@ leftnav:
   pageRef: /pages/instructor-insights/cultivating-a-healthy-classroom-culture
   parent: 526193cf-30da-cdf1-c673-4faab57d51d7
   weight: 30
-- identifier: bff85acf-9745-fca1-40eb-0d6936576b7c
-  name: Teaching Reflections Timeline
-  pageRef: /pages/instructor-insights/teaching-reflections-timeline
-  parent: 526193cf-30da-cdf1-c673-4faab57d51d7
-  weight: 40
 - identifier: a8052e86-91ed-d84e-9df2-c28f872ebec6
   name: Kenneth Cheah's Project
   pageRef: /pages/student-projects/kenneth-cheahs-project
