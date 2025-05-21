@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: true
 end_time: '8058'
 file: null
+file_size: '315767230'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''

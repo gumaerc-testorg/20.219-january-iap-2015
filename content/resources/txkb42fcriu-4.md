@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/18610ddb28905f53a60a86b784d67b53_TXkB42FCriU.vtt
+file_size: 1534
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
