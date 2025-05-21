@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ddcd52a0776fd578fdbea20aaeb5da49_YuliyaKlochan-day4storyboard-6.jpg
+file_size: 98788
 file_type: image/jpeg
 image_metadata:
   caption: ''
