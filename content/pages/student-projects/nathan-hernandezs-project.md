@@ -10,59 +10,54 @@ parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Nathan Hernandez's Project
 uid: 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4
 ---
-« {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Previous" %}} | {{% resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Next" %}} »
+[*Link to* *Nathan Hernandez's Page on Tumblr*](http://mit219.tumblr.com/tagged/hiji)
 
-{{% resource_link "3c814cd7-2eeb-4884-bb68-26a79ef78046" "_Link to_ _Nathan Hernandez's Page on Tumblr_" %}}
+## Contents
 
-Contents
---------
+- [Day 1 Pitch](#Day_1_Pitch)
+- [Day 2 Script](#Day_2_Script)
+- [Day 3 Pitch](#Day_3_Pitch)
+- [Day 4 Storyboard](#Day_4_Storyboard)
+- [Rough Cut](#Final_Project)
+- [Final Project](#Final_Project:_Breaking_Down_Decomposition)
 
-*   [Day 1 Pitch](#Day_1_Pitch)
-*   [Day 2 Script](#Day_2_Script)
-*   [Day 3 Pitch](#Day_3_Pitch)
-*   [Day 4 Storyboard](#Day_4_Storyboard)
-*   [Rough Cut](#Final_Project)
-*   [Final Project](#Final_Project:_Breaking_Down_Decomposition)
+## {{< anchor "Day_1_Pitch" >}}{{< /anchor >}}Day 1 Pitch
 
-{{< anchor "Day_1_Pitch" >}}{{< /anchor >}}Day 1 Pitch
-------------------------------------------------------
+{{< resource uuid="eca079a7-89cb-91ce-f2c3-d73770b56f42" >}}
 
-{{< resource eca079a7-89cb-91ce-f2c3-d73770b56f42 >}}
-
-This video is courtesy of {{% resource_link "66c3ff2a-3c3d-4783-bd1f-0f9f94d717c5" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
+This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
 
 Lots lots lots lots to improve
 
 Just a few things:
 
-*   I say "you know" so much it hurts
-*   Narrow down subject matter (decrease breadth (5 minutes is too long) and increase depth)
-*   Basically, I need to script it instead of following an outline (which we will do)
-*   Visuals
-*   Better things to do with my body
+- I say "you know" so much it hurts
+- Narrow down subject matter (decrease breadth (5 minutes is too long) and increase depth)
+- Basically, I need to script it instead of following an outline (which we will do)
+- Visuals
+- Better things to do with my body
 
-{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "e7ab07a5-9bf4-78a1-8a95-a815093ec211" "*Link back to Day 1*" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Draft for "How does Food Turn to Mush?"
--------------------------------------------------------------------------------------------------
+## {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Draft for "How does Food Turn to Mush?"
 
-_Me opening fridge, going 'ugh' and camera looks at rotten veggies_
+*Me opening fridge, going 'ugh' and camera looks at rotten veggies*
 
-_Goes to me in some setting…kitchen burred in bg, me in fg???_
+*Goes to me in some setting…kitchen burred in bg, me in fg???*
 
 Have you ever wondered how things rot in the fridge? Like, it's literally a flesh eating disease just chilling in your kitchen.
 
-_bottom of screen "don't worry, it can't eat you"_
+*bottom of screen "don't worry, it can't eat you"*
 
 No big deal. Ask anyone and they'll be saying something along the lines of "it's bacteria I think." And that's mostly true but how does it work?!?! How does it turn a perfectly good floret of broccoli
 
-_Screen to picture of perfectly healthy broccoli_
+*Screen to picture of perfectly healthy broccoli*
 
 Into that?
 
-_Screen to picture of disgusting broccoli decay mush. Shudder._
+*Screen to picture of disgusting broccoli decay mush. Shudder.*
 
-_After this I won't be doing instructions for visuals since there's waaaaay too many to figure out at this time_
+*After this I won't be doing instructions for visuals since there's waaaaay too many to figure out at this time*
 
 Well, the wide and wonderful world is full of a variety of creatures, among them bacteria and fungi, many of these whom—we'll call them Saprophytes—survive entirely by eating dead matter, playing crucial roles in the recycling of carbon and nitrogen back into the living world. Instead of how we eat food and digest it in our stomachs, these organisms break down their food outside their bodies and then absorb the small food particles in a process known as extracellular digestion.
 
@@ -82,65 +77,59 @@ Usually this process takes 10–14 days to reach a point at which it probably is
 
 How do you prevent your fresh food from going bad? My advice, eat your veggies.
 
-{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "3da88bd7-fc04-b288-6227-11604ae6a159" "*Link back to Day 2*" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_3_Pitch" >}}{{< /anchor >}}Day 3 Pitch
-------------------------------------------------------
+## {{< anchor "Day_3_Pitch" >}}{{< /anchor >}}Day 3 Pitch
 
-{{< resource 2ab4fe52-fa1c-abb2-72e4-6e0a11ab2142 >}}
+{{< resource uuid="2ab4fe52-fa1c-abb2-72e4-6e0a11ab2142" >}}
 
-This video is courtesy of {{% resource_link "66c3ff2a-3c3d-4783-bd1f-0f9f94d717c5" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
+This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
 
 Very rough
 
-{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "36586ba5-68db-37ca-a516-348b595214d8" "*Link back to Day 3*" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
-----------------------------------------------------------------
+## {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 
-{{< resource ca053e7d-2a25-b1c3-5da7-d32369a2ddda >}}
+{{< resource uuid="ca053e7d-2a25-b1c3-5da7-d32369a2ddda" >}}
 
 ### Script for the Scene
 
-1.  Let's consider where all of that icky black liquid comes from when something's rotting.
-2.  Well, fruits and vegetables are almost entirely water,
-3.  so on the most basic level, you could say a plant cell is an extremely complex water balloon.
-4.  The elastic outside is the cell wall and membrane and the water inside is the intracellular fluid. When a bacteria or fungi uses enzymes to break down the exterior of a cell,
-5.  it's like if I were to pop the balloon.
-6.  The water and nutrients that come out are what cause the muck you see in your fridge.
+1. Let's consider where all of that icky black liquid comes from when something's rotting.
+2. Well, fruits and vegetables are almost entirely water,
+3. so on the most basic level, you could say a plant cell is an extremely complex water balloon.
+4. The elastic outside is the cell wall and membrane and the water inside is the intracellular fluid. When a bacteria or fungi uses enzymes to break down the exterior of a cell,
+5. it's like if I were to pop the balloon.
+6. The water and nutrients that come out are what cause the muck you see in your fridge.
 
-{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
+{{% resource_link "60a6ea96-1026-802d-98a9-351ce3b38557" "*Link back to Day 4*" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Final_Project" >}}{{< /anchor >}}Rough Cut: Breaking Down Decomposition
------------------------------------------------------------------------------------
+## {{< anchor "Final_Project" >}}{{< /anchor >}}Rough Cut: Breaking Down Decomposition
 
-{{< resource efa8ff07-330a-2e85-8521-901f6add332b >}}
+{{< resource uuid="efa8ff07-330a-2e85-8521-901f6add332b" >}}
 
-This video is courtesy of {{% resource_link "66c3ff2a-3c3d-4783-bd1f-0f9f94d717c5" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
+This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
 
 **I will explain why it's so terrible.**
 
-{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
+{{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "*Link back to Day 11*" "#Student_Work" %}}
 
-{{< anchor "Final_Project:_Breaking_Down_Decomposition" >}}{{< /anchor >}}Final Project: Breaking Down Decomposition
---------------------------------------------------------------------------------------------------------------------
+## {{< anchor "Final_Project:_Breaking_Down_Decomposition" >}}{{< /anchor >}}Final Project: Breaking Down Decomposition
 
-{{< resource 7031f7be-ca8b-2ffa-1a47-555bc3c4c018 >}}
+{{< resource uuid="7031f7be-ca8b-2ffa-1a47-555bc3c4c018" >}}
 
-This video is courtesy of {{% resource_link "66c3ff2a-3c3d-4783-bd1f-0f9f94d717c5" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
+This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
 
-{{% resource_link "439953ca-4610-450e-9cdd-35379b163f5c" "Creative Commons: CC BY-NC-SA" %}}, MIT  
-Hosted By: Nathan Hernandez  
-Written By: Nathan Hernandez  
+[Creative Commons: CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/), MIT     
+Hosted By: Nathan Hernandez     
+Written By: Nathan Hernandez     
 Additional Scripting: Elizabeth Choe, George Zaidan, Andrea Desrosiers
 
-Executive Producer: Nathan Hernandez  
-Director: Nathan Hernandez  
-Editor: Nathan Hernandez  
+Executive Producer: Nathan Hernandez     
+Director: Nathan Hernandez     
+Editor: Nathan Hernandez     
 Production Assistant: Andrea Desrosiers
 
-{{% resource_link "b26ae4ad-397b-4199-b307-72e746528556" "See the full credits on the course Tumblr." %}}
+[See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108857321146/creative-commons-cc-by-nc-sa-mit)
 
-{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
-
-« {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Previous" %}} | {{% resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Next" %}} »
+{{% resource_link "2dc5287f-35ed-e833-9c9b-93f4238ac687" "*Link back to Day 13*" "#Student_Work" %}}

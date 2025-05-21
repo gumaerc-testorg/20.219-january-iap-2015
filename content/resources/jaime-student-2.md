@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/32fb47cface341f681c797a704b155e6_jaime-student-2.jpg
+file_size: 63577
 file_type: image/jpeg
 image_metadata:
   caption: ''

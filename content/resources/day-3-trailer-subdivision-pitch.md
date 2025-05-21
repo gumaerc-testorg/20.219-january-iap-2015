@@ -1,9 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: true
 end_time: ''
 file: null
 file_size: '7911585'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -25,7 +31,6 @@ video_files:
 video_metadata:
   youtube_id: rcRAb0-vc60
 ---
-
 **Description:** MIT 20.219 Becoming the Next Bill Nye: Writing and Hosting the Educational Show, IAP 2015. View the complete course: [http://ocw.mit.edu/20-219IAP15](/20-219IAP15).
 
 **Instructor:** Paul (PJ) Folino
@@ -34,5 +39,4 @@ License: Creative Commons BY-NC-SA
 
 More information at [http://ocw.mit.edu/terms](/terms)
 
-More courses at {{% resource_link "4d768735-86b2-4d57-9d6a-a92ba4dfb515" "http://ocw.mit.edu" %}}
-
+More courses at [http://ocw.mit.edu](http://ocw.mit.edu)

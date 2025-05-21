@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: ' '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
@@ -10,9 +10,7 @@ parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Yuliya Klochan's Project
 uid: 199a8a68-327f-ee7d-62ee-54642710c541
 ---
-« {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Previous" %}} | {{% resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "Next" %}} »
-
-{{% resource_link "635d3f5d-1c98-4999-9ffc-13ee1fc6b7eb" "_Link to_ _Yuliya Klochan's Page on Tumblr_" %}}
+[*Link to* *Yuliya Klochan's Page on Tumblr*](http://mit219.tumblr.com/tagged/yklochan)
 
 ## Contents
 
@@ -30,65 +28,65 @@ uid: 199a8a68-327f-ee7d-62ee-54642710c541
 
 ## {{< anchor "G_del_s_Theorem_Video_Pitch" >}}{{< /anchor >}}Day 1 Gödel's Theorem Video Pitch
 
-{{< resource 8e63c182-7651-0bb9-9b75-2c2254bc2a59 >}}
+{{< resource uuid="8e63c182-7651-0bb9-9b75-2c2254bc2a59" >}}
 
-This video is courtesy of {{% resource_link "8b9d8d53-7f00-4f32-b759-d94add37e96d" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
+This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
 The beginning of an odd mathematical journey that asks (but cannot always answer) questions like, "Is math true?" or "Could The Matrix scenario happen to us?"
 
-{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Link back to Day 1" "#Instructor_and_Student_Work" %}}
+{{% resource_link "e7ab07a5-9bf4-78a1-8a95-a815093ec211" "Link back to Day 1" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Math_Woman_Saves_the_World" >}}{{< /anchor >}}Day 2 Math Woman Saves the World (the Script)
 
-_Note: This seems, at this point, an odd amalgamation of various mathematical ideas. A read-through takes just under 5 minutes, but I will most likely filter a lot of the material. I just wanted to grasp the character for now. Also, phrases in brackets \[\] are optional and italicized ones are filming directions._
+*Note: This seems, at this point, an odd amalgamation of various mathematical ideas. A read-through takes just under 5 minutes, but I will most likely filter a lot of the material. I just wanted to grasp the character for now. Also, phrases in brackets \[\] are optional and italicized ones are filming directions.*
 
-_(in a thunderous voice over an "interesting" theatrical background)_
+*(in a thunderous voice over an "interesting" theatrical background)*
 
 Introducing your new favorite superhero…
 
-_(thunder, Math Woman revealed standing tall in her superhero suit)_
+*(thunder, Math Woman revealed standing tall in her superhero suit)*
 
 Math Woman!!!
 
-Now, you've heard of Batman, Iron Man, Hulk… _(show images of these characters)_
+Now, you've heard of Batman, Iron Man, Hulk… *(show images of these characters)*
 
 But have you heard of Math Woman, the glorious offspring of Mathematics, the Queen of All Sciences? Math Woman is the Superhero Princess that always saves the world.
 
 Here's her story.
 
-_(The following involves acting, changing clothing with often goofy results, and using props / people; in the interest of the reader's eyes, I will omit the description of most scenes)_
+*(The following involves acting, changing clothing with often goofy results, and using props / people; in the interest of the reader's eyes, I will omit the description of most scenes)*
 
 Every morning Math Woman gets dressed in a perfectly matched outfit, always aware of the latest fashion trends ahead of everyone else. She smiles a golden ratio smile. \[Scientists calculated it to be perfection.\]
 
-Sometimes Math Woman confuses a cup with a donut at breakfast, a mistake many of her followers, mathematicians, may make \[though don't tell them that\]. But she always makes the perfect half-inch toasted bread \[coated with exactly 0.4 grams of butter per square inch.\] _(show delectable toast here)_
+Sometimes Math Woman confuses a cup with a donut at breakfast, a mistake many of her followers, mathematicians, may make \[though don't tell them that\]. But she always makes the perfect half-inch toasted bread \[coated with exactly 0.4 grams of butter per square inch.\] *(show delectable toast here)*
 
 On days when the world is safe, Math Woman then relaxes at home. Once, she solved an important math problem and earned a million dollars. She will never have to work again.
 
-Instead, Math Woman may create the world's wackiest art _(fractals)_ and find that it can help cure cancer. She may compose the next latest music hit or the world's ugliest tune \[so ugly it hurts! _(play if possible)_\]; play a game to predict a war, solve a crime, find a terrorist's bomb…
+Instead, Math Woman may create the world's wackiest art *(fractals)* and find that it can help cure cancer. She may compose the next latest music hit or the world's ugliest tune \[so ugly it hurts! *(play if possible)*\]; play a game to predict a war, solve a crime, find a terrorist's bomb…
 
 At snack time, Math Woman gobbles up an infinite number of chocolate pieces: First a half, then a quarter, an eighth…. Ask your math teacher how she still stays in shape after that!
 
 Still seems like a pretty regular being? Well, here are some Superbly Superb Superpowers Math Woman possesses.
 
-She can make two bowling balls out of one with no extra materials, or talk to anyone in the world with the universal language of Math. _(show cool math formula images)_
+She can make two bowling balls out of one with no extra materials, or talk to anyone in the world with the universal language of Math. *(show cool math formula images)*
 
-How can she do that? Well, Math Woman sees patterns, shapes, and numbers in everything and everyone. This allows her to do incredible stuff, like predicting the future, or even travelling to infinity and beyond. _(show Buzz Lightyear image if copyright laws allow it)_
+How can she do that? Well, Math Woman sees patterns, shapes, and numbers in everything and everyone. This allows her to do incredible stuff, like predicting the future, or even travelling to infinity and beyond. *(show Buzz Lightyear image if copyright laws allow it)*
 
 And, so, if her powers predict a disaster, Math Woman immediately flies to the rescue.
 
 A typhoon happening, you say? Math Woman is way ahead of you.
 
-_(different voice, childlike)_
+*(different voice, childlike)*
 
 Does Math Woman ever get in trouble?
 
-_(back to normal)_
+*(back to normal)*
 
 Well, of course. No Superhero Princess is perfect.
 
-_(change of scene for a more dramatic fantasy setting)_
+*(change of scene for a more dramatic fantasy setting)*
 
-One time, for example, giant robots attacked the Earth. _(show footage from some film showing machines attacking, if possible)_
+One time, for example, giant robots attacked the Earth. *(show footage from some film showing machines attacking, if possible)*
 
 Everyone was terrified. The robots talked and behaved just like us, and it seemed that they were even stronger…
 
@@ -96,11 +94,11 @@ Math Woman had no idea what to do. She was smart, but could she defeat the awful
 
 And then, Queen Mathematics stepped in. She sent a message to young mathematician Kurt Godel, who immediately set out to help Math Woman on her quest. He said to her,
 
-_(male voice, background could be an image of Godel)_
+*(male voice, background could be an image of Godel)*
 
 "Machines can never be as smart as humans. We are infinitely more powerful than they are with our minds. Mathematics proved it, so it must be true. Don't give up, Math Woman!"
 
-_(back to normal)_
+*(back to normal)*
 
 And Math Woman didn't. The problem before her was a challenge. But she took her time and persevered.
 
@@ -114,63 +112,63 @@ Math Woman applies what you learn at school to save the world. And if you practi
 
 So, explore what Math Woman has to say. Don't give up when the difficult villains come. Then, you, too, can join Math Woman on an infinite pursuit of adventure.
 
-_(back to original background, dramatic final voice over)_
+*(back to original background, dramatic final voice over)*
 
 Save the world with math. No superpowers required.
 
 **The End**
 
-{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Link back to Day 2" "#Instructor_and_Student_Work" %}}
+{{% resource_link "3da88bd7-fc04-b288-6227-11604ae6a159" "Link back to Day 2" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Day_3_Trailer:_Fractals_" >}}{{< /anchor >}}Day 3 Trailer: Fractals!
 
-{{< resource 0cce493e-b93f-c3e9-4588-155aec2dce0f >}}
+{{< resource uuid="0cce493e-b93f-c3e9-4588-155aec2dce0f" >}}
 
-This video is courtesy of {{% resource_link "8b9d8d53-7f00-4f32-b759-d94add37e96d" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
+This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Link back to Day 3" "#Instructor_and_Student_Work" %}}
+{{% resource_link "36586ba5-68db-37ca-a516-348b595214d8" "Link back to Day 3" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 
-{{< resource 2636f62e-5962-0991-db84-bb783891c615 >}}
+{{< resource uuid="2636f62e-5962-0991-db84-bb783891c615" >}}
 
  
 
-{{< resource ec4d041e-daf7-9b5d-f1db-43add958c4e6 >}}
+{{< resource uuid="ec4d041e-daf7-9b5d-f1db-43add958c4e6" >}}
 
  
 
-{{< resource 5219497e-d452-22df-afe0-437da5543672 >}}
+{{< resource uuid="5219497e-d452-22df-afe0-437da5543672" >}}
 
  
 
-{{< resource 86d44ed7-1c84-08b1-74eb-da42708398bd >}}
+{{< resource uuid="86d44ed7-1c84-08b1-74eb-da42708398bd" >}}
 
  
 
-{{< resource 31442b80-4ebd-46ff-5829-d43178deb7fc >}}
+{{< resource uuid="31442b80-4ebd-46ff-5829-d43178deb7fc" >}}
 
  
 
-{{< resource ddcd52a0-776f-d578-fdbe-a20aaeb5da49 >}}
+{{< resource uuid="ddcd52a0-776f-d578-fdbe-a20aaeb5da49" >}}
 
  
 
-{{< resource 53ddafb7-399c-75d9-7401-14ec0d052fbd >}}
+{{< resource uuid="53ddafb7-399c-75d9-7401-14ec0d052fbd" >}}
 
  
 
-{{< resource 2cd5e78e-a092-d81c-5ae4-d1998065da83 >}}
+{{< resource uuid="2cd5e78e-a092-d81c-5ae4-d1998065da83" >}}
 
  
 
-{{< resource 2f8f0821-dea7-ef44-9c40-041a2ed60e57 >}}
+{{< resource uuid="2f8f0821-dea7-ef44-9c40-041a2ed60e57" >}}
 
  
 
-{{< resource c1f067c2-d2c5-5e33-0d4e-cc5daf49b91e >}}
+{{< resource uuid="c1f067c2-d2c5-5e33-0d4e-cc5daf49b91e" >}}
 
-{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Link back to Day 4" "#Instructor_and_Student_Work" %}}
+{{% resource_link "60a6ea96-1026-802d-98a9-351ce3b38557" "Link back to Day 4" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Fractals_Video_Script_Draft_2" >}}{{< /anchor >}}Day 5 Script: Fractals Video Script (Draft 2)
 
@@ -230,7 +228,7 @@ Well, in the 90's, a radio astronomer by the name of Nathan Cohen was having tro
 
 The landlord didn't notice it, **and** it worked better than the ones before!
 
-Working further, Cohen designed a new version, this time using a shape called "{{% resource_link "0a392076-d80f-4976-a1f1-a945a5fe78ee" "the Menger Sponge" %}}" (voiceover over animation of traveling through the Menger Sponge). The fractal's infinite "sponginess" allowed the antennae to receive multiple different signals.
+Working further, Cohen designed a new version, this time using a shape called "[the Menger Sponge](http://blog.zacharyabel.com/wp-content/uploads/2012/02/Menger-stages-big.png)" (voiceover over animation of traveling through the Menger Sponge). The fractal's infinite "sponginess" allowed the antennae to receive multiple different signals.
 
 (soapy sponge used as prop; maybe host is in shower?)
 
@@ -244,7 +242,7 @@ Look around you. What beautiful patterns do you see?
 
 **The End**
 
-{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Link back to Day 5" "#Instructor_and_Student_Work" %}}
+{{% resource_link "eee7bfe9-1be2-975c-496f-b04747f0e092" "Link back to Day 5" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Fractals__Script_Revisited" >}}{{< /anchor >}}Day 6 Fractals! Script Revisited
 
@@ -258,7 +256,7 @@ To model a snowflake, for example, start by drawing an equilateral triangle. Div
 
 Take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-{{< resource 1e45e705-75a1-3a24-7cc5-d10d2834b79e >}}
+{{< resource uuid="1e45e705-75a1-3a24-7cc5-d10d2834b79e" >}}
 
 This curve is called in mathematics a Koch Snowflake. It is a fractal because, if you zoom in, you'll get this same pattern (show pattern) again and again.
 
@@ -294,7 +292,7 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 
 Look around you. What beautiful patterns do you see?
 
-{{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "Link back to Day 6" "#Instructor_and_Student_Work" %}}
+{{% resource_link "7c38a44e-5ebb-8403-cf21-c2adc0137e4b" "Link back to Day 6" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "DAY_7_Script__Fractals__" >}}{{< /anchor >}}Day 7 Script (Fractals!)
 
@@ -306,7 +304,7 @@ First, I'd draw an equilateral triangle, divide each side into three equal parts
 
 Then take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-{{< resource 46aaa846-b699-f143-f03e-dc11c43fc874 >}}
+{{< resource uuid="46aaa846-b699-f143-f03e-dc11c43fc874" >}}
 
 This curve is called in mathematics a Koch Snowflake. If I repeated the process again and again, and looked anywhere, I would see this same pattern: (Show)
 
@@ -342,7 +340,7 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 
 Look around you. What beautiful patterns do you see?
 
-{{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "Link back to Day 7" "#Instructor_and_Student_Work" %}}
+{{% resource_link "d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d" "Link back to Day 7" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Fractals__Shot_List" >}}{{< /anchor >}}Day 8 Fractals! Shot List
 
@@ -359,7 +357,7 @@ Look around you. What beautiful patterns do you see?
 
 - **By Pool Mural (Introduction):** "What do snowflakes and cell phones have in common? Well, let me start by drawing a snowflake."
 - **Balcony of Amphitheatre (Alternative Intro):** Same text
-- **Blackboard** _(show demo of drawing the first iteration of Koch, then zoom to pre-drawn image of Koch Snowflake and its repeating pattern)_: "First, I'd draw an equilateral triangle, divide each side into three equal parts, and build another equilateral triangle on top of each side. Then take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this: _(turn and gesture)_. This curve is called in mathematics a Koch Snowflake. If I repeated the process again and again, and looked anywhere, I would see this same pattern: _(show)_."
+- **Blackboard** *(show demo of drawing the first iteration of Koch, then zoom to pre-drawn image of Koch Snowflake and its repeating pattern)*: "First, I'd draw an equilateral triangle, divide each side into three equal parts, and build another equilateral triangle on top of each side. Then take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this: *(turn and gesture)*. This curve is called in mathematics a Koch Snowflake. If I repeated the process again and again, and looked anywhere, I would see this same pattern: *(show)*."
 - **By Mural of Broccoli:** "Natural selection favors the most efficient systems and organisms, often of a fractal shape. The spiral fractal, for example, is present in seashells, broccoli, and hurricanes. The fractal tree is relatively easy to program, and allows mathematicians to study anything from river systems to blood vessels and lightning bolts. So many natural systems previously thought off-limits to mathematicians can now be explained in terms of fractals."
 - **Balcony of Amphitheatre (Conclusion):** "Thus, fractals allow us to learn nature's best practices, and then apply them to solve real world problems. Much like Cohen's antenna revolutionized telecommunications, other fractal research is changing fields of medicine, weather prediction, and many more. Here at MIT (move camera from host and Charles river to MIT dome right across) and everywhere in the world. Look around you. What beautiful patterns do you see?"
 
@@ -370,28 +368,28 @@ Look around you. What beautiful patterns do you see?
 
 ### Office with Computer / Laptop (time TBD)
 
-- _(show graphic zoom of Koch Snowflake using XaOS software):_ "Such never-ending patterns that on any scale, on any level of zoom, look roughly the same are called fractals. Computer scientists can program these infinite patterns by repeating an often simple mathematical process over and over. In 1990's, a radio astronomer named Nathan Cohen used the Koch snowflake to revolutionize wireless communications."
+- *(show graphic zoom of Koch Snowflake using XaOS software):* "Such never-ending patterns that on any scale, on any level of zoom, look roughly the same are called fractals. Computer scientists can program these infinite patterns by repeating an often simple mathematical process over and over. In 1990's, a radio astronomer named Nathan Cohen used the Koch snowflake to revolutionize wireless communications."
 - "Cohen later proved that only fractal shapes could work with such a wide range of frequencies. Today, millions of wireless communication devices, such as laptops and barcode scanners, also use Cohen's fractal antenna. Cohen's genius invention, however, was not the first application of fractals in the world. Nature has been doing it the whole time, and not just with snowflakes!"
 
 ### Workspace / Lab (to be discussed)
 
-- "At the time, Cohen was having troubles with his landlord. The man wouldn't let him put a radio antenna on the roof! So, Cohen decided to make a more compact, fractal radio antenna instead _(show wire bent as Koch snowflake.)_ The landlord didn't notice it. And it worked better than the ones before! Working further, Cohen designed a new version, this time using a fractal called "the Menger Sponge" _(build a tangible model of the Sponge, and show it)_."
+- "At the time, Cohen was having troubles with his landlord. The man wouldn't let him put a radio antenna on the roof! So, Cohen decided to make a more compact, fractal radio antenna instead *(show wire bent as Koch snowflake.)* The landlord didn't notice it. And it worked better than the ones before! Working further, Cohen designed a new version, this time using a fractal called "the Menger Sponge" *(build a tangible model of the Sponge, and show it)*."
 
  
 
-## {{< anchor "Fractals__Rough_Cut" >}}{{< /anchor >}}{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Fractals! Rough Cut" "#Student_Work" %}}
+## {{< anchor "Fractals__Rough_Cut" >}}{{< /anchor >}}
 
-{{< resource 0c990edf-7f53-41ad-ed67-0e524f7e2be4 >}}
+{{< resource uuid="0c990edf-7f53-41ad-ed67-0e524f7e2be4" >}}
 
-{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "This video is courtesy of " "#Student_Work" %}} {{% resource_link "8b9d8d53-7f00-4f32-b759-d94add37e96d" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
+{{% resource_link "dd2e9064-39f5-8292-7c78-a9141317dcc6" "This video is courtesy of" "#Student_Work" %}} [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Link back to Day 11" "#Student_Work" %}}
+{{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "Link back to Day 11" "#Student_Work" %}}
 
 ## {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 
-{{< resource f9828400-95e8-4546-a040-5fb6f1e60de4 >}}
+{{< resource uuid="f9828400-95e8-4546-a040-5fb6f1e60de4" >}}
 
-This video is courtesy of {{% resource_link "8b9d8d53-7f00-4f32-b759-d94add37e96d" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
+This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
 Fractals!
 
@@ -403,16 +401,14 @@ Written By: Yuliya Klochan
 
 Additional Scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan, students of 20.219
 
-{{% resource_link "7c588d03-4b0c-4247-aed8-e9fdde6f5c46" "See the full credits on the course Tumblr." %}}
+[See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108819986121/fractals-creative-commons-cc-by-nc-sa-mit)
 
-{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "Link back to Day 13" "#Student_Work" %}}
+{{% resource_link "2dc5287f-35ed-e833-9c9b-93f4238ac687" "Link back to Day 13" "#Student_Work" %}}
 
 ## {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 
-Yuliya's video was professionally produced by {{% resource_link "10743a39-f71f-4d5d-a9ef-e06ee10b7a0b" "Science Out Loud" %}} after this course finished.
+Yuliya's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
 
-{{< resource 6594298b-14f3-b172-be08-6831319ae826 >}}
+{{< resource uuid="6594298b-14f3-b172-be08-6831319ae826" >}}
 
-This video is from {{% resource_link "d13071c0-f578-4c0d-a452-67234776e3e1" "MITK12Videos" %}} on YouTube and is provided under their {{% resource_link "ccbf2c97-2e92-4a1f-9699-1ba20d15b34d" "Creative Commons" %}} license.
-
-« {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Previous" %}} | {{% resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "Next" %}} »
+This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
