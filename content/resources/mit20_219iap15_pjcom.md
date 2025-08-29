@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding PJ's rough cut.
 draft: true
-file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7e32aa4115bc210a9ae82862f0acc6c0_MIT20_219IAP15_PJcom.pdf
+file: /ol-ocw-studio-app/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7e32aa4115bc210a9ae82862f0acc6c0_MIT20_219IAP15_PJcom.pdf
 file_size: 193015
 file_type: application/pdf
 image_metadata:

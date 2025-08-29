@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c1f067c2d2c55e330d4ecc5daf49b91e_YuliyaKlochan-day4storyboard-10.jpg
+file: /ol-ocw-studio-app/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c1f067c2d2c55e330d4ecc5daf49b91e_YuliyaKlochan-day4storyboard-10.jpg
 file_size: 94641
 file_type: image/jpeg
 image_metadata:

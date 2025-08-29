@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: true
-file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7541c31ad8c8ba1b47944707325cfbf2_Folino-day4storyboard-2.jpg
+file: /ol-ocw-studio-app/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7541c31ad8c8ba1b47944707325cfbf2_Folino-day4storyboard-2.jpg
 file_size: 54217
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding grading.
-file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c2ed478ee025e0c81ba06c63caeef992_MIT20_219IAP15_GradngRubrc.pdf
+file: /ol-ocw-studio-app/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c2ed478ee025e0c81ba06c63caeef992_MIT20_219IAP15_GradngRubrc.pdf
 file_size: 125771
 file_type: application/pdf
 learning_resource_types: []
