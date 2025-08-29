@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding David''s
   Draft Script: Cold.'
-file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/fa6a637af9a24439c26ec60782a671fc_MIT20_219IAP15_Cold.docx
+file: /ol-ocw-studio-app/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/fa6a637af9a24439c26ec60782a671fc_MIT20_219IAP15_Cold.docx
 file_size: 15186
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types: []
