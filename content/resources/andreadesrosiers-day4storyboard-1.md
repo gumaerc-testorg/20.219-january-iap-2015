@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/54725ae5a468ae4378f2f32beb0dc68f_AndreaDesrosiers-day4storyboard-1.jpg
+file: /ol-ocw-studio-app/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/54725ae5a468ae4378f2f32beb0dc68f_AndreaDesrosiers-day4storyboard-1.jpg
 file_size: 83488
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding kenneth's rough cut.
-file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/35be945498057d0c5922872f867a36e6_MIT20_219IAP15_Kennethcom.pdf
+file: /ol-ocw-studio-app/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/35be945498057d0c5922872f867a36e6_MIT20_219IAP15_Kennethcom.pdf
 file_size: 184504
 file_type: application/pdf
 learning_resource_types: []

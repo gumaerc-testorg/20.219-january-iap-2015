@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding yuliya's rough cut.
-file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/d258a936561ff1185517476f739b6230_MIT20_219IAP15_Yuliyacom.pdf
+file: /ol-ocw-studio-app/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/d258a936561ff1185517476f739b6230_MIT20_219IAP15_Yuliyacom.pdf
 file_size: 189307
 file_type: application/pdf
 learning_resource_types: []
