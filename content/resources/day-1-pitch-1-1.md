@@ -34,5 +34,5 @@ License: Creative Commons BY-NC-SA
 
 More information at [http://ocw.mit.edu/terms](/terms)
 
-More courses at [http://ocw.mit.edu](http://ocw.mit.edu)
+More courses at {{% resource_link "9c523e22-0947-4ced-b437-e8069a457e38" "http://ocw.mit.edu" %}}
 
