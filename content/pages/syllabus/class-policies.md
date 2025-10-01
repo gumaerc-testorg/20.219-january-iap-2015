@@ -21,6 +21,6 @@ Since this is, ultimately, a class on digital media and literacy, it is acceptab
 Academic Integrity & Group Work
 -------------------------------
 
-You are allowed (and encouraged!) to discuss all aspects of the course with your fellow students, to get editorial feedback on your responses, and to get technical / methodological / conceptual help on your projects. However, we expect you to credit those who helped you by name, and that the work should still be substantively your own. If you have any questions, you should review the [Academic Integrity Handbook](http://integrity.mit.edu) or talk to the instructors.
+You are allowed (and encouraged!) to discuss all aspects of the course with your fellow students, to get editorial feedback on your responses, and to get technical / methodological / conceptual help on your projects. However, we expect you to credit those who helped you by name, and that the work should still be substantively your own. If you have any questions, you should review the {{% resource_link "9f897ecc-733f-4518-ba1d-43faa9ae8163" "Academic Integrity Handbook" %}} or talk to the instructors.
 
 « {{% resource_link 437609f3-1fdf-c9ca-e7ac-b7bbe4502dcf "Previous" %}} | {{% resource_link ad3ae351-22ea-cbd5-88b3-8186e7c06469 "Next" %}} »

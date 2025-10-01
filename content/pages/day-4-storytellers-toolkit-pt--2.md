@@ -19,7 +19,7 @@ uid: 60a6ea96-1026-802d-98a9-351ce3b38557
 
 ## {{< anchor "Overview" >}}{{< /anchor >}}Overview
 
-Guest lecturer Josh Gunn, founder of [Planet Nutshell](http://planetnutshell.com/) (an animation studio in Cambridge), will begin our discussion on visual storytelling. This will be an informal workshop on the use of animation and storyboarding.
+Guest lecturer Josh Gunn, founder of {{% resource_link "a6ac44b8-8f51-4e2e-a65e-d0a603af0b7a" "Planet Nutshell" %}} (an animation studio in Cambridge), will begin our discussion on visual storytelling. This will be an informal workshop on the use of animation and storyboarding.
 
 ## {{< anchor "Part_1:_Animation" >}}{{< /anchor >}}Part 1: Animation
 
@@ -32,11 +32,11 @@ Guest lecturer Josh Gunn, founder of [Planet Nutshell](http://planetnutshell.com
 
 ### In-class Media
 
-- storyofstuffproject. "[Story of Stuff (2007, **Official Version**)](https://youtu.be/9GorqroigqM)." April 22, 2009. YouTube.
-- MITK12Videos. "[Why We Fart (Science Out Loud S2 Ep 3)](https://youtu.be/R1kxajH629A)." October 30, 2014. YouTube.
-- MITK12Videos. "[Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)](https://youtu.be/K9mhXBOhuHU)." October 23, 2014. YouTube.
-- MITK12Videos. "[Engineering River Cleanups (Science Out Loud S2 Ep6)](https://youtu.be/oiHNdcdU1pM)." November 24, 2014. YouTube.
-- Planet Nutshell. "[Accelerating Mass: F=ma](https://vimeo.com/94019868)." May 5, 2014. Vimeo. License: CC BY-NC-ND.
+- storyofstuffproject. "{{% resource_link "42f5109e-e08e-449c-936b-20ade62737d6" "Story of Stuff (2007, **Official Version**)" %}}." April 22, 2009. YouTube.
+- MITK12Videos. "{{% resource_link "93e4e0b0-396e-4e95-9a50-7db7b8e78b5e" "Why We Fart (Science Out Loud S2 Ep 3)" %}}." October 30, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "7609d2df-e370-4f0d-b9bf-056808f9b727" "Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)" %}}." October 23, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "31357027-2f34-4329-bd1a-d0f2d3c80e77" "Engineering River Cleanups (Science Out Loud S2 Ep6)" %}}." November 24, 2014. YouTube.
+- Planet Nutshell. "{{% resource_link "c02f0030-6bb4-4bb9-a92e-dfec19698405" "Accelerating Mass: F=ma" %}}." May 5, 2014. Vimeo. License: CC BY-NC-ND.
 
 ## {{< anchor "Part_2:_Storyboarding" >}}{{< /anchor >}}Part 2: Storyboarding
 
@@ -50,10 +50,10 @@ Guest lecturer Josh Gunn, founder of [Planet Nutshell](http://planetnutshell.com
 
 ### In-class Media
 
-- Daniel Garcia. "[Pixar Storyboarding Mini Doc.](https://youtu.be/7LKPVAIcDXY)" March 20, 2013. YouTube.
-- MITK12Videos. "[How To Discover A New Planet (Science Out Loud S1 Ep 1).](https://youtu.be/4RarO2wS14Q)" May 12, 2014. YouTube.
-- MITK12Videos. "[Growing Nanotube Forests (Science Out Loud S1 Ep5)](https://youtu.be/lVnHIjwIByw)." June 9, 2014. YouTube.
-- MITK12Videos. "[Why Do We Have Snot? (MIT Explains)](https://youtu.be/zDo-UG3i75o)." May 14, 2015. YouTube.
+- Daniel Garcia. "{{% resource_link "efaa422b-cebe-4b43-a321-b19cf0d21129" "Pixar Storyboarding Mini Doc." %}}" March 20, 2013. YouTube.
+- MITK12Videos. "{{% resource_link "aa7f68ee-7b23-4b60-a1ee-906ccde4b5c5" "How To Discover A New Planet (Science Out Loud S1 Ep 1)." %}}" May 12, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "f4748ae0-4926-43ce-bced-76a27bbdcc8d" "Growing Nanotube Forests (Science Out Loud S1 Ep5)" %}}." June 9, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "439760c3-2d06-4198-824b-eb802c626c83" "Why Do We Have Snot? (MIT Explains)" %}}." May 14, 2015. YouTube.
 
 ## {{< anchor "Assignments" >}}{{< /anchor >}}Assignments
 

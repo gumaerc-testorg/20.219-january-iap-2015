@@ -15,7 +15,7 @@ uid: 7b1a98fc-328d-4951-fd19-a2109aff7506
 
 [Day 1](#Joshch_s_Day_1_Thoughts) | [Day 3](#Day_3_Reflections) | [Day 4](#Vlog_Day_4) | [Day 5](#Day_5_Reflection) | [Day 7](#Joshch_s_Day_7_Thoughts) | [Day 11](#Day_11_Thoughts)
 
-[_Link to_ _Joshua Cheong's Page on Tumblr_](http://mit219.tumblr.com/tagged/joshch)
+{{% resource_link "c7b7dd2b-a107-4019-ae72-cb588c9ab8a1" "_Link to_ _Joshua Cheong's Page on Tumblr_" %}}
 
 **{{< anchor "Joshch_s_Day_1_Thoughts" >}}{{< /anchor >}}**Day 1 Thoughts
 -------------------------------------------------------------------------
@@ -39,7 +39,7 @@ Looking forward to the next class!
 
 {{< resource ac60cc1d-ef08-910f-8c33-50c168eb6bf4 >}}
 
-This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "205c21b3-2eeb-416a-ae09-5dae0e10137c" "Joshua Cheong" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
@@ -48,7 +48,7 @@ This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMy
 
 {{< resource b7c5609a-c223-bc15-a4cb-0f0b82740ab6 >}}
 
-This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "205c21b3-2eeb-416a-ae09-5dae0e10137c" "Joshua Cheong" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
