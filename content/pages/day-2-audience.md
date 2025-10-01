@@ -20,7 +20,7 @@ uid: 3da88bd7-fc04-b288-6227-11604ae6a159
 
 ## {{< anchor "Overview" >}}{{< /anchor >}}Overview
 
-Today's class begins with a visit with students from Cummings Middle School. The students are here to act as consultants. The MIT students pitch their STEM "nuggets"—ideas for STEM videos—and see which ideas the middle school students find the most interesting. We'll then focus on understanding the educational context of your lay audience, and tackle the question, *How do you create a meaningful, scalable learning experience?* Guest lecturer Natalie Kuldell will facilitate this discussion for the middle portion of class, using [BioBuilder.org](http://biobuilder.org/) as an example. In the final portion of the class, the students will continue to work on and workshop their STEM nuggets (assigned on Day 1), focusing on the scope and the angle of the stories they want to tell.
+Today's class begins with a visit with students from Cummings Middle School. The students are here to act as consultants. The MIT students pitch their STEM "nuggets"—ideas for STEM videos—and see which ideas the middle school students find the most interesting. We'll then focus on understanding the educational context of your lay audience, and tackle the question, *How do you create a meaningful, scalable learning experience?* Guest lecturer Natalie Kuldell will facilitate this discussion for the middle portion of class, using {{% resource_link "01a862a4-5013-4d4a-ab7f-6c214ed3c253" "BioBuilder.org" %}} as an example. In the final portion of the class, the students will continue to work on and workshop their STEM nuggets (assigned on Day 1), focusing on the scope and the angle of the stories they want to tell.
 
 ## {{< anchor "Part_1:_Middle_School_Consultations" >}}{{< /anchor >}}Part 1: Middle School Consultations
 
@@ -43,9 +43,9 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### In-class Media
 
-- BrainPOP. "[BrainPOP—Animated Educational Site for Kids–Science, Social Studies, English, Math, Arts](https://www.brainpop.com/)." Accessed January 6, 2015.
-- BioBuilder.org. "[BioBuilder Animation: iGEM](https://youtu.be/5HXrrN7mV0A)." December 21, 2010. YouTube.
-- BioBuilder.org. "[BioBuilder Animation: Inverter](https://youtu.be/ER2wz3I-2KU)." December 27, 2010. YouTube.
+- BrainPOP. "{{% resource_link "31b22224-cd89-41cc-a574-fa309ed5a52c" "BrainPOP—Animated Educational Site for Kids–Science, Social Studies, English, Math, Arts" %}}." Accessed January 6, 2015.
+- BioBuilder.org. "{{% resource_link "5d7234ea-4f6e-4561-9672-e65e5e982eab" "BioBuilder Animation: iGEM" %}}." December 21, 2010. YouTube.
+- BioBuilder.org. "{{% resource_link "8c69bb41-616e-4998-939c-842ee928165e" "BioBuilder Animation: Inverter" %}}." December 27, 2010. YouTube.
 
 ## {{< anchor "Part_3:_Nugget_Workshop_and_Wrap-up" >}}{{< /anchor >}}Part 3: Nugget Workshop and Wrap-up
 
@@ -60,7 +60,7 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### In-class Media
 
-- MITK12Videos. "[Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)](https://youtu.be/K9mhXBOhuHU)." October 23, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "7609d2df-e370-4f0d-b9bf-056808f9b727" "Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)" %}}." October 23, 2014. YouTube.
 
 ### In-class Document
 

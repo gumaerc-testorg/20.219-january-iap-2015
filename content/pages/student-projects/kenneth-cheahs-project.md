@@ -10,7 +10,7 @@ parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Kenneth Cheah's Project
 uid: a8052e86-91ed-d84e-9df2-c28f872ebec6
 ---
-[*Link to* *Kenneth Cheah's Page on Tumblr*](http://mit219.tumblr.com/tagged/cheahyhk)
+{{% resource_link "68de0312-360d-4003-804a-7175324e31e3" "*Link to* *Kenneth Cheah's Page on Tumblr*" %}}
 
 ## Contents
 
@@ -26,7 +26,7 @@ uid: a8052e86-91ed-d84e-9df2-c28f872ebec6
 
 {{< resource uuid="26391e26-87c9-c57e-242b-c6c91217dd27" >}}
 
-This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "4a565345-69a8-4b66-8f73-4fbbb12fecc2" "Kenneth Cheah" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "e7ab07a5-9bf4-78a1-8a95-a815093ec211" "*Link back to Day 1*" "#Instructor_and_Student_Work" %}}
 
@@ -71,7 +71,7 @@ In the meantime though, I guess we could continue hosting more time traveller pa
 
 {{< resource uuid="36d160ce-b722-3292-84a7-48e38960eaa5" >}}
 
-This video is courtesy of [Kenneth Cheah](http://mit219.tumblr.com/tagged/cheahyhk) on Tumblr and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "68de0312-360d-4003-804a-7175324e31e3" "Kenneth Cheah" %}} on Tumblr and is provided under our Creative Commons license.
 
 Brief summary and trailer or video!
 
@@ -136,7 +136,7 @@ In the meantime though, I guess we could continue hosting more time traveler par
 
 {{< resource uuid="82894e9e-c71d-181a-e866-29015c55e3d7" >}}
 
-This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "4a565345-69a8-4b66-8f73-4fbbb12fecc2" "Kenneth Cheah" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "*Link back to Day 11*" "#Student_Work" %}}
 
@@ -144,10 +144,10 @@ This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf
 
 {{< resource uuid="194439b4-5083-2014-fd9b-e0a93fa3e3f2" >}}
 
-This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "4a565345-69a8-4b66-8f73-4fbbb12fecc2" "Kenneth Cheah" %}} on YouTube and is provided under our Creative Commons license.
 
 Is Time Travel Possible?   
-[Creative Commons: CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/), MIT   
+{{% resource_link "bc133c8e-611a-4858-861d-a527dfb40c23" "Creative Commons: CC BY-NC-SA" %}}, MIT   
 Hosted By: Kenneth Cheah   
 Written By: Kenneth Cheah   
 Additional scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan, students of 20.219
@@ -157,6 +157,6 @@ Director: Kenneth Cheah 
 Editor: Kenneth Cheah   
 Production Assistant: Yuliya and PJ
 
-[See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108827817581/is-time-travel-possible-creative-commons-cc)
+{{% resource_link "df8a1e55-5b2f-4c8c-b90f-b3decee0cc37" "See the full credits on the course Tumblr." %}}
 
 {{% resource_link "2dc5287f-35ed-e833-9c9b-93f4238ac687" "*Link back to Day 13*" "#Student_Work" %}}

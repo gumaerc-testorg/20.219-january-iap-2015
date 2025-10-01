@@ -35,11 +35,11 @@ We will discuss who you are, what brought you to this class, what / who inspires
 
 ### In-class Media: Video Best Practices
 
-- CrazyRussianHacker. "[10 Science Experiments You Can Do at Home Compilation](https://youtu.be/YXfTNcnF9rM)." June 9, 2014. YouTube.
-- SmarterEveryDay. "[Slow Motion Flipping Cat Physics | Smarter Every Day 58](https://youtu.be/RtWbpyjJqrU)." August 8, 2012. YouTube.
-- AsapSCIENCE. "[What If You Stopped Sleeping?](https://youtu.be/nNhDkKAvxFk)" September 22, 2013. YouTube.
-- Vsauce. "[Why Are Things Creepy?](https://youtu.be/PEikGKDVsCc)" July 2, 2013. YouTube.
-- Connections. "[Whodunit?](https://youtu.be/8xSzT0u7G60)" Season 2, Episode no. 4 (first broadcast in 1994).
+- CrazyRussianHacker. "{{% resource_link "0a9bc47e-e485-4430-9892-f0a061829e12" "10 Science Experiments You Can Do at Home Compilation" %}}." June 9, 2014. YouTube.
+- SmarterEveryDay. "{{% resource_link "89838a13-dae4-40cb-b014-c6718c814c12" "Slow Motion Flipping Cat Physics | Smarter Every Day 58" %}}." August 8, 2012. YouTube.
+- AsapSCIENCE. "{{% resource_link "83075570-ccca-4608-a144-760d46743b28" "What If You Stopped Sleeping?" %}}" September 22, 2013. YouTube.
+- Vsauce. "{{% resource_link "2f013669-8227-4174-ad42-ffa495ffe2db" "Why Are Things Creepy?" %}}" July 2, 2013. YouTube.
+- Connections. "{{% resource_link "8d5c0e12-464c-4bad-a132-d3139b6ef4b7" "Whodunit?" %}}" Season 2, Episode no. 4 (first broadcast in 1994).
 
 ### In-class Activity: Educational Video Analysis
 
@@ -47,14 +47,14 @@ Students began watching each of the videos below and recorded how long they cont
 
 ### In-class Media: Communicating Evolution
 
-- Evolution. "[*Bill Nye the Science Guy*](https://www.amazon.com/gp/product/B00MJ1KOYA/ref=dv_dp_ep9)." Season 3, Episode no. 6. (first broadcast on 18 February 1995 by PBS).
+- Evolution. "{{% resource_link "afcbc122-6bad-4c41-8db7-8471b80c70e6" "*Bill Nye the Science Guy*" %}}." Season 3, Episode no. 6. (first broadcast on 18 February 1995 by PBS).
 - Cosmos. "One Voice in the Cosmic Fugue." Episode no. 2 (first broadcast on 5 October 1980).
-- SciShow. "[World's Most Asked Questions: What is the Meaning of Life?](https://youtu.be/X28v7auNius)" October 21, 2014. YouTube.
-- Veritasium. "[Forest of Friendship, Baggage Carousel of Jerks](https://youtu.be/-zShHRkwSoI)." April 2, 2014. YouTube.
-- TED-Ed. "[Five Fingers of Evolution–Paul Andersen](https://youtu.be/5NdMnlt2keE)." May 7, 2012. YouTube.
-- AsapSCIENCE. "[The Evolution of Life on Earth](https://youtu.be/H2_6cqa2cP4)." November 28, 2012. YouTube.
-- Khan Academy. "[Introduction to Evolution and Natural Selection](https://youtu.be/GcjgWov7mTM)." September 21, 2009. YouTube.
-- MIT OpenCourseWare. "[Lec 31 | MIT 7.0014 Introductory Biology, Spring 2005](https://youtu.be/LBR4pEC7kwU)." February 8, 2008. YouTube.
+- SciShow. "{{% resource_link "a319344c-f10b-4f4a-9073-ce657effd1d0" "World's Most Asked Questions: What is the Meaning of Life?" %}}" October 21, 2014. YouTube.
+- Veritasium. "{{% resource_link "256d0735-e832-4a83-8359-544becad9ba3" "Forest of Friendship, Baggage Carousel of Jerks" %}}." April 2, 2014. YouTube.
+- TED-Ed. "{{% resource_link "735d7139-4978-47e1-bad8-8942fce648ac" "Five Fingers of Evolution–Paul Andersen" %}}." May 7, 2012. YouTube.
+- AsapSCIENCE. "{{% resource_link "bbb13114-1d3a-4558-819c-28d5d373e8c0" "The Evolution of Life on Earth" %}}." November 28, 2012. YouTube.
+- Khan Academy. "{{% resource_link "ee04fc87-49d0-4ab4-8338-c17638732c3f" "Introduction to Evolution and Natural Selection" %}}." September 21, 2009. YouTube.
+- MIT OpenCourseWare. "{{% resource_link "1e28da2a-1778-4e3b-b233-9e675aa0485e" "Lec 31 | MIT 7.0014 Introductory Biology, Spring 2005" %}}." February 8, 2008. YouTube.
 
 ## {{< anchor "Part_2:_Visual_Storytelling" >}}{{< /anchor >}}Part 2: Visual Storytelling
 
@@ -77,8 +77,8 @@ Students began watching each of the videos below and recorded how long they cont
 
 ### In-class Media: Stem Pitch
 
-- Time. "[10 Questions for Neil deGrasse Tyson.](https://youtu.be/wiOwqDmacJo)" June 27, 2008. YouTube.
-- SciShow. "[3 Amazing Photosynthetic Animals](https://youtu.be/AcX2n1rC4W4)." November 15, 2012. YouTube.
+- Time. "{{% resource_link "9b1a8871-5953-4b14-b2a3-8c88672c01a2" "10 Questions for Neil deGrasse Tyson." %}}" June 27, 2008. YouTube.
+- SciShow. "{{% resource_link "9d9f1033-d978-439a-9e48-b5d5f3a33e2d" "3 Amazing Photosynthetic Animals" %}}." November 15, 2012. YouTube.
 
 ## {{< anchor "Assignments" >}}{{< /anchor >}}Assignments
 

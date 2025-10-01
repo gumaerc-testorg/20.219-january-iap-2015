@@ -19,7 +19,7 @@ uid: 91a83a5a-9923-d001-da64-fbbcd37341cb
 
 ## {{< anchor "Overview__Day_11_" >}}{{< /anchor >}}Overview (Day 11)
 
-We'll screen everyone's rough cuts to the class for feedback and critiques. Your peers will be using [Google Docs](https://www.google.com/docs/about/) to provide feedback. We will randomly assign you to annotate three classmates' projects during the second half of class.
+We'll screen everyone's rough cuts to the class for feedback and critiques. Your peers will be using {{% resource_link "ba41dcd6-4783-4184-bf9c-40e2eca6133d" "Google Docs" %}} to provide feedback. We will randomly assign you to annotate three classmates' projects during the second half of class.
 
 ## {{< anchor "Screening" >}}{{< /anchor >}}Screening
 
